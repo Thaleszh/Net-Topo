@@ -235,9 +235,9 @@ para a obtenção do Grau de Bacharel.}
 % resumo em português
 \begin{resumo}
 
-Balanceadores de carga dinâmicos e distribuídos foram desenvolvidos e utilizados devido a seu grande potencial de escalabilidade dentro de sistemas, característica que prevalece sobre outros balanceadores de carga centralizados. Para reduzir o tempo de balanceamento estes é realizado uma distribuição de tarefas  visando a redução de custos de comunicação e custos de migração, geralmente utilizando uma estimativa simples de \textit{hops per byte}. Poucos destes trabalhos consideram custos mais elaborados da rede, simplificando e ignorando uma parte do problema de comunicação, que pode ter custos advindos da toplogia da rede.
+A repartição de trabalho em ambientes distribuídos é um problema a ser tratado, pois aplicações como simulações sísmicas, dinâmica molecular e previsão de tempo possuem comportamento dinâmico, o que gera desbalanceamento de cargas de trabalho no sistema. Uma das maneiras de resolver esse problema é a utilização de balanceadores de carga dinâmicos, cuja função é reduzir o tempo de execução da aplicação através de uma distribuição de tarefas mais homogênea. A execução destes balanceadores gera um sobrecusto relacionado à comunicação para o balanceamento e à migração de tarefas. Poucos balanceadores consideram a topologia do sistema de maneira dinâmica, devido à dificuldade do balanceador de acessar as informações completas sobre a rede e de levá-las em consideração para o remapeamento de tarefas.
 
-Este trabalho visa a implementação de uma abstração da topologia de rede, facilitando o acesso a métricas mais complexas da rede e a utilização destes em aplicações distribuídas. Por cima desta abstração será implementado um balanceador de carga que utiliza a informação de custos heterogêneos de comunicação na rede e consegue reduzir o sobrecusto de comunicação através do uso de partes mais velozes da rede. Este balanceador será comparado com outros balanceadores de carga que não utilizam desta informação, verificando sua efetividade em cenários heterogêneos e seu sobrecusto em cenários homogêneos.
+Este trabalho visa a implementação de uma abstração da topologia de rede, facilitando o acesso à métricas mais complexas da rede e a utilização destas em aplicações distribuídas. Por cima dessa abstração, será implementado uma estratégia de balanceamento de carga que utilizará a informação de custos heterogêneos de comunicação na rede, reduzindo o sobrecusto de comunicação através do uso de partes mais velozes da rede. Este balanceador será comparado com outros balanceadores de carga que não utilizam desta informação, verificando sua efetividade em cenários heterogêneos e seu sobrecusto em cenários homogêneos.
 
 
 %  Segundo a \citeonline[3.1-3.2]{NBR6028:2003}, o resumo deve ressaltar o
@@ -332,25 +332,25 @@ Este capítulo apresenta o tema de pesquisa do Trabalho de Conclusão de Curso, 
 \section{Introdução}
 \label{sec:introducao}
 
-Novas aplicações surgiram no âmbito científico e industrial, incluindo mais detalhes, tendo maior precisão e/ou tendo uma complexidade mais elevada. Com isto há uma demanda cada vez maior por velocidade e poder de processamento ~\cite{pilla-thesis}. Uma das maneiras utilizadas para suprir esta demanda é com computação paralela, que alcança a solução destes problemas através da repartição de trabalho entre unidades de processamento (\textit{Processing Elements} ou PE's) e a execução destas parcelas simultâneamente. Este método permite que um aumento no número de PE’s leve a uma redução no tempo da aplicação, até certo ponto. A melhoria no tempo é limitada pela parcela não paralelizável do programa e pelos recursos do sistema ~\cite{gustafson}. 
+Aplicações no âmbito científico e industrial incluem cada vez mais detalhes, demandam precisão ainda maior e/ou possuem uma complexidade muito elevada, criando uma demanda cada vez maior por velocidade e poder de processamento~\cite{pilla-thesis}. Uma das maneiras utilizadas para suprir esta demanda é com computação paralela, que alcança a solução destes problemas através da repartição de trabalho entre unidades de processamento (\textit{Processing Elements} ou PE's) e a execução destas parcelas simultâneamente. Este método permite que um aumento no número de PE’s leve a uma redução no tempo da aplicação. Contudo a melhoria no tempo é limitada pela parcela não paralelizável do programa e pelos recursos do sistema~\cite{amdahl}. 
 
-Supercomputadores que utilizam da computação paralela foram criados para alcançar processamento massivo e por décadas estas máquinas cresceram. Elas alcançaram um ponto onde se percebeu que velocidade e poder de processamento não eram as métricas adequadas para desempenho destas máquinas. Estes computadores consomem uma quantidade tremenda de energia e dissipam muito desta energia, se tornando grandes geradores de calor ~\cite{green500}. A geração de calor excessiva é um problema em sistema pois temperaturas altas aumentam sua chance de falha e tempo fora de operação. Como contramedida é necessário a implantação de um sistema eficiente de redução de temperatura, que traz outro grande sobrecusto de energia. Com estes problemas em mente a métrica pensada para estas máquinas é a eficiência de processamento, que leva em conta a energia gasta no sistema, a velocidade e o poder de processamento ~\cite{efficient-metric}.
+Supercomputadores que utilizam da computação paralela foram criados para alcançar processamento massivo e por décadas estas máquinas cresceram. Elas alcançaram um ponto onde se percebeu que velocidade e poder de processamento não eram as métricas adequadas para desempenho destas máquinas. Estes computadores consomem uma quantidade tremenda de energia e dissipam muito desta energia, se tornando grandes geradores de calor~\cite{green500}. A geração de calor excessiva é um problema em sistema pois temperaturas altas aumentam sua chance de falha e tempo fora de operação. Como contramedida é necessário a implantação de um sistema eficiente de redução de temperatura, que traz outro grande sobrecusto de energia. Com estes problemas em mente a métrica pensada para estas máquinas é a eficiência de processamento, que leva em conta a energia gasta no sistema, a velocidade e o poder de processamento~\cite{efficient-metric}.
 
-Uma das opções para obter eficiência de processamento é o uso de um número maior de núcleos menos potentes ~\cite{snir-encyclopedia}. A organização de um número tão grande de PE’s acaba levando a um sistema com memória distribuída, que operam com o uso de diversas máquinas e utilizam alguma rede para a interligação e comunicação. A escolha destes sistemas é devida ao seu custo baixo e a sua grande escalabilidade através do aumento no número de máquinas. O contraponto destas vantagens é o desenvolvimento destas aplicações, que se torna mais complexo pois têm de levar em consideração fatores impactantes como sincronização, dependência e distribuição de dados, balanceamento de carga e custos de comunicação ~\cite{pilla-thesis}.
+Uma das opções para obter eficiência de processamento é o uso de um número maior de núcleos menos potentes~\cite{snir-encyclopedia}. A organização de um número tão grande de PE’s acaba levando a um sistema com memória distribuída, que operam com o uso de diversas máquinas e utilizam alguma rede para a interligação e comunicação. A escolha destes sistemas é devida ao seu custo baixo e a sua grande escalabilidade através do aumento no número de máquinas. O contraponto destas vantagens é o desenvolvimento destas aplicações, que se torna mais complexo pois têm de levar em consideração fatores impactantes como sincronização, dependência e distribuição de dados, balanceamento de carga e custos de comunicação~\cite{pilla-thesis}.
 
-A repartição de trabalho em ambientes distribuídos é um problema a ser tratado, pois aplicações como simulações sísmicas ~\cite{dupros} ~\cite{tesser}, dinâmica molecular ~\cite{bathele-kale} ou previsão de tempo ~\cite{rodrigues} possuem comportamento imprevisível e cargas que podem mudar ao longo da execução da aplicação, levando um mapeamento de tarefas inicial ótimo a um estado desbalanceado do sistema, resultando em uma sobrecarga de alguns PE’s. Esta sobrecarga resulta em um atraso geral no sistema, pois estes PE’s sobrecarregados acabam determinando o caminho crítico da aplicação. Para consertar tais desvios pode-se usar um balanceador de carga (\textit{Load Balancer} ou LB) dinâmico cujo trabalho é remapear as tarefas entre os PE’s em certos momentos da aplicação, buscando um estado mais balanceado do sistema. Este rearranjo encurta o caminho crítico e leva a uma redução do tempo da aplicação.
+A repartição de trabalho em ambientes distribuídos é um problema a ser tratado, pois aplicações como simulações sísmicas~\cite{dupros}~\cite{tesser}, dinâmica molecular~\cite{bathele-kale} ou previsão de tempo~\cite{rodrigues} possuem comportamento dinâmico, ou seja suas cargas mudam ao longo da execução da aplicação, levando um mapeamento homogêneo de tarefas a um estado desbalanceado do sistema, resultando em uma subcarga de alguns PE’s. Esta subcarga resulta no sub-uso de processadores e na possibilidade de alguns PE's não terem trabalho para executar, reduzindo o desempenho da aplicação. Para consertar tais desvios pode-se usar um balanceador de carga (\textit{Load Balancer} ou LB) dinâmico, cujo trabalho é remapear as tarefas entre os PE’s, buscando um estado mais balanceado do sistema. Este rearranjo garante a utilização dos PE's de maneira mais homogênea e leva a uma redução do tempo da aplicação.
 
-Os PE’s em sistemas distribuídos se comunicam usando diversas topologias de rede, como malhas, tori ou \textit{fat-trees}. Os PE's utilizam de \textit{links} de conexão da rede para efetuar sua comunicação. O compartilhamento destes \textit{links} pode resultar num congestionamento da rede devido ao sobreuso de alguns \textit{links} ~\cite{bathele-encyclopedia}. Outro fator é a possibilidade da rede não ter links com custos iguais comunicação ~\cite{dragonfly}, tendo variações de latencia e velocidade em partes distintas da rede. O impacto disto é que os caminhos menos custosos entre PE's da rede nem sempre são os menores em questão de \textit{links} percorridos. 
+Os PE’s em sistemas distribuídos se comunicam usando diversas topologias de rede, como malhas, tori ou \textit{fat-trees}. Os PE's utilizam de \textit{links} de conexão da rede para efetuar sua comunicação. O compartilhamento destes pode resultar num congestionamento da rede devido ao sobreuso de alguns \textit{links}~\cite{bathele-encyclopedia}. Outro fator é a possibilidade da rede não ter ligações com custos iguais comunicação~\cite{dragonfly}, tendo variações de latência e velocidade em partes distintas da rede. O impacto disto é que os caminhos menos custosos entre PE's da rede nem sempre são os menores em questão de \textit{links} percorridos. 
 
-Os caminhos utilizados dentro de uma rede têm impacto no tempo de execução de um programa, pois caminhos mais custosos afetam o sobrecusto de comunicação. É possível que um LB em sistemas distribuídos leve em conta os custos de comunicação entre os PE's e os custos de movimentação destas tarefas dentro da rede. Tal abordagem pode levar a uma redução do sobrecusto de comunicação, evitando a troca de informação e tarefas através de partes lentas da rede.
+Os caminhos utilizados dentro de uma rede têm impacto no tempo de execução de um programa, pois caminhos mais lentos afetam o sobrecusto de comunicação. É possível que um LB leve em conta os custos de comunicação entre os PE's e os custos de movimentação destas tarefas dentro da rede. Tal abordagem pode levar a uma redução do custo de comunicação, evitando a troca de informação e tarefas através de partes lentas da rede.
 
 \section{Objetivos}
 \label{sec:objetivos}
 
-Os objetivos deste trabalho são de desenvolver uma abstração da topologia de rede, facilitando seu uso para outras aplicações e propor uma estratégia de balanceamento de carga ciente da topologia de rede. Para este fim, seguem os objetivos específicos:
+Os objetivos deste trabalho são de desenvolver uma abstração da topologia de rede, facilitando seu uso para outras aplicações e propor uma estratégia de balanceamento de carga ciente desta abstração. Para este fim, seguem os objetivos específicos:
 
 \begin{enumerate}
-\item Desenvolver um método de abstração da topologia de rede para a plataforma Charm++;
+\item Desenvolver um método de abstração dinâmica da topologia de rede para a plataforma Charm++~\cite{website:CHARM};
 \item  Desenvolver um LB que utilize esta base, visando a otimização para redes com custos de hops heterogêneos;
 \item Testar e comparar este balanceador com outros LB's, dentro de sistemas com topologia de rede com custos de hop heterogêneo.
 \end{enumerate}
@@ -361,13 +361,15 @@ Os objetivos deste trabalho são de desenvolver uma abstração da topologia de 
 \item Um computador estará disponível para realização do trabalho; 
 \item O orientador terá disponibilidade para reuniões periódicas;
 \item Disponibilidade de energia e internet.
+\item Acesso a uma máquina com uma topologia diferenciada para a realização dos testes.
 \end{itemize}
 
 \textbf{Marcos:}
 \begin{itemize}
  
 \item Entrega do resumo em TCC I: 4ª semana de Novembro/2018; 
-\item Entrega do projeto em fase inicial: 4ª semana de Novembro/2018;
+\item Entrega da abstração da topologia: 4ª semana de Novembro/2018;
+\item Entrega da implementação do balanceamento de carga: 4ª semana de Abril/2019;
 \item Entrega da primeira versão da monografia em TCC II: 2ª semana de Maio/2019; 
 \item Defesa da monografia: 2ª semana de Junho/2019;
 \item Entrega da versão final da monografia em TCC II: 4ª semana de Junho/2019.
@@ -377,6 +379,7 @@ Os objetivos deste trabalho são de desenvolver uma abstração da topologia de 
 \begin{itemize}
 \item Aprovação da banca avaliadora;
 \item Aprovação do orientador;
+\item Aprovação do coorientador;
 \item Conformidade da monografia com as normas definidas pela instituição;
 \item Prazos cumpridos.
 \end{itemize}
@@ -386,13 +389,13 @@ Os objetivos deste trabalho são de desenvolver uma abstração da topologia de 
 \label{sec:metodologia}
 
  
-O ínicio do trabalho terá duas partes: uma de cunho teórico, onde será estudada a base e o estado da arte para o projeto, e outra mais prática, que envolve o aprendizado do \textit{framework} Charm++. A primeira parcela será constituída por um estudo sobre topologia de rede e balanceamento de carga em aplicações paralelas, criando uma base para o projeto. A segunda parte terá foco no entendimento da plataforma e suas nuâncias, visando facilitar a implementação da abstração.
+O ínicio do trabalho terá duas partes: uma de cunho teórico, onde será estudada a base e o estado da arte para o projeto, e outra mais prática, que envolve o aprendizado do \textit{framework} Charm++. A primeira parcela será constituída por um estudo sobre topologia de rede e balanceamento de carga em aplicações paralelas, criando uma base para o projeto. A segunda parte terá foco no entendimento da plataforma e suas nuances, visando facilitar a implementação da abstração.
 
-A criação da abstração da topologia de rede utilizará a linguagem de programação C++ e será realizada dentro do \textit{framework} de programação paralela Charm++. A plataforma será utilizada pois têm uma base sólida para a criação, utilização e teste de balanceadores de carga e outras aplicações paralelas ~\cite{pilla:CHARM}. Além disto Charm++ carece de uma abstração elaborada da topologia de rede, proposta neste trabalho.
+A criação da abstração da topologia de rede utilizará a linguagem de programação C++ e será realizada dentro do \textit{framework} de programação paralela Charm++. A plataforma será utilizada pois têm uma base sólida para a criação, utilização e teste de balanceadores de carga e outras aplicações paralelas~\cite{pilla:CHARM}. Além disto Charm++ contém somente abstrações de topologia fixas, carecendo de uma abstração elaborada da topologia de rede, proposta neste trabalho.
 
-Após a criação e teste da abstração da topologia de rede, será desenvolvido um LB que utiliza desta abstração para reduzir o custo de comunicação dentro de uma rede com custos de comunicação heterogêneos. O balanceador também será realizado em C++ na plataforma Charm++. Seŕa verificado a execução deste através de testes de funcionamento e testes de desempenho.
+Após a criação e teste da abstração da topologia de rede, será desenvolvido um LB que utiliza desta abstração para reduzir o custo de comunicação dentro de uma rede com custos de comunicação heterogêneos. O balanceador também será realizado em C++ na plataforma Charm++. Serão executados testes de funcionamento e avaliação de desempenho.
 
-Na última etapa será realizado uma análise de desempenho do LB em comparação com outros LB's, verificando sua efetividade e seu sobrecusto como balanceador de carga. Para tal, será realizado testes utilizando o benchmark LeanMD, frequentemente usado em avaliações de balanceamento de carga. O teste será realizado em um cenário onde a topologia tem custos de comunicação heterogêneos e outra com custos homogêneos. Será também realizado um teste para verificar o sobrecusto do LB em um cenário onde não há benefícios em balanceamento de carga.
+Na última etapa será realizado uma análise de desempenho do LB em comparação com outros LB's, verificando sua efetividade e seu sobrecusto como balanceador de carga. Para tal, serão realizados experimentos utilizando algum \textit{benchmark} que simule aplicações reais. O teste será realizado em um cenário onde a topologia tem custos de comunicação heterogêneos e outra com custos homogêneos. Também será realizado um teste para verificar o sobrecusto do LB em um cenário onde não há benefícios em balanceamento de carga.
 
 % ----------------------------------------------------------
 % PARTE - preparação da pesquisa
@@ -644,8 +647,10 @@ A Figura~\ref{fig:cronograma} apresenta o cronograma previsto para a realizaçã
         
          \makecell[l]{Perda de arquivos} & Baixa & Alto & Média & Mitigar &\makecell[l]{ Realizar backups \\ com frequencia \\ semanal e utilizar \\ armazenamento \\ em nuvem.}  \\ \hline
          \makecell[l]{Alteração no cronograma} & Baixa & Alto & Média & Aceitar &\makecell[l]{ - }  \\ \hline
-         \makecell[l]{Problemas de saúde \\ do Orientando} & Média & Baixo & Baixa & Aceitar & - \\ \hline
+         \makecell[l]{Alteração no escopo} & Baixa & Alto & Média & Aceitar &\makecell[l]{ - }  \\ \hline
+         \makecell[l]{Problemas de saúde \\ do Orientando} & Média & Baixo & Baixa & Aceitar &\makecell[l]{ - } \\ \hline
          \makecell[l]{Indisponibilidade do \\ Orientador/Coorientador} & Média & Médio & Média & Aceitar & -\\ \hline
+         \makecell[l]{Indisponibilidade da \\ plataforma para testes} & Média & Alto & Alta & Mitigar &\makecell[l] {Contato com  \\ responsáveis \\ pela plataforma \\ e agendamento \\ de execuções.} \\ \hline
     \end{tabular}
 }
 \end{center}
