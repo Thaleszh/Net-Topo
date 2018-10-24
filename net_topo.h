@@ -6,30 +6,15 @@ namespace net_topo {
 
 // edge for topology
 struct edge {
-	vertex pe1;
-	vertex pe2;
+	vertex v1;
+	vertex v2;
 	int dist = -1; 	// inexistent by default
 
 }
 
-// vertex superstruct for machine elements
+// vertex superstruct
 struct vertex {
 	int depth;
-	vertex(int _depth) : _depth(depth) {}
-}
-
-// machine root node structure
-struct node : vertex {
-	int node_id;
-	int ncores;
-	cores[] cores;
-}
-
-// machine core structure
-struct core : vertex {
-	int core_id;
-	int npes;
-	pe[] pes;
 }
 
 // Processing Element struct
@@ -44,34 +29,43 @@ private:
 	int npe; 				// number of PEs
 
 public:
+	// init, to be extended with diferent forms of initialization
+	virtual init() {}
+
 	// returns id of caller's PE, for now let's centralize
 	// int my_pe() {}
 
 	// returns the id of the pe where the especified job is allocated
-	int my_pe(job job) {}
+	// job needs to be found somewhere
+	int my_pe(int job_id) {}
 
 	// returns normalized minimal distance between 2 PEs
-	float dist(vertex pe1, vertex pe2) {}
+	float dist(vertex v1, vertex v2) {}
 
 	// returns hop count between 2 PEs
 	// hop count on same node is 0
-	int hop_count(peid pe1, peid pe2) {}
+	int hop_count(pe_id pe1, pei_d pe2) {}
 
 	// returns location based on id of PE and it's depth
-	int my_location(peid id, depth_t depth) {}
+	int my_location(pe_id id, depth_t depth) {}
 
 	// ? returns path of minimal distance between 2 PEs
-	vertex[] path(peid pe1, peid pe2) {}
+	vertex[] path(pe_id pe1, pe_id pe2) {}
 
 	// ? returns normalized distance of a path
 	float dist(vertex[] path) {}
 
 	// returns a list of neighbors of a given PE
 	// neighbors = hop count == 0 or lowest distances?
-	node[] neighbors(pe) {}
+	vertex[] neighbors(pe_id pe) {}
 
-	// returns true if 2 PEs are on same physical node
-	bool same_node() {}
+	// ? returns how close a pe is from another
+	// similar a hwloc_get_common_ancestor / acmp
+	// 0 = not on same machine
+	// 1 = on same machine
+	// 2 = on same node
+	// 3 = on same core
+	int proximity(pe_id pe1, pe_id pe2) {}
 
 	// returns number of PEs of the topology
 	int num_pes() {}
@@ -79,11 +73,21 @@ public:
 	// prints the system topology
 	void print_topology() {}
 
+	// reads a topology from a file, using it instead of finding it
+	// Can be translated to a init with a file as arg?
+	void read_topology() {}
+
+	// saves topology on a file
+	// format? tilfe type? Hwloc uses xml
+	void save_topology() {}
+
 	// calculates time of a normalized distance, in microseconds
 	int unormalize(float dist) {}
 
 }
-}
+
+} // end of namespace
+
 // Ideas:
 /* hwloc grouping by distance
  *
