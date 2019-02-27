@@ -25,8 +25,11 @@ struct pe : vertex {
 
 class topology {
 private:
-	edge[] topology; 		// structure with topology
+	edge[] topology; 		// structure with high level topology
+	root[] trees;			// structure with machine topology
 	int npe; 				// number of PEs
+	upper_matrix memoi;		// memoization struct
+	CSC<int> distances;		// distance storage structure
 
 public:
 	// init, to be extended with diferent forms of initialization
@@ -41,14 +44,26 @@ public:
 
 	// returns normalized minimal distance between 2 PEs
 	// 0.1 for same node
-	float dist(vertex v1, vertex v2) {}
+	float dist(vertex v1, vertex v2) {
+	// check if on same node
+	// check if on memoi structure
+	// find machine nodes
+	// run distance on CSC
+	}
 
 	// returns hop count between 2 PEs
 	// hop count on same node is 0
-	int hop_count(pe_id pe1, pei_d pe2) {}
+	int hop_count(pe_id pe1, pei_d pe2) {
+	// check if on same node
+	// check if on memoi structure
+	// find machine nodes
+	// run distance on CSC
+	}
 
 	// returns location based on id of PE and it's depth
-	int my_location(pe_id id, depth_t depth) {}
+	int my_location(pe_id id, depth_t depth) {
+	
+	}
 
 	// ? returns path of minimal distance between 2 PEs
 	vertex[] path(pe_id pe1, pe_id pe2) {}
@@ -61,7 +76,7 @@ public:
 	vertex[] neighbors(pe_id pe) {}
 
 	// ? returns how close a pe is from another
-	// similar a hwloc_get_common_ancestor / acmp
+	// similar to a hwloc_get_common_ancestor / acmp
 	// 0 = not on same machine
 	// 1 = on same machine
 	// 2 = on same node
