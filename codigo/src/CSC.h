@@ -5,6 +5,13 @@
 #include <stdlib.h>
 
 
+struct node {
+	int index;
+	int ncost;
+
+	node(int in, int cost) : index(in), ncost(cost) {}
+}
+
 class csc {
 protected:
 	// note: current version is static, cannot be incremented
@@ -91,14 +98,14 @@ public:
 	}
 
 	// get value at position [i][j]
-	int get(int i, int j) {
-		// does not verify if j,i < _nodes, but only returns -1
+	int get(int i, int j) 
+{		// does not verify if j,i < _nodes, but only returns -1
 		// just storing the upper matrix, so if i < j, we swap assuming symetry
-		/*if(i > j) {
-			temp = i;
-			i = j;
-			j = temp;
-		} */
+		// if(i > j) {
+		// 	temp = i;
+		// 	i = j;
+		// 	j = temp;
+		// } 
 		// obtaining value
 		pos = index[j]; 						// getting index of node's conections
 		limit = index[j+1]; 					// checking boundary
@@ -111,34 +118,60 @@ public:
 	// returns the minimal path between a and b, doing graph traversal
 	int[] distance(int a, int b) {
 		if (a == b) return 0;
-		unordered_map<int, int> nodes;
+		map<int, int> nodes;
 		set<int> visited;
-		set<int> unvisited; // needs to be turned into some ordered list
-		int current = a;
-		int cost, new_node, k, ncost = 0;
+
+		// proper function for node comparison
+		auto compare = [](const node&a, const node&b) {
+			if (a.index == b.index) return false;
+			return a.ncost < b.ncost;
+		};
+		set<node, decltype(compare)> unvisited; //make ordered list to make work		
+		
+		node current = a;
+		// inserts a into nodes
+		nodes[a] = 0;
+		unvisited.insert(a);
+
+		// initializations
+		node new_node;
+		int cost, k = 0;
 		// can add distance for any node from memoization
 		while !(unvisited.empty()) {
 			
 			// iterates current node, seeking new nodes and their cost
-			pos = index[a]; 			// getting index of node's conections
-			limit = index[a+1]; 		// checking boundary
+			pos = index[current.index]; 			// getting index of node's conections
+			limit = index[current.index+1]; 		// checking boundary
 			k = pos; 					// starts at first element of edge list
 
 			while (k < limit) {
-				new_node = value[k];
-				ncost = cost + value[k];
+				new_node = new node(value[k], cost + value[k]);
 				// if it is first time finding node
-				if nodes[new_node] == NULL {
+				if nodes[new_node.index] == NULL {
 					unvisited.insert(new_node);
-					nodes[new_node] = ncost;
+					nodes[new_node] = new_node.ncost;
+				} else {
+					// if the cost is lower
+					if nodes[new_node.index] > new_node.ncost {
+						// since comparison returns they are equal, removing and adding works
+						unvisited.erase(new_node);	
+						unvisited.insert(new_node);
+						nodes[new_node.index] = ncost;
+					}
+				}
 				k++;
 			}
-			visited.insert(current);
+			visited.insert(current.index);
+			// pops set
 			unvisited.erase(current);
-			// find next current based on ncost
-			cost = nodes[current];
-			if (current == b) break; 	// if we reached it, its done
+			current = *unvisited.begin(); 
+
+
+			if (current.index == b) break; 	// if we reached it, its done
 		}
+		// now to the path, distance is current.ncost
+
+		// memoization of all costs on visited
 
 	}
 
