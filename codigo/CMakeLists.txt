@@ -1,16 +1,19 @@
-cmake_minimum_required (VERSION 2.8)
+cmake_minimum_required (VERSION 3.1)
 project (net_topo)
 
 include_directories(include)
+
 
 # wildcard sources
 file(GLOB SOURCES "src/*.cpp")
 
 
 # GTest
-#ADD_SUBDIRECTORY (gtest-1.6.0)
-#enable_testing()
-#include_directories(${gtest_SOURCE_DIR}/include ${gtest_SOURCE_DIR})
+find_package(GTest REQUIRED)
+find_package(Threads REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS})
+enable_testing()
+
 
 # flags
 set(CMAKE_CXX_STANDARD 14)
@@ -19,7 +22,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_library(net_topo ${SOURCES})
 
-#install(TARGETS net_topo DESTINATION /usr/lib)
-#add_executable( runUnitTests tests.cc )
-#target_link_libraries(runUnitTests gtest gtest_main)
-#add_test( runUnitTests runUnitTests )
+install(TARGETS net_topo DESTINATION /usr/lib)
+add_executable( runUnitTests tests/tests.cc )
+target_link_libraries(runUnitTests gtest gtest_main net_topo pthread)
+add_test( runUnitTests runUnitTests )

@@ -7,9 +7,9 @@
 struct node {
 	int index;
 	int ncost;
-	const node * parent;
+	int parent;
 
-	node(int in, int cost, const node * creator) : index(in), ncost(cost), parent(creator) {}
+	node(int in, int cost, int creator) : index(in), ncost(cost), parent(creator) {}
 
 /*	bool operator<(const node b) {
 		if (index == b.index) return false;
@@ -57,7 +57,7 @@ public:
 
 	// returns the minimal path between a and b, doing djisktra
 	// a is not included into the path
-	std::list<const node*> path_find(int a, int b);
+	std::list<node>* path_find(int a, int b);
 
 	int distance(int a, int b);
 
