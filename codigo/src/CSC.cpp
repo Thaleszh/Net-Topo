@@ -1,4 +1,4 @@
-/*	Author: Thales A. Zirbel Hubner <thaleszh@gmail.com>
+/*	Author: Thales source. Zirbel Hubner <thaleszh@gmail.com>
  *	Created: 04/12/2018
  */
 
@@ -30,212 +30,251 @@ csc::~csc() {
 	delete[] value;
 }
 
-// creates index for the node j, being nlinks the number of links it has
-void csc::create_index(int j, int nlinks) {
-	if (j < _nodes) {
+
+// #include "CSC.h"
+// #include <stdlib.h>
+// #include <stdio.h> //temporary for debug
+// #include <map>
+// #include <set>
+// #include <unordered_set>
+
+
+// csc::csc(int nlinks, int nodes) : _nlinks(nlinks), _nodes(nodes) {
+// 	line = new std::vector<int>(2 * nlinks, -1);
+// 	value = new std::vector<int>(2 * nlinks, -1); // duplication needed
+// 	index = new std::vector<int>(_nodes + 1, -1);
+// }
+
+// csc::~csc() {
+// 	delete index;
+// 	delete line;
+// 	delete value;
+// }
+
+// creates index for the node column, being nlinks the number of links it has
+void csc::create_index(int column, int nlinks) {
+	if (column < _nodes) {
 		int k = 0;
-		if (j > 0) k = index[j];
-		index[j+1] = k + nlinks; // gotta check if it~s not one more or lower
-		// printf("Created index %d as %d, its limit is %d \n", j, index[j], index[j+1]);
+		if (column > 0) k = index[column];
+		index[column+1] = k + nlinks; // gotta check if it~s not one more or lower
+		// printf("Created index %d as %d, its limit is %d \n", column, index[column], index[column+1]);
 	}
 }
 
 // creates line position and sets, it assumes there is no limit
-void csc::create(int i, int j, int val) {
-	//if (j > _nodes || i > _nodes) return; 		// inexistant indexes
-	if (i == j) return; 						// self not stored, assumed 0
+void csc::create(int _line, int column, int val) {
+	//if (column > _nodes || line > _nodes) return; 		// inexistant indexes
+	if (_line == column) return; 						// self not stored, assumed 0
 	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space
 
-	int pos = index[j];
-	int limit = index[j+1];
-	int k = pos;
-	while (line[k] != -1 && k < limit) {
-		k++;
+	int position = index[column];
+	int limit = index[column+1];
+	while (line[position] != -1 && position < limit) {
+		position++;
 	}
-	line[k] = i;
-	int before = value[k];
-	value[k] = val;
-	// printf("Created value at %d as %d. i= %d, j= %d. its limit is %d \n", value[k], index[j], i, j, index[j+1]);
+	line[position] = _line;
+	int before = value[position];
+	value[position] = val;
+	// printf("Created value at %d as %d. line= %d, column= %d. its limit is %d \n", value[k], index[column], line, column, index[column+1]);
 	if (before != -1) {
-		// printf("Value destroyed at %d!! \n More info: Value before= %d, Value now= %d, i= %d, j= %d, limit= %d, pos= %d, k= %d \n", index[j], before, value[k], i, j, index[j+1], pos, k);
+		// printf("Value destroyed at %d!! \n More info: Value before= %d, Value now= %d, line= %d, column= %d, limit= %d, position= %d, k= %d \n", index[column], before, value[k], line, column, index[column+1], position, k);
 	}
 }
 
-// insert at position [i][j]
-void csc::set(int i, int j, int val) {
-	if (i == j) return;
-	// store time
-	int pos = index[j];
-	int limit = index[j+1];
-	int k = pos;
-	while (line[k] != i && k < limit) k++;
-	if (k == limit) return; // cannot change what doesnt exist
-	value[k] = val;
+// insert at position [line][column]
+void csc::set(int _line, int column, int val) {
+	if (_line == column) return;
+	int position = index[column];				// getting index of node's connections
+	int limit = index[column+1];			// checking boundary
+	while (line[position] != _line && position < limit) position++;
+	if (position == limit) return;		// cannot change what doesnt exist
+	value[position] = val;
 
 }
 
-// get value at position [i][j]
-int csc::get(int i, int j) {		
-	// does not verify if j,i < _nodes, but only returns -1
-	// obtaining value
-	if (i == j) return 0;
-	int pos = index[j]; 					// getting index of node's conections
-	int limit = index[j+1]; 				// checking boundary
-	int k = pos; 							// starts at first element of list
-	while (line[k] != i && k < limit) k++;
-	if (k == limit) return -1;				// place doesn´t exist!
-	return value[k];
+// get value at position [line][column]
+int csc::get(int _line, int column) {		
+	// does not verify if column,line < _nodes, but only returns -1
+	if (_line == column) return 0;
+	int position = index[column]; 			// getting index of node's conections
+	int limit = index[column+1]; 		// checking boundary
+	while (line[position] != _line && position < limit) position++;
+	if (position == limit) return -1;	// place doesn´t exist!
+	return value[position];
 }
 
 
-// returns the minimal path between a and b, doing djisktra
-// a is not included into the path
-std::list<node>* csc::path_find(int a, int b) {
+// returns the minimal path between source and sink, doing djisktra
+// source is not included into the path
+std::list<node>* csc::path_find(int source, int sink) {
 	std::list<node>* path = new std::list<node>();
-	if (a != b) {
-		std::map<int, int> nodes;
-		std::map<int, int> visited; // indicated parent of the visited
-		printf("-----------------------------------\n");
+	if (source == sink) return path;
+	// indicates lowest cost to visit, from source
+	std::map<int, int> node_cost = * new std::map<int, int>();
+	// indicates parent of the visited
+	std::map<int, int> parent = * new std::map<int, int>(); 
+	// printf("-----------------------------------\n");
 
-		// proper function for node comparison, 
-		auto compare = [](const node a, const node b) -> bool {
-			if (a.index == b.index) return false;
-			return a.ncost <= b.ncost;
-		};
-		std::set<node, decltype(compare)> unvisited(compare);	
-		
-		const node* current = new node(a, 0, a);
-		// inserts a into nodes
-		nodes[a] = 0;
-		visited[a] = a;
-		unvisited.insert(* current);
+	// proper function for node comparison, 
+	auto compare = [](const node source, const node sink) -> bool {
+		// if they are the same index, none is greater
+		// this is important so that the set takes them as equal and doesn't add multiple of them
+		if (source.index == sink.index) return false; 
+		return source.ncost <= sink.ncost;
+	};
+	// indicates reachable but yet to visit nodes. It´s ordered by cost.
+	std::set<node, decltype(compare)> unvisited(compare);	
+	
+	node current = * new node(source, 0, source);
+	// inserts source into node_cost, parent
+	node_cost[source] = 0;
+	parent[source] = source;
+	unvisited.insert(current);
 
-		// initializations
-		const node* new_node = current;
-		int pos, limit, k;
-		int cost = 0;
-		// can add distance for any node from memoization
-		printf("visiting node %d. Parent is none, cost is %d \n", current->index, current->ncost);
-		do  {
-			// iterates current node, seeking new nodes and their cost
-			unvisited.erase(unvisited.begin());
+	// initializations
+	node new_node = current;
+	int position, limit;
+	int cost = 0;
+	// to do: can add distance for any node from memoization
+	// printf("visiting node %d. Parent is none, cost is %d \n", current.index, current.ncost);
+	do  {
+		// iterates current node, seeking new nodes and their cost
+		unvisited.erase(unvisited.begin());
 
-			pos = index[current->index]; 			// getting index of node's conections
-			limit = index[current->index+1]; 		// checking boundary
-			printf("pos = %d, limit = %d \n", pos, limit);
-			k = pos; 				// starts at first element of edge list
-			while (k < limit) {
-				// to do: remove node creation from unneeded
-				new_node = new node(line[k], cost + value[k], current->index);
-				printf("checking node %d to path. Parent is %d, ncost is %d \n", new_node->index, new_node->parent, new_node->ncost);
-				// if it is first time finding node
-				if (nodes.count(new_node->index) == 0) {
-					nodes[new_node->index] = new_node->ncost;
-					unvisited.insert(* new_node);		
-					printf("firs time on node, it's cost now is %d \n", nodes[new_node->index]);
-					printf("unvisited now has %u nodes to visit! \n", unvisited.size());
-				} else {
-					// if the cost is lower
-					printf("not first time on node, it's cost is %d, was stored as %d \n", new_node->ncost, nodes[new_node->index]);
-					if (nodes[new_node->index] > new_node->ncost) {
-						// since comparison returns they are equal, removing and adding works
-						unvisited.erase(* new_node);	
-						unvisited.insert(* new_node);
-						printf("inserted and erased");
-						nodes[new_node->index] = new_node->ncost;
-						printf("new cost stored as %d", nodes[new_node->index]);
-					}
+		position = index[current.index]; 			// getting index of node's conections
+		limit = index[current.index+1]; 		// checking boundary
+		// printf("position = %d, limit = %d \n", position, limit);
+		while (position < limit) {
+			// to do: remove node creation from unneeded
+
+			new_node = * new node(line[position], cost + value[position], current.index);
+			// printf("checking node %d to path. Parent is %d, ncost is %d \n", new_node.index, new_node.parent, new_node.ncost);
+			// if it is first time finding node
+			if (node_cost.count(new_node.index) == 0) {
+				node_cost[new_node.index] = new_node.ncost;
+
+				unvisited.insert(new_node);	// for some reason changes current
+
+				// printf("firs time on node, it's cost now is %d \n", node_cost[new_node.index]);
+				// printf("unvisited now has %u nodes to visit! \n", unvisited.size());
+
+			} else {
+				// if the cost is lower
+				// printf("not first time on node, it's cost is %d, was stored as %d \n", new_node.ncost, node_cost[new_node.index]);
+				if (node_cost[new_node.index] > new_node.ncost) {
+					// since comparison returns they are equal, remove and add to overwrite
+					// having updated cost on unvisited is important for ordering
+					unvisited.erase(new_node);	
+					unvisited.insert(new_node);
+					// printf("inserted and erased");
+					node_cost[new_node.index] = new_node.ncost;
+					// printf("new cost stored as %d", node_cost[new_node.index]);
 				}
-				k++;
 			}
-
-			// pops set
-			printf("\n changing current, there is still %u nodes to visit! \n", unvisited.size());
-			current = &(*unvisited.begin()); 
-			visited[current->index] = current->parent;
-			printf("visiting node %d. Parent is %d, cost is %d \n", current->index, current->parent, current->ncost);
-
-
-			if (current->index == b) {
-				printf("we reached our destination! \n");
-				break; 	// if we reached it, its done
-			}
-
-			cost = nodes[current->index]; // updating cost for next ones
-		} while (!unvisited.empty());
-
-		printf("\n Starting path finding from %d to %d \n", a, b);
-		// now to the path, distance is current.ncost
-		k = 0;
-		while (current->index != a) {
-			// add itself to path
-			path->push_front(* current);
-			printf("added node %d to path. Parent is %d, cost is %d \n", current->index, current->parent, current->ncost);
-			// next one is the parent
-			current = new node(current->parent, nodes[current->parent], visited[current->parent]);
-			k++;
-			if (k > 15) break;
+			position++;
 		}
+
+		// printf("\n changing current, there is still %u nodes to visit! \n", unvisited.size());
+		
+		// pops set
+		current = *unvisited.begin();
+		parent[current.index] = current.parent;
+		// printf("visiting node %d. Parent is %d, cost is %d \n", current.index, current.parent, current.ncost);
+
+
+		if (current.index == sink) {
+			// printf("we reached our destination! \n");
+			break; 	// if we reached it, its done
+		}
+
+		cost = node_cost[current.index]; // updating cost for next iteration
+	} while (!unvisited.empty());
+
+	// printf("\n Starting path finding from %d to %d \n", source, sink);
+	
+	position = 0;
+	// creates path
+	while (current.index != source) {
+		// add itself to path
+		path->push_front(current);
+		// printf("added node %d to path. Parent is %d, cost is %d \n", current.index, current.parent, current.ncost);
+		// next one is the parent
+		current = * new node(current.parent, node_cost[current.parent], parent[current.parent]);
+		position++;
+		// if (position > 15) break; // endless loop breaker
 	}
-	// memoization of all costs on visited
+	// to do: memoization of all costs on visited
 	return path;
 }
 
-int csc::distance(int a, int b) {
-	if (a == b) return 0;
-	std::list<node>* path = path_find(a, b);
+int csc::distance(int source, int sink) {
+	if (source == sink) return 0;
+	std::list<node>* path = path_find(source, sink);
 	if (path->size() == 0) return 0;
 	const node* end = &(*std::prev(path->end()));
-	printf("node of index %d is on end of list, with cost of %d \n", end->index, end->ncost);
+	// printf("node of index %d is on end of list, with cost of %d \n", end->index, end->ncost);
 	int cost = end->ncost;
 	delete path;
-	printf("-----------------------------------\n");
+	// printf("-----------------------------------\n");
 	return cost;
 }
 
-// returns number of hops between a and b
-int csc::hops(int a, int b) {
-	if (a == b) return 0;
-	std::set<int> visited;
-	std::set<int> unvisited;	
-	std::set<int> temporary;
+// returns number of hops between source and sink
+int csc::hops(int source, int sink) {
+	if (source == sink) return 0;
+	// printf("-----------------------------------\n");
+	// printf("Hop count from %d to %d\n", source, sink);
+	std::set<int> visited = * new std::set<int>();
+	std::set<int> unvisited = * new std::set<int>();	
+	std::set<int> temporary = * new std::set<int>();
 
-	int current = a;
-	visited.insert(a);
+	unvisited.insert(source);
+	temporary.insert(source);
 	// initializations
-	int new_node, pos, limit, k;
+	int new_node, position, limit;
 	int cost = 0;
-	// can add distance for any node from memoization
-	do {
+
+	while(!temporary.empty()) {
 		temporary.clear();
-		do {
+
+		for (auto current : unvisited) {
 			// iterates current node, seeking new nodes and their cost
-			pos = index[current]; 			// getting index of node's conections
+			position = index[current]; 			// getting index of node's conections
 			limit = index[current+1]; 		// checking boundary
-			k = pos; 					// starts at first element of edge list
-			// printf("Visiting node %d \n", current);
-			while (k < limit) {
-				new_node = line[k];
+			// printf(" Visiting node %d \n", current);
+
+			while (position < limit) {
+				new_node = line[position];
 				// if it is first time finding node
-				if (visited.count(new_node) == 0) {
-					if (unvisited.count(new_node) == 0) {
+				// printf("Checking node %d\n", new_node);
+				if (visited.find(new_node) == visited.end()) {
+					if (unvisited.find(new_node) == unvisited.end()) {
 						// printf("added node %d to temporaries \n", new_node);
 						temporary.insert(new_node);
 					}
 				}
-				k++;
+				position++;
 			}
-			// pops set
-			current = *unvisited.begin();
-			unvisited.erase(current);
+
 			visited.insert(current);
 
-		} while (!unvisited.empty());
+		}
 		cost++;
-		if (temporary.find(b) != temporary.end()) break; 	// if we reached it, its done
+		// printf("Hop %d\n \n", cost);
+
+		if (temporary.find(sink) != temporary.end()) {
+			// printf("Found %d\n", sink);
+			break; 	// if we reached it, its done
+		}
+
 		unvisited = temporary;
 
-	} while (!temporary.empty());
+	}
+	if (temporary.empty()) {
+		// printf("Failed to find %d.\n", sink);
+		return -1;
+	}
 	
+	// printf("Hops: %d\n", cost);
 	return cost;
 }

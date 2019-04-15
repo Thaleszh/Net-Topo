@@ -3,6 +3,12 @@
 #include "CSC.h"
 #include "gtest/gtest.h"
 #include <stdio.h>
+#include <iostream>
+#include <fstream>
+
+//#include <boost/archive/tmpdir.hpp>
+#include <boost/archive/xml_oarchive.hpp>
+#include <boost/archive/xml_iarchive.hpp>
 
 namespace {
 
@@ -39,10 +45,37 @@ class upper_matrix_test : public ::testing::Test {
 };
 
 
+
 TEST_F(upper_matrix_test, get_set) {
 	mat->set(1,2,1);
 	ASSERT_EQ(mat->get(1,2), 1);
 }
+
+// TEST_F(upper_matrix_test, boost_archive_save) {
+
+// 	mat->set(1,2,1);
+// 	ASSERT_EQ(mat->get(1,2), 1);
+
+// 	std::ofstream ofs("try.xml");
+//     assert(ofs.good());
+//     boost::archive::xml_oarchive oa(ofs);
+//     oa << BOOST_SERIALIZATION_NVP(mat);
+// }
+
+// TEST_F(upper_matrix_test, boost_archive_load) {
+// 	upper_matrix* new_mat;
+
+// 	std::ifstream ifs("try.xml");
+//     assert(ifs.good());
+//     boost::archive::xml_iarchive ia(ifs);
+
+//     // restore the schedule from the archive
+//     ia >> BOOST_SERIALIZATION_NVP(new_mat);
+
+//     ASSERT_EQ(new_mat->get(1,2), 1);
+    
+//     delete new_mat;
+// }
 
 TEST_F(upper_matrix_test, diagonal_zero) {
 	ASSERT_EQ(mat->get(1,1), 0);
@@ -226,26 +259,37 @@ TEST_F(CSC_small, distance_self) {
 	EXPECT_EQ(small->distance(0, 0), 0);
 }
 
-TEST_F(CSC_small, distance_basic) {
+TEST_F(CSC_small, distance_0_1) {
 	EXPECT_EQ(small->distance(0, 1), 11);
+}
+
+TEST_F(CSC_small, distance_0_2) {
 	EXPECT_EQ(small->distance(0, 2), 10);
+}
+
+TEST_F(CSC_small, distance_0_3) {
 	EXPECT_EQ(small->distance(0, 3), 5);
 }
 
-TEST_F(CSC_small, distance_complete) {
-	EXPECT_EQ(small->distance(0, 2), 10);
+TEST_F(CSC_small, distance_all_1s) {
 	EXPECT_EQ(small->distance(1, 0), 11);
 	EXPECT_EQ(small->distance(1, 2), 5);
 	EXPECT_EQ(small->distance(1, 3), 10);
+}
+
+TEST_F(CSC_small, distance_all_2s) {
 	EXPECT_EQ(small->distance(2, 0), 10);
 	EXPECT_EQ(small->distance(2, 1), 5);
 	EXPECT_EQ(small->distance(2, 3), 5);
+}
+
+TEST_F(CSC_small, distance_all_3s) {
 	EXPECT_EQ(small->distance(3, 0), 5);
 	EXPECT_EQ(small->distance(3, 1), 10);
 	EXPECT_EQ(small->distance(3, 2), 5);
 }
 
-TEST_F(CSC_small, path_simple) {
+TEST_F(CSC_small, path_2_0) {
 	std::list<node>* path = small->path_find(2, 0);
 	auto it = path->begin();
 	ASSERT_EQ(path->size(), 2);
@@ -255,19 +299,25 @@ TEST_F(CSC_small, path_simple) {
 	delete path;
 }
 
-TEST_F(CSC_small, path_self) {
+TEST_F(CSC_small, path_self_0) {
 	std::list<node>* path = small->path_find(0, 0);
 	ASSERT_EQ(path->size(), 0);
 	delete path;
 }
 
-TEST_F(CSC_small, hops_self) {
+TEST_F(CSC_small, hops_self_0) {
 	EXPECT_EQ(small->hops(0, 0), 0);
 }
 
-TEST_F(CSC_small, hops_simple) {
+TEST_F(CSC_small, hops_0_1) {
 	EXPECT_EQ(small->hops(0, 1), 1);
+}
+
+TEST_F(CSC_small, hops_0_2) {
 	EXPECT_EQ(small->hops(0, 2), 2);
+}
+
+TEST_F(CSC_small, hops_2_0) {
 	EXPECT_EQ(small->hops(2, 0), 2);
 
 }
@@ -365,37 +415,51 @@ TEST_F(CSC_big, full_insert) {
 
 }
 
-TEST_F(CSC_big, distance_basic) {
+TEST_F(CSC_big, distance_0_5) {
 	EXPECT_EQ(big->distance(0, 5), 1);
+}
+
+TEST_F(CSC_big, distance_9_2) {
 	EXPECT_EQ(big->distance(9, 2), 1);
+}
+
+TEST_F(CSC_big, distance_2_3) {
 	EXPECT_EQ(big->distance(2, 3), 5);
 }
 
-TEST_F(CSC_big, distance_complete) {
+TEST_F(CSC_big, distance_all_0s) {
 	EXPECT_EQ(big->distance(0, 2), 10);
 	EXPECT_EQ(big->distance(0, 7), 16);
 	EXPECT_EQ(big->distance(0, 8), 11);
 	EXPECT_EQ(big->distance(0, 9), 11);
 	EXPECT_EQ(big->distance(0, 10), 6);
+}
 
+TEST_F(CSC_big, distance_all_1s) {
 	EXPECT_EQ(big->distance(1, 0), 15);
 	EXPECT_EQ(big->distance(1, 2), 5);
 	EXPECT_EQ(big->distance(1, 3), 10);
 	EXPECT_EQ(big->distance(1, 4), 16);
 	EXPECT_EQ(big->distance(1, 9), 6);
+}
 
+TEST_F(CSC_big, distance_all_2s) {
 	EXPECT_EQ(big->distance(2, 0), 10);
 	EXPECT_EQ(big->distance(2, 1), 5);
 	EXPECT_EQ(big->distance(2, 3), 5);
 	EXPECT_EQ(big->distance(2, 5), 11);
 	EXPECT_EQ(big->distance(2, 11), 6);
+}
 
+TEST_F(CSC_big, distance_all_3s) {
 	EXPECT_EQ(big->distance(3, 0), 5);
 	EXPECT_EQ(big->distance(3, 1), 10);
 	EXPECT_EQ(big->distance(3, 2), 5);
 	EXPECT_EQ(big->distance(3, 8), 6);
 	EXPECT_EQ(big->distance(3, 4), 6);
+}
 
+TEST_F(CSC_big, distance_all_others) {
 	EXPECT_EQ(big->distance(4, 9), 12);
 	EXPECT_EQ(big->distance(5, 10), 7);
 	EXPECT_EQ(big->distance(6, 11), 12);
@@ -406,7 +470,7 @@ TEST_F(CSC_big, distance_complete) {
 	EXPECT_EQ(big->distance(11, 5), 7);
 }
 
-TEST_F(CSC_big, path_simple) {
+TEST_F(CSC_big, path_4_5) {
 	std::list<node>* path = big->path_find(4, 5);
 	auto it = path->begin();
 	ASSERT_EQ(path->size(), 2);
@@ -416,7 +480,7 @@ TEST_F(CSC_big, path_simple) {
 	delete path;
 }
 
-TEST_F(CSC_big, path_long) {
+TEST_F(CSC_big, path_4_7) {
 	std::list<node>* path = big->path_find(4, 7);
 	ASSERT_EQ(path->size(), 5);
 	auto it = path->begin();
@@ -428,22 +492,43 @@ TEST_F(CSC_big, path_long) {
 	it++;
 	EXPECT_EQ((*it).index, 1);
 	it++;
-	EXPECT_EQ((*it).index, 8);
+	EXPECT_EQ((*it).index, 7);
 	EXPECT_EQ((*it).ncost, 17);
 	delete path;
 }
 
-TEST_F(CSC_big, hops) {
+TEST_F(CSC_big, hop_0_1) {
 	EXPECT_EQ(big->hops(0, 1), 1);
-	EXPECT_EQ(big->hops(0, 2), 2);
-	EXPECT_EQ(big->hops(2, 0), 2);
-	EXPECT_EQ(big->hops(4, 6), 3);
-	EXPECT_EQ(big->hops(2, 11), 3);
-	EXPECT_EQ(big->hops(8, 1), 3);
-	EXPECT_EQ(big->hops(9, 4), 4);
-	EXPECT_EQ(big->hops(11, 10), 2);
-
 }
+
+TEST_F(CSC_big, hop_0_2) {
+	EXPECT_EQ(big->hops(0, 2), 2);
+}
+
+TEST_F(CSC_big, hop_2_0) {
+	EXPECT_EQ(big->hops(2, 0), 2);
+}
+
+TEST_F(CSC_big, hop_4_6) {
+	EXPECT_EQ(big->hops(4, 6), 3);
+}
+
+TEST_F(CSC_big, hop_2_11) {
+	EXPECT_EQ(big->hops(2, 11), 2);
+}
+
+TEST_F(CSC_big, hop_8_1) {
+	EXPECT_EQ(big->hops(8, 1), 2);
+}
+
+TEST_F(CSC_big, hop_9_4) {
+	EXPECT_EQ(big->hops(9, 4), 4);
+}
+
+TEST_F(CSC_big, hop_11_10) {
+	EXPECT_EQ(big->hops(11, 10), 2);
+}
+
 
 }  // namespace
 

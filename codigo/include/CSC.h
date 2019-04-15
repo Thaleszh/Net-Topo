@@ -3,6 +3,7 @@
  */
 
 #include <list>
+// #include <vector>
 
 struct node {
 	int index;
@@ -22,9 +23,13 @@ protected:
 	// note: current version is static, cannot be incremented
 	// to do: current version storages every link twice, due to traversal problem
 	// to do: make djisktra algorithm use memoization to speed up
+	// std::vector<int>* index; 	// indexing vector
+	// std::vector<int>* line;		// line especification
+	// std::vector<int>* value;		// values list
+
 	int* index; 	// indexing vector
 	int* line;		// line especification
-	int* value;		// values list
+	int* value;	// values list
 	int _nlinks; 	// number of conections, they are counted twice
 	int _nodes;		// number of nodes in list
 

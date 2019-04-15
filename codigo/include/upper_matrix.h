@@ -3,14 +3,27 @@
  */
 
 #include <stdlib.h>
+// #include <boost/archive/xml_oarchive.hpp>
+// #include <boost/archive/xml_iarchive.hpp>
+
+// #include <boost/serialization/base_object.hpp>
+// #include <boost/serialization/utility.hpp>
+
 
 using namespace std;
 
 class upper_matrix {
  private:
+ 	// boost serialization
+	// friend class boost::serialization::access;
+	// template<class Archive>
+	// void serialize(Archive & ar, const unsigned int version) {
+	// 	ar & _size;
+	// 	ar & vec;
+	// }
+
 	int* vec; 	// matrix itself in a vector
 	int _size; 	// size of structure
-
  public:
 	upper_matrix(int size) : _size(size) {
 		int cells = size * (size - 1) / 2;
@@ -18,7 +31,7 @@ class upper_matrix {
 		for (int i = 0 ; i < cells; i++) {
 			vec[i] = -1;
 		}
-	}
+	}	
 
 	~upper_matrix() {
 		delete[] vec;
