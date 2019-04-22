@@ -10,46 +10,17 @@
 #include <unordered_set>
 
 
-csc::csc(int nlinks, int nodes) : _nlinks(nlinks), _nodes(nodes) {
-	line = new int[2 * nlinks];
-	value = new int[2 * nlinks]; // duplication needed
-	index = new int[_nodes + 1];
-	for (int i = 0 ; i < 2*nlinks; i++) {
-		value[i] = -1;
-		line[i] = -1;
-	}
+csc::csc(int nlinks, int nodes) : _nlinks(nlinks), _nodes(nodes) {	
+	line.resize(2 * nlinks, -1);
+	value.resize(2 * nlinks, -1);
+
+	index.resize(_nodes + 1, -1);
 	index[0] = 0;
-	for (int i = 1 ; i < nodes + 1; i++) {
-		index[i] = -1;
-	}
+
+	memoi.reset(new upper_matrix(nodes));
 }
 
-csc::~csc() {
-	delete[] index;
-	delete[] line;
-	delete[] value;
-}
-
-
-// #include "CSC.h"
-// #include <stdlib.h>
-// #include <stdio.h> //temporary for debug
-// #include <map>
-// #include <set>
-// #include <unordered_set>
-
-
-// csc::csc(int nlinks, int nodes) : _nlinks(nlinks), _nodes(nodes) {
-// 	line = new std::vector<int>(2 * nlinks, -1);
-// 	value = new std::vector<int>(2 * nlinks, -1); // duplication needed
-// 	index = new std::vector<int>(_nodes + 1, -1);
-// }
-
-// csc::~csc() {
-// 	delete index;
-// 	delete line;
-// 	delete value;
-// }
+csc::~csc() {}
 
 // creates index for the node column, being nlinks the number of links it has
 void csc::create_index(int column, int nlinks) {
@@ -75,6 +46,9 @@ void csc::create(int _line, int column, int val) {
 	line[position] = _line;
 	int before = value[position];
 	value[position] = val;
+	// cannot update memoi: direct link is not necessarely shortest
+	// memoi->set(_line, column, val);
+	// printf("Value added on memoi. Line: %d Column = %d, Value = %d. On memoi: %d \n", _line, column, val, memoi->get(_line, column));
 	// printf("Created value at %d as %d. line= %d, column= %d. its limit is %d \n", value[k], index[column], line, column, index[column+1]);
 	if (before != -1) {
 		// printf("Value destroyed at %d!! \n More info: Value before= %d, Value now= %d, line= %d, column= %d, limit= %d, position= %d, k= %d \n", index[column], before, value[k], line, column, index[column+1], position, k);
@@ -89,7 +63,8 @@ void csc::set(int _line, int column, int val) {
 	while (line[position] != _line && position < limit) position++;
 	if (position == limit) return;		// cannot change what doesnt exist
 	value[position] = val;
-
+	// cannot update memoi: direct link is not necessarely shortest
+	// memoi->set(_line, column, val);
 }
 
 // get value at position [line][column]
@@ -127,7 +102,7 @@ std::list<node>* csc::path_find(int source, int sink) {
 	
 	node current = * new node(source, 0, source);
 	// inserts source into node_cost, parent
-	node_cost[source] = 0;
+	node_cost[source] = 0; // would be done in memoi pickup
 	parent[source] = source;
 	unvisited.insert(current);
 
@@ -135,7 +110,14 @@ std::list<node>* csc::path_find(int source, int sink) {
 	node new_node = current;
 	int position, limit;
 	int cost = 0;
-	// to do: can add distance for any node from memoization
+	// picking up distances from memoi. Not being done because of parent chain
+	// note: memoi->get[source, source] will be 0
+	// for (int i = 0; i < _nodes; i++) {
+	// 	cost = memoi->get(source, i);
+	// 	if (cost != -1) {
+
+	// 	}
+	// }
 	// printf("visiting node %d. Parent is none, cost is %d \n", current.index, current.ncost);
 	do  {
 		// iterates current node, seeking new nodes and their cost
@@ -176,6 +158,10 @@ std::list<node>* csc::path_find(int source, int sink) {
 
 		// printf("\n changing current, there is still %u nodes to visit! \n", unvisited.size());
 		
+		// updates memoi for visited
+		if (memoi->get(source, current.index) == -1) {
+			memoi->set(source, current.index, node_cost[current.index]);
+		}
 		// pops set
 		current = *unvisited.begin();
 		parent[current.index] = current.parent;
@@ -203,18 +189,114 @@ std::list<node>* csc::path_find(int source, int sink) {
 		position++;
 		// if (position > 15) break; // endless loop breaker
 	}
-	// to do: memoization of all costs on visited
+
 	return path;
 }
 
 int csc::distance(int source, int sink) {
-	if (source == sink) return 0;
-	std::list<node>* path = path_find(source, sink);
-	if (path->size() == 0) return 0;
-	const node* end = &(*std::prev(path->end()));
-	// printf("node of index %d is on end of list, with cost of %d \n", end->index, end->ncost);
-	int cost = end->ncost;
-	delete path;
+	int mem_val = memoi->get(source, sink);
+	if (mem_val != -1) {
+		printf("Memoi used from %d to %d!! \n", source, sink);
+		return mem_val;
+	}
+	// indicates lowest cost to visit, from source
+	std::map<int, int> node_cost = * new std::map<int, int>();
+	// indicates parent of the visited
+	// printf("-----------------------------------\n");
+
+	// proper function for node comparison, 
+	auto compare = [](const node source, const node sink) -> bool {
+		// if they are the same index, none is greater
+		// this is important so that the set takes them as equal and doesn't add multiple of them
+		if (source.index == sink.index) return false; 
+		return source.ncost <= sink.ncost;
+	};
+	// indicates reachable but yet to visit nodes. It´s ordered by cost.
+	// memoid set is needed to accelerate main loop
+	// std::set<int> memoid = * new std::set<int>(); // represents who was added from memoi and can be skipped
+	std::set<node, decltype(compare)> unvisited(compare);	
+	
+	node current = * new node(source, 0, source);
+	// inserts source into node_cost, parent
+	// node_cost[source] = 0; // would be done in memoi pickup
+	// unvisited.insert(current);
+	// initializations
+	node new_node = current;
+	int position, limit, cost;
+	// picking up distances from memoi. Not being done because of parent chain
+	// note: memoi->get[source, source] will be 0
+	for (int i = 0; i < _nodes; i++) {
+		cost = memoi->get(source, i);
+		if (cost != -1) {
+			new_node = * new node(i, cost, -1);
+			// printf("checking memoi of node %d to %d. Parent is %d, ncost is %d \n", new_node.index, source, new_node.parent, new_node.ncost);
+			unvisited.insert(new_node);
+			node_cost[i] = cost;
+			// memoid.insert(i);
+		}
+	}
+	cost = 0;
+	// printf("visiting node %d. Parent is none, cost is %d \n", current.index, current.ncost);
+	do  {
+		// iterates current node, seeking new nodes and their cost
+		unvisited.erase(unvisited.begin());
+
+		position = index[current.index]; 			// getting index of node's conections
+		limit = index[current.index+1]; 		// checking boundary
+		// printf("position = %d, limit = %d \n", position, limit);
+		while (position < limit) {
+			// to do: remove node creation from unneeded, via memoization set
+			new_node = * new node(line[position], cost + value[position], current.index);
+			// printf("checking node %d to path. Parent is %d, ncost is %d \n", new_node.index, new_node.parent, new_node.ncost);
+			// if it is first time finding node
+			if (node_cost.count(new_node.index) == 0) {
+				node_cost[new_node.index] = new_node.ncost;
+
+				unvisited.insert(new_node);	// for some reason changes current
+
+				// printf("firs time on node, it's cost now is %d \n", node_cost[new_node.index]);
+				// printf("unvisited now has %u nodes to visit! \n", unvisited.size());
+
+			} else {
+				// if the cost is lower
+				// printf("not first time on node, it's cost is %d, was stored as %d \n", new_node.ncost, node_cost[new_node.index]);
+				if (node_cost[new_node.index] > new_node.ncost) {
+					// since comparison returns they are equal, remove and add to overwrite
+					// having updated cost on unvisited is important for ordering
+					unvisited.erase(new_node);	
+					unvisited.insert(new_node);
+					// printf("inserted and erased");
+					node_cost[new_node.index] = new_node.ncost;
+					// printf("new cost stored as %d", node_cost[new_node.index]);
+				}
+			}
+			position++;
+		}
+
+		// printf("\n changing current, there is still %u nodes to visit! \n", unvisited.size());
+		
+		// updates memoi for visited
+		if (memoi->get(source, current.index) == -1) {
+			memoi->set(source, current.index, node_cost[current.index]);
+		}
+		// pops set
+		current = *unvisited.begin();
+		// printf("visiting node %d. Parent is %d, cost is %d \n", current.index, current.parent, current.ncost);
+		cost = node_cost[current.index]; // updating cost for next iteration
+
+		// adds distance to memoi
+		if (memoi->get(source, current.index) == -1) {
+			memoi->set(source, current.index, cost);
+		}
+		if (current.index == sink) {
+			// printf("we reached our destination: %d! \n", current.index);
+			break; 	// if we reached it, its done
+		}
+
+	} while (!unvisited.empty());
+
+	// printf("Cost of %d, it´s registered cost is: \n", cost, node_cost[current.index]);
+
 	// printf("-----------------------------------\n");
 	return cost;
 }
