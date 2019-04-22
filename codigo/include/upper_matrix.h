@@ -3,39 +3,35 @@
  */
 
 #include <stdlib.h>
-// #include <boost/archive/xml_oarchive.hpp>
-// #include <boost/archive/xml_iarchive.hpp>
+#include <vector>
 
-// #include <boost/serialization/base_object.hpp>
-// #include <boost/serialization/utility.hpp>
+#include <cereal/types/vector.hpp>
 
 
 using namespace std;
 
 class upper_matrix {
  private:
- 	// boost serialization
-	// friend class boost::serialization::access;
-	// template<class Archive>
-	// void serialize(Archive & ar, const unsigned int version) {
-	// 	ar & _size;
-	// 	ar & vec;
-	// }
 
-	int* vec; 	// matrix itself in a vector
+	std::vector<int> vec; 	// matrix itself in a vector
 	int _size; 	// size of structure
  public:
+	template<class Archive>
+	void serialize(Archive & archive) {
+		archive(CEREAL_NVP(_size), CEREAL_NVP(vec));
+	}
+
+	upper_matrix() {}
+
 	upper_matrix(int size) : _size(size) {
 		int cells = size * (size - 1) / 2;
-		vec = new int[cells];
-		for (int i = 0 ; i < cells; i++) {
-			vec[i] = -1;
-		}
+		vec.resize(cells, -1);
 	}	
 
-	~upper_matrix() {
-		delete[] vec;
-	}
+	upper_matrix(int size, std::vector<int> vector) : _size(size), vec(vector) {}	
+
+
+	~upper_matrix() {}
 
 	// insert at position [i][j]
 	void set(int i, int j, int val) {

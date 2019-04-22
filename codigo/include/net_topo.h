@@ -3,6 +3,13 @@
  */
 
 #include "CSC.h"
+#include <string>
+#include <stdio.h>
+#include <iostream>
+#include <fstream>
+
+#include <cereal/archives/xml.hpp>
+#include <cereal/types/memory.hpp>
 
 namespace net_topo {
 
@@ -30,7 +37,7 @@ private:
 	edge[] topology; 		// structure with high level topology
 	root[] trees;			// structure with machine topology
 	int npe; 				// number of PEs
-	CSC distances;			// distance storage structure
+	std::unique_ptr<csc> distances;			// distance storage structure
 
 public:
 	// init, to be extended with diferent forms of initialization
@@ -92,11 +99,23 @@ public:
 
 	// reads a topology from a file, using it instead of finding it
 	// Can be translated to a init with a file as arg?
-	void read_topology() {}
+	void read_topology(string filename) {
+		std::ifstream file(filename);
+
+		cereal::XMLInputArchive archive(file);
+
+		archive(distances);
+	}
 
 	// saves topology on a file
 	// format? tilfe type? Hwloc uses xml
-	void save_topology() {}
+	void save_topology(string filename) {
+
+		std::ofstream file(filename);
+		cereal::XMLOutputArchive archive(file);
+		archive(distances);
+
+	}
 
 	// calculates time of a normalized distance, in microseconds
 	int unormalize(float dist) {}

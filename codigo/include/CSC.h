@@ -3,7 +3,10 @@
  */
 
 #include <list>
-// #include <vector>
+#include <vector>
+#include <cereal/types/vector.hpp>
+#include "upper_matrix.h"
+#include <cereal/types/memory.hpp>
 
 struct node {
 	int index;
@@ -11,11 +14,6 @@ struct node {
 	int parent;
 
 	node(int in, int cost, int creator) : index(in), ncost(cost), parent(creator) {}
-
-/*	bool operator<(const node b) {
-		if (index == b.index) return false;
-		return ncost < b.ncost;
-	}*/
 };
 
 class csc {
@@ -23,20 +21,29 @@ protected:
 	// note: current version is static, cannot be incremented
 	// to do: current version storages every link twice, due to traversal problem
 	// to do: make djisktra algorithm use memoization to speed up
-	// std::vector<int>* index; 	// indexing vector
-	// std::vector<int>* line;		// line especification
-	// std::vector<int>* value;		// values list
 
-	int* index; 	// indexing vector
-	int* line;		// line especification
-	int* value;	// values list
+	std::vector<int> index; 	// indexing vector
+	std::vector<int> line;		// line especification
+	std::vector<int> value;	// values list
 	int _nlinks; 	// number of conections, they are counted twice
 	int _nodes;		// number of nodes in list
+	std::unique_ptr<upper_matrix> memoi;
 
 public:
+	
+	csc() {}
+
+	csc(std::vector<int> id, std::vector<int> ln, std::vector<int> val, int nlinks, int nodes, std::unique_ptr<upper_matrix> upp_matrix) 
+	: index(id), line(ln), value(val), _nlinks(nlinks), _nodes(nodes), memoi(std::move(upp_matrix)) {}
+
 	csc(int nlinks, int nodes);
 
 	~csc();
+
+	template <class Archive>
+	void serialize(Archive & archive) {
+		archive(CEREAL_NVP(index), CEREAL_NVP(line), CEREAL_NVP(value), CEREAL_NVP(_nlinks), CEREAL_NVP(_nodes), cereal::make_nvp("upper_matrix", memoi));
+	}
 
 	// number of nodes in structure
 	int n_nodes() {
