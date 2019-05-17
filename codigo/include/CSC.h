@@ -20,19 +20,19 @@ class csc {
 protected:
 	// note: current version is static, cannot be incremented
 	// to do: current version storages every link twice, due to traversal problem
-	// to do: make djisktra algorithm use memoization to speed up
 
 	std::vector<int> index; 	// indexing vector
 	std::vector<int> line;		// line especification
-	std::vector<int> value;	// values list
+	std::vector<int> value;		// values list
 	int _nlinks; 	// number of conections, they are counted twice
 	int _nodes;		// number of nodes in list
-	std::unique_ptr<upper_matrix> memoi;
+	std::unique_ptr<upper_matrix> memoi; // memoization structure used in distances
 
 public:
 	
 	csc() {}
 
+	// needed for serialization
 	csc(std::vector<int> id, std::vector<int> ln, std::vector<int> val, int nlinks, int nodes, std::unique_ptr<upper_matrix> upp_matrix) 
 	: index(id), line(ln), value(val), _nlinks(nlinks), _nodes(nodes), memoi(std::move(upp_matrix)) {}
 
@@ -40,6 +40,7 @@ public:
 
 	~csc();
 
+	// serialization header
 	template <class Archive>
 	void serialize(Archive & archive) {
 		archive(CEREAL_NVP(index), CEREAL_NVP(line), CEREAL_NVP(value), CEREAL_NVP(_nlinks), CEREAL_NVP(_nodes), cereal::make_nvp("upper_matrix", memoi));
@@ -60,8 +61,8 @@ public:
 
 	// creates line position and sets, it assumes there is no limit
 	void create(int i, int j, int val);
-	// insert at position [i][j]
 
+	// insert at position [i][j]
 	void set(int i, int j, int val);
 
 	// get value at position [i][j]
@@ -71,8 +72,13 @@ public:
 	// a is not included into the path
 	std::list<node>* path_find(int a, int b);
 
+	// returns minimal distance between a and b, doing djisktra
 	int distance(int a, int b);
 
 	// returns number of hops between a and b
 	int hops(int a, int b);
+
+	// get neighbors of i
+	std::vector<int>* neighbors(int i);
+
 };
