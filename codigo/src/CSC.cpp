@@ -27,7 +27,7 @@ void csc::create_index(int column, int nlinks) {
 	if (column < _nodes) {
 		int k = 0;
 		if (column > 0) k = index[column];
-		index[column+1] = k + nlinks; // gotta check if it~s not one more or lower
+		index[column+1] = k + nlinks;
 		// printf("Created index %d as %d, its limit is %d \n", column, index[column], index[column+1]);
 	}
 }
@@ -36,7 +36,7 @@ void csc::create_index(int column, int nlinks) {
 void csc::create(int _line, int column, int val) {
 	//if (column > _nodes || line > _nodes) return; 		// inexistant indexes
 	if (_line == column) return; 						// self not stored, assumed 0
-	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space
+	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space if dynamic
 
 	int position = index[column];
 	int limit = index[column+1];
@@ -196,7 +196,7 @@ std::list<node>* csc::path_find(int source, int sink) {
 int csc::distance(int source, int sink) {
 	int mem_val = memoi->get(source, sink);
 	if (mem_val != -1) {
-		printf("Memoi used from %d to %d!! \n", source, sink);
+		// printf("Memoi used from %d to %d!! \n", source, sink);
 		return mem_val;
 	}
 	// indicates lowest cost to visit, from source
@@ -236,6 +236,7 @@ int csc::distance(int source, int sink) {
 		}
 	}
 	cost = 0;
+	bool found = false;
 	// printf("visiting node %d. Parent is none, cost is %d \n", current.index, current.ncost);
 	do  {
 		// iterates current node, seeking new nodes and their cost
@@ -290,6 +291,7 @@ int csc::distance(int source, int sink) {
 		}
 		if (current.index == sink) {
 			// printf("we reached our destination: %d! \n", current.index);
+			found = true;
 			break; 	// if we reached it, its done
 		}
 
@@ -298,7 +300,9 @@ int csc::distance(int source, int sink) {
 	// printf("Cost of %d, it´s registered cost is: \n", cost, node_cost[current.index]);
 
 	// printf("-----------------------------------\n");
-	return cost;
+	if (found) return cost;
+	// if not found returns -1;
+	return -1;
 }
 
 // returns number of hops between source and sink
@@ -359,4 +363,17 @@ int csc::hops(int source, int sink) {
 	
 	// printf("Hops: %d\n", cost);
 	return cost;
+}
+
+	// get neighbors of i
+std::vector<int>* csc::neighbors(int i) {
+	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space if dynamic
+	std::vector<int>* neighbors = new std::vector<<int>();
+	int position = index[column];
+	int limit = index[column+1];
+	while (line[position] != -1 && position < limit) {
+		neighbors.insert(line[position]);
+		position++;
+	}
+	return neighbors;
 }
