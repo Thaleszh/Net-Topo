@@ -40,12 +40,17 @@ void csc::create(int _line, int column, int val) {
 
 	int position = index[column];
 	int limit = index[column+1];
+	// printf("Before While, position is %d, limit is %d\n ", position, limit);
 	while (line[position] != -1 && position < limit) {
+		// printf("In While, position is: %d \n", position);
+
 		position++;
 	}
+	// printf("After While position is %d, limit is %d\n\n ", position, limit);
 	line[position] = _line;
 	int before = value[position];
 	value[position] = val;
+	// printf("After Acesses \n\n");
 	// cannot update memoi: direct link is not necessarely shortest
 	// memoi->set(_line, column, val);
 	// printf("Value added on memoi. Line: %d Column = %d, Value = %d. On memoi: %d \n", _line, column, val, memoi->get(_line, column));
@@ -81,13 +86,13 @@ int csc::get(int _line, int column) {
 
 // returns the minimal path between source and sink, doing djisktra
 // source is not included into the path
-std::list<node>* csc::path_find(int source, int sink) {
-	std::list<node>* path = new std::list<node>();
+std::list<node> csc::path_find(int source, int sink) {
+	std::list<node> path = std::list<node>();
 	if (source == sink) return path;
 	// indicates lowest cost to visit, from source
-	std::map<int, int> node_cost = * new std::map<int, int>();
+	std::map<int, int> node_cost = std::map<int, int>();
 	// indicates parent of the visited
-	std::map<int, int> parent = * new std::map<int, int>(); 
+	std::map<int, int> parent = std::map<int, int>(); 
 	// printf("-----------------------------------\n");
 
 	// proper function for node comparison, 
@@ -100,7 +105,7 @@ std::list<node>* csc::path_find(int source, int sink) {
 	// indicates reachable but yet to visit nodes. It´s ordered by cost.
 	std::set<node, decltype(compare)> unvisited(compare);	
 	
-	node current = * new node(source, 0, source);
+	node current = node(source, 0, source);
 	// inserts source into node_cost, parent
 	node_cost[source] = 0; // would be done in memoi pickup
 	parent[source] = source;
@@ -129,7 +134,7 @@ std::list<node>* csc::path_find(int source, int sink) {
 		while (position < limit) {
 			// to do: remove node creation from unneeded
 
-			new_node = * new node(line[position], cost + value[position], current.index);
+			new_node = node(line[position], cost + value[position], current.index);
 			// printf("checking node %d to path. Parent is %d, ncost is %d \n", new_node.index, new_node.parent, new_node.ncost);
 			// if it is first time finding node
 			if (node_cost.count(new_node.index) == 0) {
@@ -182,10 +187,10 @@ std::list<node>* csc::path_find(int source, int sink) {
 	// creates path
 	while (current.index != source) {
 		// add itself to path
-		path->push_front(current);
+		path.push_front(current);
 		// printf("added node %d to path. Parent is %d, cost is %d \n", current.index, current.parent, current.ncost);
 		// next one is the parent
-		current = * new node(current.parent, node_cost[current.parent], parent[current.parent]);
+		current = node(current.parent, node_cost[current.parent], parent[current.parent]);
 		position++;
 		// if (position > 15) break; // endless loop breaker
 	}
@@ -200,7 +205,7 @@ int csc::distance(int source, int sink) {
 		return mem_val;
 	}
 	// indicates lowest cost to visit, from source
-	std::map<int, int> node_cost = * new std::map<int, int>();
+	std::map<int, int> node_cost = std::map<int, int>();
 	// indicates parent of the visited
 	// printf("-----------------------------------\n");
 
@@ -216,7 +221,7 @@ int csc::distance(int source, int sink) {
 	// std::set<int> memoid = * new std::set<int>(); // represents who was added from memoi and can be skipped
 	std::set<node, decltype(compare)> unvisited(compare);	
 	
-	node current = * new node(source, 0, source);
+	node current = node(source, 0, source);
 	// inserts source into node_cost, parent
 	// node_cost[source] = 0; // would be done in memoi pickup
 	// unvisited.insert(current);
@@ -228,7 +233,7 @@ int csc::distance(int source, int sink) {
 	for (int i = 0; i < _nodes; i++) {
 		cost = memoi->get(source, i);
 		if (cost != -1) {
-			new_node = * new node(i, cost, -1);
+			new_node = node(i, cost, -1);
 			// printf("checking memoi of node %d to %d. Parent is %d, ncost is %d \n", new_node.index, source, new_node.parent, new_node.ncost);
 			unvisited.insert(new_node);
 			node_cost[i] = cost;
@@ -247,7 +252,7 @@ int csc::distance(int source, int sink) {
 		// printf("position = %d, limit = %d \n", position, limit);
 		while (position < limit) {
 			// to do: remove node creation from unneeded, via memoization set
-			new_node = * new node(line[position], cost + value[position], current.index);
+			new_node = node(line[position], cost + value[position], current.index);
 			// printf("checking node %d to path. Parent is %d, ncost is %d \n", new_node.index, new_node.parent, new_node.ncost);
 			// if it is first time finding node
 			if (node_cost.count(new_node.index) == 0) {
@@ -310,9 +315,9 @@ int csc::hops(int source, int sink) {
 	if (source == sink) return 0;
 	// printf("-----------------------------------\n");
 	// printf("Hop count from %d to %d\n", source, sink);
-	std::set<int> visited = * new std::set<int>();
-	std::set<int> unvisited = * new std::set<int>();	
-	std::set<int> temporary = * new std::set<int>();
+	std::set<int> visited = std::set<int>();
+	std::set<int> unvisited = std::set<int>();	
+	std::set<int> temporary = std::set<int>();
 
 	unvisited.insert(source);
 	temporary.insert(source);
@@ -366,13 +371,13 @@ int csc::hops(int source, int sink) {
 }
 
 	// get neighbors of i
-std::vector<int>* csc::neighbors(int i) {
+std::vector<int> csc::neighbors(int i) {
 	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space if dynamic
-	std::vector<int>* neighbors = new std::vector<<int>();
-	int position = index[column];
-	int limit = index[column+1];
+	int_vec neighbors = int_vec();
+	int position = index[i];
+	int limit = index[i+1];
 	while (line[position] != -1 && position < limit) {
-		neighbors.insert(line[position]);
+		neighbors.push_back(line[position]);
 		position++;
 	}
 	return neighbors;
