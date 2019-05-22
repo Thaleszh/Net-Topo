@@ -16,6 +16,8 @@ class upper_matrix {
 	std::vector<int> vec; 	// matrix itself in a vector
 	int _size; 	// size of structure
  public:
+
+ 	// serialization header
 	template<class Archive>
 	void serialize(Archive & archive) {
 		archive(CEREAL_NVP(_size), CEREAL_NVP(vec));
@@ -28,6 +30,7 @@ class upper_matrix {
 		vec.resize(cells, -1);
 	}	
 
+	// needed for serialization
 	upper_matrix(int size, std::vector<int> vector) : _size(size), vec(vector) {}	
 
 
@@ -35,7 +38,7 @@ class upper_matrix {
 
 	// insert at position [i][j]
 	void set(int i, int j, int val) {
-		//if in middle there is no way to change
+		//if in middle there is no way to change. Its 0.
 		if (i != j) {
 			if (j > i) {
 				int temp = j;

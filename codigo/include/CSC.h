@@ -8,6 +8,7 @@
 #include "upper_matrix.h"
 #include <cereal/types/memory.hpp>
 
+using int_vec = std::vector<int>;
 struct node {
 	int index;
 	int ncost;
@@ -21,9 +22,9 @@ protected:
 	// note: current version is static, cannot be incremented
 	// to do: current version storages every link twice, due to traversal problem
 
-	std::vector<int> index; 	// indexing vector
-	std::vector<int> line;		// line especification
-	std::vector<int> value;		// values list
+	int_vec index; 	// indexing vector
+	int_vec line;		// line especification
+	int_vec value;		// values list
 	int _nlinks; 	// number of conections, they are counted twice
 	int _nodes;		// number of nodes in list
 	std::unique_ptr<upper_matrix> memoi; // memoization structure used in distances
@@ -33,7 +34,7 @@ public:
 	csc() {}
 
 	// needed for serialization
-	csc(std::vector<int> id, std::vector<int> ln, std::vector<int> val, int nlinks, int nodes, std::unique_ptr<upper_matrix> upp_matrix) 
+	csc(int_vec id, int_vec ln, int_vec val, int nlinks, int nodes, std::unique_ptr<upper_matrix> upp_matrix) 
 	: index(id), line(ln), value(val), _nlinks(nlinks), _nodes(nodes), memoi(std::move(upp_matrix)) {}
 
 	csc(int nlinks, int nodes);
@@ -70,7 +71,7 @@ public:
 
 	// returns the minimal path between a and b, doing djisktra
 	// a is not included into the path
-	std::list<node>* path_find(int a, int b);
+	std::list<node> path_find(int a, int b);
 
 	// returns minimal distance between a and b, doing djisktra
 	int distance(int a, int b);
@@ -79,6 +80,6 @@ public:
 	int hops(int a, int b);
 
 	// get neighbors of i
-	std::vector<int>* neighbors(int i);
+	int_vec neighbors(int i);
 
 };

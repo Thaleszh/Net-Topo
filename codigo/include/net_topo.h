@@ -5,69 +5,34 @@
 #include "CSC.h"
 #include <vector>
 #include <utility>
-#include <unordered_set>
+#include <unordered_map>
 #include <string>
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
 
-#include <cereal/archives/xml.hpp>
-#include <cereal/types/memory.hpp>
+using network_topology = const std::vector<std::vector<std::pair<int, int>>>&; 
+using machine_map = const std::vector<std::pair<int, int>>&;
 
-namespace net_topo {
-
-
-class topology {
+class net_topo {
 private:
 	int npe; 								// number of PEs
-	std::unordered_map<int> pe_to_node;	// maps pes to nodes
-	std::unordered_map<int> pe_to_machine;	// maps pes to machines
+	std::unordered_map<int, int> pe_to_node;	// maps pes to nodes
+	std::unordered_map<int, int> pe_to_machine;	// maps pes to machines
 	std::unique_ptr<csc> distances;			// distance storage structure
 
 
 public:
+	net_topo() {}
+
+	~net_topo() {}
 	// init, proxies to build them up
-	// machine topology has which node each machine is in
+	// machine topology has which machine and node, respectively, each pe is in
 	// network topology is a list of each node containing a list of their neighbors and the cost to them
-	void init(std::vector<std::pair<int, int>>* machine_topo, std::vector<std::vector<std::pair<int, int>>>*  network_topo) {
+	void init(machine_map machine_topo, network_topology network_topo);
 
-		int links = 0;
-
-		for(auto current : topo) {
-			links += current.size();
-		}
-
-		init(machine_topo, network_topo, links);
-
-	}
-
-	void init(std::vector<std::pair<int, int>>* machine_topo, std::vector<std::vector<std::pair<int, int>>>*  network_topo,
-				int net_links) {
-
-		// handles machine topology
-		int i = 0;
-		for auto (current : machine_topo) {
-			pe_to_machine[i] = current->first;
-			pe_to_node[i] = current->second;
-			i++;
-		}
-
-		// handles network topology
-		distances->reset(new csc(network_topo.size(), net_links));
-
-		int j;
-		for(auto current : topo) {
-			distances->create_index(i, current.size());
-			j = 0;
-			for (auto node : current) {
-				distances->create(i, current.first, current.second);
-				j++;
-			}
-			i++;
-		}
-
-	}
-
+	void init(machine_map machine_topo, network_topology  network_topo,
+				int net_links);
 
 	// returns id of caller's PE, for now let's centralize
 	// int my_pe() {}
@@ -79,39 +44,24 @@ public:
 
 	// returns normalized minimal distance between 2 PEs
 	// 0.1 for same node
-	float dist(int pe1, int pe2) {
-		n1 = pe_to_machine[pe1];
-		n2 = pe_to_machine[pe2];
-		if (n1 == n2) return 0.1;
-		// run distance on CSC
-		return distances->distance(n1, n2);
-	}
+	float distance(int pe1, int pe2);
 
 	// returns hop count between 2 PEs
-	// hop count on same node is 0
-	int hop_count(int pe1, int pe2) {
-		// check if on same node
-		n1 = pe_to_machine[pe1];
-		n2 = pe_to_machine[pe2];
-		if (n1 == n2) return 0;
-		return distances->distance(n1, n2);
-	}
+	// hop count on same core is 0
+	int hop_count(int pe1, int pe2);
 
 	// returns location based on id of PE and it's depth
 	// int my_location(int id, depth_t depth) {}
 
 	// ? returns path of minimal distance between 2 PEs
-	std::vector<int> path(int pe1, int pe2) {}
+	// std::vector<int> path(int pe1, int pe2) {}
 
 	// ? returns normalized distance of a path
-	float dist(std::vector<int> path) {}
+	// float distance(std::vector<int> path) {}
 
 	// returns a list of neighbors of a given PE
 	// neighbors = hop count == 0 or lowest distances?
-	std::vector<int>* neighbors(int pe) {
-		// add all things from nodes
-		return distances->neighbors(pe);
-	}
+	std::vector<int> neighbors(int pe);
 
 	// ? returns how close a pe is from another
 	// similar to a hwloc_get_common_ancestor / acmp
@@ -119,13 +69,7 @@ public:
 	// 1 = on same machine
 	// 2 = on same node
 	// 3 = on same core
-	int proximity(int pe1, int pe2) {
-		if (pe1 == pe2) return 3;
-		n1 = pe_to_machine[pe1];
-		n2 = pe_to_machine[pe2];
-		if (n1 != n2) return 0;
-		return 1;
-	}
+	int proximity(int pe1, int pe2);
 
 	// returns node of pe
 	int node_of(int pe) {
@@ -147,34 +91,17 @@ public:
 
 	// reads a topology from a file, using it instead of finding it
 	// Can be translated to a init with a file as arg?
-	void read_topology(string filename) {
-		std::ifstream file(filename);
-
-		cereal::XMLInputArchive archive(file);
-
-		archive(distances);
-		archive(pe_to_machine);
-		archive(pe_to_node);
-		archive(npe);
-	}
+	// to do: quality of life: default name stored
+	void load_topology(string filename);
 
 	// saves topology on a xml file
-	void save_topology(string filename) {
-
-		std::ofstream file(filename);
-		cereal::XMLOutputArchive archive(file);
-		archive(distances);
-		archive(pe_to_machine);
-		archive(pe_to_node);
-		archive(npe);
-	}
+	void save_topology(string filename);
 
 	// calculates time of a normalized distance, in microseconds
 	// int unormalize(float dist) {}
 
-}
+};
 
-} // end of namespace
 
 // Ideas:
 /* hwloc grouping by distance
