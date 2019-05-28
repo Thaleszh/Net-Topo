@@ -23,8 +23,8 @@ protected:
 	// to do: current version storages every link twice, due to traversal problem
 
 	int_vec index; 	// indexing vector
-	int_vec line;		// line especification
-	int_vec value;		// values list
+	int_vec line;	// line especification
+	int_vec value;	// values list
 	int _nlinks; 	// number of conections, they are counted twice
 	int _nodes;		// number of nodes in list
 	std::unique_ptr<upper_matrix> memoi; // memoization structure used in distances
