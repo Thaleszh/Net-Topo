@@ -48,16 +48,12 @@ void csc::create(int _line, int column, int val) {
 	}
 	// printf("After While position is %d, limit is %d\n\n ", position, limit);
 	line[position] = _line;
-	int before = value[position];
 	value[position] = val;
 	// printf("After Acesses \n\n");
 	// cannot update memoi: direct link is not necessarely shortest
 	// memoi->set(_line, column, val);
 	// printf("Value added on memoi. Line: %d Column = %d, Value = %d. On memoi: %d \n", _line, column, val, memoi->get(_line, column));
-	// printf("Created value at %d as %d. line= %d, column= %d. its limit is %d \n", value[k], index[column], line, column, index[column+1]);
-	if (before != -1) {
-		// printf("Value destroyed at %d!! \n More info: Value before= %d, Value now= %d, line= %d, column= %d, limit= %d, position= %d, k= %d \n", index[column], before, value[k], line, column, index[column+1], position, k);
-	}
+	// printf("Created value at %d as %d. line= %d, column= %d. its limit is %d \n", value[position], index[column], line[position], column, limit);
 }
 
 // insert at position [line][column]
@@ -90,9 +86,9 @@ std::list<node> csc::path_find(int source, int sink) {
 	std::list<node> path = std::list<node>();
 	if (source == sink) return path;
 	// indicates lowest cost to visit, from source
-	std::map<int, int> node_cost = std::map<int, int>();
+	std::map<int, int> node_cost;
 	// indicates parent of the visited
-	std::map<int, int> parent = std::map<int, int>(); 
+	std::map<int, int> parent; 
 	// printf("-----------------------------------\n");
 
 	// proper function for node comparison, 
@@ -205,7 +201,7 @@ int csc::distance(int source, int sink) {
 		return mem_val;
 	}
 	// indicates lowest cost to visit, from source
-	std::map<int, int> node_cost = std::map<int, int>();
+	std::map<int, int> node_cost;
 	// indicates parent of the visited
 	// printf("-----------------------------------\n");
 
@@ -251,6 +247,7 @@ int csc::distance(int source, int sink) {
 		limit = index[current.index+1]; 		// checking boundary
 		// printf("position = %d, limit = %d \n", position, limit);
 		while (position < limit) {
+			if(line[position] == -1) break; // attemping to read unitialized
 			// to do: remove node creation from unneeded, via memoization set
 			new_node = node(line[position], cost + value[position], current.index);
 			// printf("checking node %d to path. Parent is %d, ncost is %d \n", new_node.index, new_node.parent, new_node.ncost);
@@ -282,20 +279,25 @@ int csc::distance(int source, int sink) {
 		// printf("\n changing current, there is still %u nodes to visit! \n", unvisited.size());
 		
 		// updates memoi for visited
-		if (memoi->get(source, current.index) == -1) {
+		// printf("Bounding memoi. Attemping to read %d %d \n", source, current.index);
+		if (memoi->get(source, current.index) == -1)
 			memoi->set(source, current.index, node_cost[current.index]);
-		}
+		// printf("After memoi.\n");
+
 		// pops set
 		current = *unvisited.begin();
 		// printf("visiting node %d. Parent is %d, cost is %d \n", current.index, current.parent, current.ncost);
 		cost = node_cost[current.index]; // updating cost for next iteration
 
 		// adds distance to memoi
-		if (memoi->get(source, current.index) == -1) {
+		// printf("Bounding second memoi. Attemping to read %d %d \n", source, current.index);
+		if (memoi->get(source, current.index) == -1)
 			memoi->set(source, current.index, cost);
-		}
+		// printf("After second memoi.\n");
+
 		if (current.index == sink) {
 			// printf("we reached our destination: %d! \n", current.index);
+			// printf("Ended.\n");
 			found = true;
 			break; 	// if we reached it, its done
 		}
@@ -315,9 +317,9 @@ int csc::hops(int source, int sink) {
 	if (source == sink) return 0;
 	// printf("-----------------------------------\n");
 	// printf("Hop count from %d to %d\n", source, sink);
-	std::set<int> visited = std::set<int>();
-	std::set<int> unvisited = std::set<int>();	
-	std::set<int> temporary = std::set<int>();
+	std::set<int> visited;
+	std::set<int> unvisited;	
+	std::set<int> temporary;
 
 	unvisited.insert(source);
 	temporary.insert(source);
@@ -373,7 +375,7 @@ int csc::hops(int source, int sink) {
 	// get neighbors of i
 std::vector<int> csc::neighbors(int i) {
 	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space if dynamic
-	int_vec neighbors = int_vec();
+	int_vec neighbors;
 	int position = index[i];
 	int limit = index[i+1];
 	while (line[position] != -1 && position < limit) {
