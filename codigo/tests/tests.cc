@@ -22,7 +22,7 @@ class upper_matrix_test : public ::testing::Test {
  	upper_matrix mat;
 
   upper_matrix_test() {
-    mat = * new upper_matrix(4);
+    mat = upper_matrix(4);
   }
 
   ~upper_matrix_test() override {
@@ -661,7 +661,6 @@ TEST(net_topo_xml, creation) {
 	std::vector<std::pair<int, int>> machine_topo;
 
 	std::vector<std::pair<int, int>> temporary;
-	int nlinks = 4;
 	int npe = 4;
 	//node 0
 	temporary = std::vector<std::pair<int, int>>();
@@ -684,60 +683,35 @@ TEST(net_topo_xml, creation) {
 	temporary.push_back(std::pair<int, int>(2, 5));
 	network_topo.push_back(temporary);
 	for (int i = 0; i < 4; i++)
-		machine_topo.push_back(std::pair<int, int>(i, i)); // adds node and machine as self
-
-	net.init(machine_topo, network_topo, nlinks);
-
-}
-
-TEST(net_topo_xml, creation_no_nlinks) {
-	net_topo net;
-
-	std::vector<std::vector<pair<int, int>>> network_topo; 
-	std::vector<std::pair<int, int>> machine_topo;
-
-	std::vector<std::pair<int, int>> temporary;
-	int npe = 4;
-	//node 0
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(1, 16));
-	temporary.push_back(std::pair<int, int>(3, 5));
-	network_topo.push_back(temporary);
-	// node 1
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(0, 16));
-	temporary.push_back(std::pair<int, int>(2, 5));
-	network_topo.push_back(temporary);
-	// node 2
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(1, 5));
-	temporary.push_back(std::pair<int, int>(3, 5));
-	network_topo.push_back(temporary);
-	// node 3
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(0, 5));
-	temporary.push_back(std::pair<int, int>(2, 5));
-	network_topo.push_back(temporary);
-	for (int i = 0; i < 4; i++)
-		machine_topo.push_back(std::pair<int, int>(i, i)); // adds node and machine as self
+		machine_topo.push_back(std::pair<int, int>(i, 0)); // adds machine and node as self
 
 	net.init(machine_topo, network_topo);
 
+	// tests save to default filename
+	net.save_topology();
 	net.save_topology("net_topo_small");
 
 }
 
-class Net_topo_small : public ::testing::Test {
+TEST(net_topo_xml, load_default_name) {
+	net_topo net;
+	net.load_topology();
+	EXPECT_EQ(net.num_pes(), 4);
+	EXPECT_EQ(net.name(), "net_topo.xml");
+
+}
+
+class small_net_topo : public ::testing::Test {
  protected:
   // You can remove any or all of the following functions if its body
   // is empty.
  	net_topo net;
 
-  Net_topo_small() {
+  small_net_topo() {
 
   }
 
-  ~Net_topo_small() override {}
+  ~small_net_topo() override {}
 
   // If the constructor and destructor are not enough for setting up
   // and cleaning up each test, you can define the following methods:
@@ -752,37 +726,37 @@ class Net_topo_small : public ::testing::Test {
   void TearDown() override {
      // Code here will be called immediately after each test (right
      // before the destructor).
-  	net.save_topology("net_topo_small");
+  	net.save_topology();
   }
 
   // Objects declared here can be used by all tests in the test case for Foo.
 };
 
-TEST_F(Net_topo_small, load_topology) {
+TEST_F(small_net_topo, load_topology) {
 }
 
-TEST_F(Net_topo_small, num_pes) {
+TEST_F(small_net_topo, num_pes) {
 	EXPECT_EQ(net.num_pes(), 4);
 }
 
-TEST_F(Net_topo_small, distance_0_1) {
+TEST_F(small_net_topo, distance_0_1) {
 	EXPECT_EQ(net.distance(0,1), 15);
 }
 
-TEST_F(Net_topo_small, distance_0_2) {
+TEST_F(small_net_topo, distance_0_2) {
 	EXPECT_EQ(net.distance(0,2), 10);
 }
 
-TEST_F(Net_topo_small, distance_0_3) {
+TEST_F(small_net_topo, distance_0_3) {
 	EXPECT_EQ(net.distance(0,3), 5);
 }
 
-TEST_F(Net_topo_small, memoi_check_0_1) {
+TEST_F(small_net_topo, memoi_check_0_1) {
 	EXPECT_EQ(net.distance(0,1), 15);
 }
 
-TEST_F(Net_topo_small, neighbors) {
-	std::vector<int> neigh = net.neighbors(0);
+TEST_F(small_net_topo, net_neighbors) {
+	std::vector<int> neigh = net.net_neighbors(0);
 
 	ASSERT_EQ(neigh.size(), 2);
 	auto it = neigh.begin();
@@ -792,53 +766,45 @@ TEST_F(Net_topo_small, neighbors) {
 
 }
 
-TEST_F(Net_topo_small, node_of_0) {
+TEST_F(small_net_topo, node_of_0) {
 	EXPECT_EQ(net.node_of(0), 0);
 }
 
-TEST_F(Net_topo_small, machine_of_0) {
+TEST_F(small_net_topo, machine_of_0) {
 	EXPECT_EQ(net.machine_of(0), 0);
 }
 
-TEST_F(Net_topo_small, proximity_0_1) {
+TEST_F(small_net_topo, proximity_0_1) {
 	EXPECT_EQ(net.proximity(0, 1), 0);
 }
 
-TEST_F(Net_topo_small, hops_0_1) {
+TEST_F(small_net_topo, hops_0_1) {
 	EXPECT_EQ(net.hop_count(0,1), 1);
 }
 
-TEST_F(Net_topo_small, hops_0_2) {
+TEST_F(small_net_topo, hops_0_2) {
 	EXPECT_EQ(net.hop_count(0,2), 2);
 }
 
-TEST_F(Net_topo_small, hops_0_3) {
+TEST_F(small_net_topo, hops_0_3) {
 	EXPECT_EQ(net.hop_count(0,3), 1);
 }
 
+TEST_F(small_net_topo, name) {
+	EXPECT_EQ(net.name(), "net_topo.xml");
+}
 
-TEST(real_net_topo, setup_xml_no_nodes) {
+TEST_F(small_net_topo, change_name) {
+	EXPECT_EQ(net.name(), "net_topo.xml");
+	net.change_name("new_name");
+	EXPECT_EQ(net.name(), "new_name");
+}
+
+TEST(real_net_topo_, setup_xml_no_nodes) {
 	net_topo net;
 
 	std::vector<std::vector<pair<int, int>>> network_topo; 
 	std::vector<std::pair<int, int>> machine_topo;
-
-	// for (int i = 0; i < 8; i++)
-	// 	machine_topo.push_back(std::pair<int, int>(0, i%4));
-
-	// machine_topo.push_back(std::pair<int, int>(0, 0));
-	// machine_topo.push_back(std::pair<int, int>(0, 1));
-	// machine_topo.push_back(std::pair<int, int>(0, 2));
-	// machine_topo.push_back(std::pair<int, int>(0, 3));
-	// machine_topo.push_back(std::pair<int, int>(0, 0));
-	// machine_topo.push_back(std::pair<int, int>(0, 1));
-	// machine_topo.push_back(std::pair<int, int>(0, 2));
-	// machine_topo.push_back(std::pair<int, int>(0, 3));
-	// machine_topo.push_back(std::pair<int, int>(1, 0));
-	// machine_topo.push_back(std::pair<int, int>(1, 1));
-	// machine_topo.push_back(std::pair<int, int>(1, 2));
-	// machine_topo.push_back(std::pair<int, int>(1, 3));
-
 
 	std::vector<std::pair<int, int>> temporary;
 	int npe = 12;
@@ -920,35 +886,24 @@ TEST(real_net_topo, setup_xml_no_nodes) {
 	network_topo.push_back(temporary);
 
 	for (int i = 0; i < npe; i++)
-		machine_topo.push_back(std::pair<int, int>(i, i)); // adds node and machine as self
+		machine_topo.push_back(std::pair<int, int>(i, 0)); // adds node and machine as self
 
-	printf("Calling init \n");
-	net.init(machine_topo, network_topo, 40);
+	net.init(machine_topo, network_topo);
 
-	printf("Calling save_topo \n");
-	net.save_topology("net_topo_real_no_nodes");
+	net.save_topology("real_net_topo_no_nodes");
 
-	printf("Done \n");
 
 }
 
-TEST(real_net_topo, setup_xml_no_nodes) {
+TEST(real_net_topo_, setup_xml_with_nodes) {
 	net_topo net;
 
 	std::vector<std::vector<pair<int, int>>> network_topo; 
 	std::vector<std::pair<int, int>> machine_topo;
 
-	// for (int i = 0; i < 8; i++)
-	// 	machine_topo.push_back(std::pair<int, int>(0, i%4));
+	for (int i = 0; i < 8; i++)
+		machine_topo.push_back(std::pair<int, int>(0, i%4));
 
-	machine_topo.push_back(std::pair<int, int>(0, 0));
-	machine_topo.push_back(std::pair<int, int>(0, 1));
-	machine_topo.push_back(std::pair<int, int>(0, 2));
-	machine_topo.push_back(std::pair<int, int>(0, 3));
-	machine_topo.push_back(std::pair<int, int>(0, 0));
-	machine_topo.push_back(std::pair<int, int>(0, 1));
-	machine_topo.push_back(std::pair<int, int>(0, 2));
-	machine_topo.push_back(std::pair<int, int>(0, 3));
 	machine_topo.push_back(std::pair<int, int>(1, 0));
 	machine_topo.push_back(std::pair<int, int>(1, 1));
 	machine_topo.push_back(std::pair<int, int>(1, 2));
@@ -1034,27 +989,23 @@ TEST(real_net_topo, setup_xml_no_nodes) {
 	temporary.push_back(std::pair<int, int>(10, 2));
 	network_topo.push_back(temporary);
 
-	printf("Calling init \n");
-	net.init(machine_topo, network_topo, 40);
+	net.init(machine_topo, network_topo);
 
-	printf("Calling save_topo \n");
-	net.save_topology("net_topo_real");
-
-	printf("Done \n");
+	net.save_topology("real_net_topo");
 
 }
 
-class Net_topo_real : public ::testing::Test {
+class real_net_topo : public ::testing::Test {
  protected:
   // You can remove any or all of the following functions if its body
   // is empty.
  	net_topo net;
 
-  Net_topo_real() {
+  real_net_topo() {
 
   }
 
-  ~Net_topo_real() override {}
+  ~real_net_topo() override {}
 
   // If the constructor and destructor are not enough for setting up
   // and cleaning up each test, you can define the following methods:
@@ -1062,78 +1013,328 @@ class Net_topo_real : public ::testing::Test {
   void SetUp() override {
      // Code here will be called immediately after the constructor (right
      // before each test).
-  	net.load_topology("net_topo_real");
+  	net.load_topology("real_net_topo");
 
   }
 
   void TearDown() override {
      // Code here will be called immediately after each test (right
      // before the destructor).
-  	net.save_topology("net_topo_real");
+  	net.save_topology();
   }
 
   // Objects declared here can be used by all tests in the test case for Foo.
 };
 
-TEST_F(Net_topo_real, load_topology) {
+TEST_F(real_net_topo, load_topology) {
 }
 
-TEST_F(Net_topo_real, num_pes) {
+TEST_F(real_net_topo, num_pes) {
 	EXPECT_EQ(net.num_pes(), 12);
 }
 
-TEST_F(Net_topo_real, distance_0_1) {
-	EXPECT_EQ(net.distance(0,1), 15);
+TEST_F(real_net_topo, num_nodes) {
+	EXPECT_EQ(net.num_nodes(), 8);
 }
 
-TEST_F(Net_topo_real, distance_0_2) {
-	EXPECT_EQ(net.distance(0,2), 10);
+TEST_F(real_net_topo, num_machines) {
+	EXPECT_EQ(net.num_machines(), 2);
 }
 
-TEST_F(Net_topo_real, distance_0_3) {
-	EXPECT_EQ(net.distance(0,3), 5);
+
+TEST_F(real_net_topo, distance_0_1) {
+	EXPECT_FLOAT_EQ(net.distance(0,1), 0.2);
 }
 
-TEST_F(Net_topo_real, memoi_check_0_1) {
-	EXPECT_EQ(net.distance(0,1), 15);
+TEST_F(real_net_topo, distance_0_8) {
+	EXPECT_EQ(net.distance(0,8),8);
 }
 
-TEST_F(Net_topo_real, neighbors) {
-	std::vector<int> neigh = net.neighbors(0);
+TEST_F(real_net_topo, distance_0_11) {
+	EXPECT_EQ(net.distance(0,11), 8);
+}
 
-	ASSERT_EQ(neigh.size(), 2);
+
+TEST_F(real_net_topo, net_neighbors) {
+	std::vector<int> neigh = net.net_neighbors(0);
+
+	ASSERT_EQ(neigh.size(), 1);
 	auto it = neigh.begin();
 	EXPECT_EQ((*it), 1);
-	it++;
-	EXPECT_EQ((*it), 3);
 
 }
 
-TEST_F(Net_topo_real, node_of_0) {
+TEST_F(real_net_topo, node_of_0) {
 	EXPECT_EQ(net.node_of(0), 0);
 }
 
-TEST_F(Net_topo_real, machine_of_0) {
+TEST_F(real_net_topo, machine_of_0) {
 	EXPECT_EQ(net.machine_of(0), 0);
 }
 
-TEST_F(Net_topo_real, proximity_0_1) {
-	EXPECT_EQ(net.proximity(0, 1), 0);
+TEST_F(real_net_topo, node_of_3) {
+	EXPECT_EQ(net.node_of(3), 3);
 }
 
-TEST_F(Net_topo_real, hops_0_1) {
+TEST_F(real_net_topo, machine_of_3) {
+	EXPECT_EQ(net.machine_of(3), 0);
+}
+
+TEST_F(real_net_topo, machine_of_9) {
+	EXPECT_EQ(net.machine_of(9), 1);
+}
+
+TEST_F(real_net_topo, node_of_9) {
+	EXPECT_EQ(net.node_of(9), 5);
+}
+
+TEST_F(real_net_topo, proximity_0_0) {
+	EXPECT_EQ(net.proximity(0, 0), 3);
+}
+
+TEST_F(real_net_topo, proximity_0_1) {
+	EXPECT_EQ(net.proximity(0, 1), 1);
+}
+
+TEST_F(real_net_topo, proximity_0_4) {
+	EXPECT_EQ(net.proximity(0, 4), 2);
+}
+
+TEST_F(real_net_topo, proximity_0_8) {
+	EXPECT_EQ(net.proximity(0, 8), 0);
+}
+
+TEST_F(real_net_topo, proximity_8_9) {
+	EXPECT_EQ(net.proximity(8, 9), 1);
+}
+
+TEST_F(real_net_topo, hops_0_1) {
 	EXPECT_EQ(net.hop_count(0,1), 1);
 }
 
-TEST_F(Net_topo_real, hops_0_2) {
-	EXPECT_EQ(net.hop_count(0,2), 2);
+TEST_F(real_net_topo, hops_0_2) {
+	EXPECT_EQ(net.hop_count(0,2), 1);
 }
 
-TEST_F(Net_topo_real, hops_0_3) {
-	EXPECT_EQ(net.hop_count(0,3), 1);
+TEST_F(real_net_topo, hops_0_4) {
+	EXPECT_EQ(net.hop_count(0,4), 1);
+}
+
+TEST_F(real_net_topo, hops_0_8) {
+	EXPECT_EQ(net.hop_count(0,8), 1);
+}
+
+TEST_F(real_net_topo, on_same_machine_0) {
+	std::vector<int> pes = net.on_same_machine(0);
+	EXPECT_EQ(pes.size(), 7);
+	std::set<int> all_pes;
+	for (int i = 0; i < pes.size(); i++) {
+		all_pes.insert(pes[i]);
+	}
+	EXPECT_EQ(all_pes.size(), 7);
+	for(int i = 1; i < all_pes.size(); i++)
+		EXPECT_TRUE(all_pes.find(i) != all_pes.end());
+
+}
+
+TEST_F(real_net_topo, on_same_machine_8) {
+	std::vector<int> pes = net.on_same_machine(8);
+	EXPECT_EQ(pes.size(), 3);
+	std::set<int> all_pes;
+	for (int i = 0; i < pes.size(); i++) {
+		all_pes.insert(pes[i]);
+	}
+	EXPECT_EQ(all_pes.size(), 3);
+	for(int i = 9; i < all_pes.size(); i++)
+		EXPECT_TRUE(all_pes.find(i) != all_pes.end());
+
+}
+
+TEST_F(real_net_topo, pes_of_machine_0) {
+	std::vector<int> pes = net.pes_of_machine(0);
+	EXPECT_EQ(pes.size(), 8);
+	std::set<int> all_pes;
+	for (int i = 0; i < pes.size(); i++) {
+		all_pes.insert(pes[i]);
+	}
+	EXPECT_EQ(all_pes.size(), 8);
+	for(int i = 0; i < all_pes.size(); i++)
+		EXPECT_TRUE(all_pes.find(i) != all_pes.end());
+
 }
 
 
+TEST_F(real_net_topo, on_same_node_0) {
+	std::vector<int> pes = net.on_same_node(0);
+	EXPECT_EQ(pes.size(), 1);
+	EXPECT_EQ(pes[0], 4);
+
+}
+
+TEST_F(real_net_topo, on_same_node_8) {
+	std::vector<int> pes = net.on_same_node(8);
+	EXPECT_EQ(pes.size(), 0);
+
+}
+
+TEST_F(real_net_topo, pes_of_node_0) {
+	std::vector<int> pes = net.pes_of_node(0);
+	EXPECT_EQ(pes.size(), 2);
+	std::set<int> all_pes;
+	for (int i = 0; i < pes.size(); i++) {
+		all_pes.insert(pes[i]);
+	}
+	EXPECT_EQ(all_pes.size(), 2);
+	EXPECT_TRUE(all_pes.find(0) != all_pes.end());
+	EXPECT_TRUE(all_pes.find(4) != all_pes.end());
+}
+
+TEST_F(real_net_topo, num_net_links) {
+	EXPECT_EQ(net.num_net_links(), 1);
+}
+
+class real_net_topo_no_nodes : public ::testing::Test {
+ protected:
+  // You can remove any or all of the following functions if its body
+  // is empty.
+ 	net_topo net;
+
+  real_net_topo_no_nodes() {
+
+  }
+
+  ~real_net_topo_no_nodes() override {}
+
+  // If the constructor and destructor are not enough for setting up
+  // and cleaning up each test, you can define the following methods:
+
+  void SetUp() override {
+     // Code here will be called immediately after the constructor (right
+     // before each test).
+  	net.load_topology("real_net_topo_no_nodes");
+
+  }
+
+  void TearDown() override {
+     // Code here will be called immediately after each test (right
+     // before the destructor).
+  	net.save_topology();
+  }
+
+  // Objects declared here can be used by all tests in the test case for Foo.
+};
+
+TEST_F(real_net_topo_no_nodes, load_topology) {
+}
+
+TEST_F(real_net_topo_no_nodes, num_pes) {
+	EXPECT_EQ(net.num_pes(), 12);
+}
+
+TEST_F(real_net_topo_no_nodes, distance_0_1) {
+	EXPECT_FLOAT_EQ(net.distance(0,1), 2);
+}
+
+TEST_F(real_net_topo_no_nodes, distance_0_8) {
+	EXPECT_EQ(net.distance(0,8),8);
+}
+
+TEST_F(real_net_topo_no_nodes, distance_0_11) {
+	EXPECT_EQ(net.distance(0,11), 12);
+}
+
+TEST_F(real_net_topo_no_nodes, distance_5_10) {
+	EXPECT_EQ(net.distance(5,10), 11);
+}
+
+TEST_F(real_net_topo_no_nodes, net_neighbor0) {
+	std::vector<int> neigh = net.net_neighbors(0);
+	ASSERT_EQ(neigh.size(), 4);
+}
+
+TEST_F(real_net_topo_no_nodes, net_neighbors_11) {
+	std::vector<int> pes = net.net_neighbors(11);
+	EXPECT_EQ(pes.size(), 3);
+}
+
+TEST_F(real_net_topo_no_nodes, node_of_0) {
+	EXPECT_EQ(net.node_of(0), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, machine_of_0) {
+	EXPECT_EQ(net.machine_of(0), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, node_of_3) {
+	EXPECT_EQ(net.node_of(3), 3);
+}
+
+TEST_F(real_net_topo_no_nodes, machine_of_3) {
+	EXPECT_EQ(net.machine_of(3), 3);
+}
+
+TEST_F(real_net_topo_no_nodes, machine_of_9) {
+	EXPECT_EQ(net.machine_of(9), 9);
+}
+
+TEST_F(real_net_topo_no_nodes, node_of_9) {
+	EXPECT_EQ(net.node_of(9), 9);
+}
+
+TEST_F(real_net_topo_no_nodes, proximity_0_0) {
+	EXPECT_EQ(net.proximity(0, 0), 3);
+}
+
+TEST_F(real_net_topo_no_nodes, proximity_0_1) {
+	EXPECT_EQ(net.proximity(0, 1), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, proximity_0_4) {
+	EXPECT_EQ(net.proximity(0, 4), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, proximity_0_8) {
+	EXPECT_EQ(net.proximity(0, 8), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, proximity_8_9) {
+	EXPECT_EQ(net.proximity(8, 9), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, hops_0_1) {
+	EXPECT_EQ(net.hop_count(0,1), 1);
+}
+
+TEST_F(real_net_topo_no_nodes, hops_0_2) {
+	EXPECT_EQ(net.hop_count(0,2), 1);
+}
+
+TEST_F(real_net_topo_no_nodes, hops_0_4) {
+	EXPECT_EQ(net.hop_count(0,4), 1);
+}
+
+TEST_F(real_net_topo_no_nodes, hops_0_10) {
+	EXPECT_EQ(net.hop_count(0,10), 2);
+}
+
+TEST_F(real_net_topo_no_nodes, hops_4_11) {
+	EXPECT_EQ(net.hop_count(4,11), 4);
+}
+
+TEST_F(real_net_topo_no_nodes, on_same_machine_0) {
+	std::vector<int> pes = net.on_same_machine(0);
+	EXPECT_EQ(pes.size(), 0);
+
+}
+
+TEST_F(real_net_topo_no_nodes, on_same_machine_8) {
+	std::vector<int> pes = net.on_same_machine(8);
+	EXPECT_EQ(pes.size(), 0);
+}
+
+TEST_F(real_net_topo_no_nodes, num_net_links) {
+	EXPECT_EQ(net.num_net_links(), 20);
+}
 
 }  // namespace
 
