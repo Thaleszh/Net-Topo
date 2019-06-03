@@ -1,0 +1,9 @@
+module myNeighborLB {
+
+extern module myNborBaseLB;
+initnode void lbinit(void);
+group [migratable] myNeighborLB : myNborBaseLB {
+  entry void myNeighborLB(const CkLBOptions &);
+};
+
+};

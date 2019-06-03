@@ -1,0 +1,750 @@
+exec 1
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.419 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.026 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34503336
+All done
+[Partition 0][Node 0] End of program
+exec 2
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.398 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.024 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34500655
+All done
+[Partition 0][Node 0] End of program
+exec 3
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.420 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.025 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34498543
+All done
+[Partition 0][Node 0] End of program
+exec 4
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.383 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.031 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34504652
+All done
+[Partition 0][Node 0] End of program
+exec 5
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.433 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.021 seconds.
+[0] NborBaseLB start topology elapsed time 0.000022
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34509194
+All done
+[Partition 0][Node 0] End of program
+exec 6
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.418 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.024 seconds.
+[0] NborBaseLB start topology elapsed time 0.000017
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34898686
+All done
+[Partition 0][Node 0] End of program
+exec 7
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.455 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34503813
+All done
+[Partition 0][Node 0] End of program
+exec 8
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.435 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34498547
+All done
+[Partition 0][Node 0] End of program
+exec 9
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.466 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000016
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34913084
+All done
+[Partition 0][Node 0] End of program
+exec 10
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.419 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34499200
+All done
+[Partition 0][Node 0] End of program
+exec 11
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.429 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.032 seconds.
+[0] NborBaseLB start topology elapsed time 0.000017
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34914009
+All done
+[Partition 0][Node 0] End of program
+exec 12
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.408 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34501198
+All done
+[Partition 0][Node 0] End of program
+exec 13
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.421 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.020 seconds.
+[0] NborBaseLB start topology elapsed time 0.000022
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34494000
+All done
+[Partition 0][Node 0] End of program
+exec 14
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.429 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.025 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 32823260
+All done
+[Partition 0][Node 0] End of program
+exec 15
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.466 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.035 seconds.
+[0] NborBaseLB start topology elapsed time 0.000022
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34481922
+All done
+[Partition 0][Node 0] End of program
+exec 16
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.424 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34911323
+All done
+[Partition 0][Node 0] End of program
+exec 17
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.471 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.026 seconds.
+[0] NborBaseLB start topology elapsed time 0.000021
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34293382
+All done
+[Partition 0][Node 0] End of program
+exec 18
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.419 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34895862
+All done
+[Partition 0][Node 0] End of program
+exec 19
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.422 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34499198
+All done
+[Partition 0][Node 0] End of program
+exec 20
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.403 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.024 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34361645
+All done
+[Partition 0][Node 0] End of program
+exec 21
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.463 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34489546
+All done
+[Partition 0][Node 0] End of program
+exec 22
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.467 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.028 seconds.
+[0] NborBaseLB start topology elapsed time 0.000017
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34912342
+All done
+[Partition 0][Node 0] End of program
+exec 23
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.280 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.008 seconds.
+[0] NborBaseLB start topology elapsed time 0.000021
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34905534
+All done
+[Partition 0][Node 0] End of program
+exec 24
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.412 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000017
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34912652
+All done
+[Partition 0][Node 0] End of program
+exec 25
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.282 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.026 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34496517
+All done
+[Partition 0][Node 0] End of program
+exec 26
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.428 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.030 seconds.
+[0] NborBaseLB start topology elapsed time 0.000018
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34910301
+All done
+[Partition 0][Node 0] End of program
+exec 27
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.432 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34510268
+All done
+[Partition 0][Node 0] End of program
+exec 28
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.436 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000022
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34508273
+All done
+[Partition 0][Node 0] End of program
+exec 29
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.468 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34504611
+All done
+[Partition 0][Node 0] End of program
+exec 30
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.428 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.025 seconds.
+[0] NborBaseLB start topology elapsed time 0.000017
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 100 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 100 elements
+[0] Total work/step = 0.007207 sec
+calibrated iterations 34909975
+All done
+[Partition 0][Node 0] End of program

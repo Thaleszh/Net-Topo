@@ -1,0 +1,1080 @@
+exec 1
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.454 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.026 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34499995
+TIME PER STEP	10	7.955227	2.673423
+TIME PER STEP	20	10.314021	2.358794
+TIME PER STEP	30	12.667788	2.353767
+[NeighborLB] Load balancing step 0 starting at 18.899325
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 18.918446 duration 0.019121
+TIME PER STEP	40	18.957150	0.002103
+TIME PER STEP	50	21.620986	2.663836
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	26.286496	4.665510
+TIME PER STEP	70	28.895427	2.608931
+[NeighborLB] Load balancing step 1 starting at 36.471309
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 1 finished at 36.490160 duration 0.018851
+TIME PER STEP	80	36.506618	0.002936
+TIME PER STEP	90	39.107595	2.600977
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	44.588533	5.480938
+TIME PER STEP	110	47.188449	2.599916
+[NeighborLB] Load balancing step 2 starting at 52.980430
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 52.998906 duration 0.018476
+TIME PER STEP	120	53.025118	0.002062
+TIME PER STEP	130	56.110773	3.085655
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	60.601631	4.490858
+All done
+[Partition 0][Node 0] End of program
+exec 2
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.437 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.018 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34475785
+TIME PER STEP	10	8.224206	2.610771
+TIME PER STEP	20	10.579852	2.355646
+TIME PER STEP	30	12.932488	2.352636
+[NeighborLB] Load balancing step 0 starting at 21.996973
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 22.016579 duration 0.019606
+TIME PER STEP	40	22.035648	0.002086
+TIME PER STEP	50	24.653351	2.617703
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	30.654732	6.001381
+TIME PER STEP	70	33.251087	2.596355
+[NeighborLB] Load balancing step 1 starting at 38.871114
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 38.894589 duration 0.023475
+TIME PER STEP	80	38.897743	0.002047
+TIME PER STEP	90	41.502886	2.605143
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	48.190766	6.687880
+TIME PER STEP	110	50.801992	2.611226
+[NeighborLB] Load balancing step 2 starting at 56.546321
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 56.564678 duration 0.018357
+TIME PER STEP	120	56.579839	0.002062
+TIME PER STEP	130	59.523243	2.943404
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	63.807528	4.284285
+All done
+[Partition 0][Node 0] End of program
+exec 3
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.434 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.024 seconds.
+[0] NborBaseLB start topology elapsed time 0.000015
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34913150
+TIME PER STEP	10	8.502765	2.646795
+TIME PER STEP	20	10.842199	2.339434
+TIME PER STEP	30	13.176766	2.334567
+[NeighborLB] Load balancing step 0 starting at 23.591868
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 23.610476 duration 0.018608
+TIME PER STEP	40	23.619290	0.001443
+TIME PER STEP	50	26.203850	2.584560
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	32.577010	6.373160
+TIME PER STEP	70	35.563873	2.986863
+[NeighborLB] Load balancing step 1 starting at 42.274304
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 42.292898 duration 0.018594
+TIME PER STEP	80	42.317539	0.001468
+TIME PER STEP	90	45.346406	3.028867
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	49.228754	3.882348
+TIME PER STEP	110	52.349982	3.121228
+[NeighborLB] Load balancing step 2 starting at 57.019200
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 57.037563 duration 0.018363
+TIME PER STEP	120	57.066159	0.002056
+TIME PER STEP	130	59.698168	2.632009
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	67.241083	7.542915
+All done
+[Partition 0][Node 0] End of program
+exec 4
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.412 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34497996
+TIME PER STEP	10	8.135183	2.610160
+TIME PER STEP	20	10.495813	2.360630
+TIME PER STEP	30	12.898752	2.402939
+[NeighborLB] Load balancing step 0 starting at 23.795230
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 23.813845 duration 0.018615
+TIME PER STEP	40	23.829247	0.002083
+TIME PER STEP	50	26.441641	2.612394
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	31.976372	5.534731
+TIME PER STEP	70	34.657469	2.681097
+[NeighborLB] Load balancing step 1 starting at 38.543756
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 38.562368 duration 0.018612
+TIME PER STEP	80	38.581780	0.002070
+TIME PER STEP	90	41.193897	2.612117
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	48.032121	6.838224
+TIME PER STEP	110	50.632385	2.600264
+[NeighborLB] Load balancing step 2 starting at 56.862169
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 56.884536 duration 0.022367
+TIME PER STEP	120	56.897357	0.002080
+TIME PER STEP	130	59.553154	2.655797
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	64.234690	4.681536
+All done
+[Partition 0][Node 0] End of program
+exec 5
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.415 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000018
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34500360
+TIME PER STEP	10	8.481846	3.971941
+TIME PER STEP	20	11.971343	3.489497
+TIME PER STEP	30	15.378507	3.407164
+[NeighborLB] Load balancing step 0 starting at 19.954548
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 19.973159 duration 0.018611
+TIME PER STEP	40	19.982310	0.002072
+TIME PER STEP	50	24.469515	4.487205
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	27.999725	3.530210
+TIME PER STEP	70	31.689027	3.689302
+[NeighborLB] Load balancing step 1 starting at 34.926501
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 34.948797 duration 0.022296
+TIME PER STEP	80	34.976565	0.002068
+TIME PER STEP	90	38.904318	3.927753
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	42.619919	3.715601
+TIME PER STEP	110	46.632046	4.012127
+[NeighborLB] Load balancing step 2 starting at 51.690482
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 51.709116 duration 0.018634
+TIME PER STEP	120	51.732482	0.002047
+TIME PER STEP	130	56.448021	4.715539
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	60.147702	3.699681
+All done
+[Partition 0][Node 0] End of program
+exec 6
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.313 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.011 seconds.
+[0] NborBaseLB start topology elapsed time 0.000063
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34913518
+TIME PER STEP	10	8.693976	3.038066
+TIME PER STEP	20	11.221109	2.527133
+TIME PER STEP	30	13.726954	2.505845
+[NeighborLB] Load balancing step 0 starting at 23.209025
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 23.227642 duration 0.018617
+TIME PER STEP	40	23.241711	0.001464
+TIME PER STEP	50	26.597210	3.355499
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	31.061169	4.463959
+TIME PER STEP	70	34.274069	3.212900
+[NeighborLB] Load balancing step 1 starting at 40.032213
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 40.051365 duration 0.019152
+TIME PER STEP	80	40.069721	0.001467
+TIME PER STEP	90	42.926115	2.856394
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	48.917140	5.991025
+TIME PER STEP	110	52.781809	3.864669
+[NeighborLB] Load balancing step 2 starting at 59.253158
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 59.267306 duration 0.014148
+TIME PER STEP	120	59.286566	0.001464
+TIME PER STEP	130	62.733638	3.447072
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	68.689111	5.955473
+All done
+[Partition 0][Node 0] End of program
+exec 7
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.476 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.042 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34501994
+TIME PER STEP	10	8.047052	2.601172
+TIME PER STEP	20	10.410441	2.363389
+TIME PER STEP	30	12.778379	2.367938
+[NeighborLB] Load balancing step 0 starting at 18.714190
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 18.732815 duration 0.018625
+TIME PER STEP	40	18.744062	0.002065
+TIME PER STEP	50	21.387481	2.643419
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	25.283253	3.895772
+TIME PER STEP	70	27.884520	2.601267
+[NeighborLB] Load balancing step 1 starting at 33.536106
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 33.554684 duration 0.018578
+TIME PER STEP	80	33.575996	0.002063
+TIME PER STEP	90	36.175529	2.599533
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	42.187331	6.011802
+TIME PER STEP	110	44.828616	2.641285
+[NeighborLB] Load balancing step 2 starting at 50.801229
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 50.824634 duration 0.023405
+TIME PER STEP	120	50.852193	0.002055
+TIME PER STEP	130	53.435689	2.583496
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	57.683148	4.247459
+All done
+[Partition 0][Node 0] End of program
+exec 8
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.462 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000021
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34501952
+TIME PER STEP	10	8.573329	3.384704
+TIME PER STEP	20	11.692252	3.118923
+TIME PER STEP	30	14.885219	3.192967
+[NeighborLB] Load balancing step 0 starting at 20.640978
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 20.664863 duration 0.023885
+TIME PER STEP	40	20.676709	0.002083
+TIME PER STEP	50	23.869263	3.192554
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	29.191820	5.322557
+TIME PER STEP	70	32.610867	3.419047
+[NeighborLB] Load balancing step 1 starting at 38.486182
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 38.511621 duration 0.025439
+TIME PER STEP	80	38.513965	0.002076
+TIME PER STEP	90	41.195677	2.681712
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	47.567796	6.372119
+TIME PER STEP	110	50.294729	2.726933
+[NeighborLB] Load balancing step 2 starting at 57.700841
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 57.719197 duration 0.018356
+TIME PER STEP	120	57.744639	0.002048
+TIME PER STEP	130	61.424980	3.680341
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	66.796355	5.371375
+All done
+[Partition 0][Node 0] End of program
+exec 9
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.426 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.019 seconds.
+[0] NborBaseLB start topology elapsed time 0.000018
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34502538
+TIME PER STEP	10	10.123950	4.115882
+TIME PER STEP	20	14.390812	4.266862
+TIME PER STEP	30	18.082695	3.691883
+[NeighborLB] Load balancing step 0 starting at 25.309817
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 25.328496 duration 0.018679
+TIME PER STEP	40	25.345395	0.001450
+TIME PER STEP	50	29.563870	4.218475
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	33.984806	4.420936
+TIME PER STEP	70	37.915918	3.931112
+[NeighborLB] Load balancing step 1 starting at 42.610799
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 42.629722 duration 0.018923
+TIME PER STEP	80	42.641379	0.001446
+TIME PER STEP	90	46.665880	4.024501
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	51.714206	5.048326
+TIME PER STEP	110	55.193997	3.479791
+[NeighborLB] Load balancing step 2 starting at 61.539074
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 61.557686 duration 0.018612
+TIME PER STEP	120	61.573552	0.001431
+TIME PER STEP	130	65.602540	4.028988
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	70.452773	4.850233
+All done
+[Partition 0][Node 0] End of program
+exec 10
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.424 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000021
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34497480
+TIME PER STEP	10	8.434354	2.650579
+TIME PER STEP	20	10.794569	2.360215
+TIME PER STEP	30	13.159483	2.364914
+[NeighborLB] Load balancing step 0 starting at 21.682133
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 21.700729 duration 0.018596
+TIME PER STEP	40	21.707168	0.002086
+TIME PER STEP	50	24.309143	2.601975
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	30.003048	5.693905
+TIME PER STEP	70	32.603514	2.600466
+[NeighborLB] Load balancing step 1 starting at 37.055856
+[0] NeighborLB Strat elapsed time 0.000092
+[NeighborLB] Load balancing step 1 finished at 37.074310 duration 0.018454
+TIME PER STEP	80	37.106211	0.007096
+TIME PER STEP	90	39.629203	2.522992
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	47.508202	7.878999
+TIME PER STEP	110	50.110496	2.602294
+[NeighborLB] Load balancing step 2 starting at 56.979076
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 56.997500 duration 0.018424
+TIME PER STEP	120	57.029034	0.002099
+TIME PER STEP	130	59.610089	2.581055
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	64.600163	4.990074
+All done
+[Partition 0][Node 0] End of program
+exec 11
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.426 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000015
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34911942
+TIME PER STEP	10	9.914662	3.811762
+TIME PER STEP	20	13.427270	3.512608
+TIME PER STEP	30	17.013749	3.586479
+[NeighborLB] Load balancing step 0 starting at 25.695413
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 25.714693 duration 0.019280
+TIME PER STEP	40	25.741297	0.002094
+TIME PER STEP	50	30.510837	4.769540
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	35.264392	4.753555
+TIME PER STEP	70	39.254249	3.989857
+[NeighborLB] Load balancing step 1 starting at 44.660993
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 1 finished at 44.681786 duration 0.020793
+TIME PER STEP	80	44.684639	0.002062
+TIME PER STEP	90	49.812227	5.127588
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	54.353424	4.541197
+TIME PER STEP	110	58.690510	4.337086
+[NeighborLB] Load balancing step 2 starting at 63.319653
+[0] NeighborLB Strat elapsed time 0.000005
+[NeighborLB] Load balancing step 2 finished at 63.344237 duration 0.024584
+TIME PER STEP	120	63.349214	0.002067
+TIME PER STEP	130	67.224575	3.875361
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	72.524272	5.299697
+All done
+[Partition 0][Node 0] End of program
+exec 12
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.411 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34507333
+TIME PER STEP	10	9.455916	4.254839
+TIME PER STEP	20	14.588933	5.133017
+TIME PER STEP	30	19.294104	4.705171
+[NeighborLB] Load balancing step 0 starting at 25.320274
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 25.338893 duration 0.018619
+TIME PER STEP	40	25.344485	0.002076
+TIME PER STEP	50	29.078422	3.733937
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	34.811869	5.733447
+TIME PER STEP	70	39.883524	5.071655
+[NeighborLB] Load balancing step 1 starting at 44.845553
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 44.864142 duration 0.018589
+TIME PER STEP	80	44.884593	0.002085
+TIME PER STEP	90	48.802583	3.917990
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	52.644835	3.842252
+TIME PER STEP	110	57.690947	5.046112
+[NeighborLB] Load balancing step 2 starting at 63.806512
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 63.824875 duration 0.018363
+TIME PER STEP	120	63.849866	0.002067
+TIME PER STEP	130	68.309114	4.459248
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	72.665128	4.356014
+All done
+[Partition 0][Node 0] End of program
+exec 13
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.437 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.021 seconds.
+[0] NborBaseLB start topology elapsed time 0.000015
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34886048
+TIME PER STEP	10	9.169115	3.207931
+TIME PER STEP	20	11.498066	2.328951
+TIME PER STEP	30	13.821315	2.323249
+[NeighborLB] Load balancing step 0 starting at 24.190409
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 24.204489 duration 0.014080
+TIME PER STEP	40	24.222996	0.001468
+TIME PER STEP	50	27.620009	3.397013
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	32.774318	5.154309
+TIME PER STEP	70	35.660850	2.886532
+[NeighborLB] Load balancing step 1 starting at 41.337393
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 1 finished at 41.357452 duration 0.020059
+TIME PER STEP	80	41.370938	0.001457
+TIME PER STEP	90	44.778887	3.407949
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	51.326227	6.547340
+TIME PER STEP	110	54.715575	3.389348
+[NeighborLB] Load balancing step 2 starting at 61.275434
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 61.291772 duration 0.016338
+TIME PER STEP	120	61.324260	0.001449
+TIME PER STEP	130	64.736243	3.411983
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	70.658160	5.921917
+All done
+[Partition 0][Node 0] End of program
+exec 14
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.420 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.019 seconds.
+[0] NborBaseLB start topology elapsed time 0.000062
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34507420
+TIME PER STEP	10	9.574804	3.940466
+TIME PER STEP	20	13.254517	3.679713
+TIME PER STEP	30	16.603127	3.348610
+[NeighborLB] Load balancing step 0 starting at 22.662198
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 22.680808 duration 0.018610
+TIME PER STEP	40	22.692562	0.002098
+TIME PER STEP	50	26.693578	4.001016
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	32.303423	5.609845
+TIME PER STEP	70	36.473171	4.169748
+[NeighborLB] Load balancing step 1 starting at 42.414494
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 42.435622 duration 0.021128
+TIME PER STEP	80	42.468544	0.002061
+TIME PER STEP	90	46.223914	3.755370
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	51.131625	4.907711
+TIME PER STEP	110	54.974575	3.842950
+[NeighborLB] Load balancing step 2 starting at 59.534473
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 59.552853 duration 0.018380
+TIME PER STEP	120	59.572499	0.002052
+TIME PER STEP	130	63.985267	4.412768
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	69.230606	5.245339
+All done
+[Partition 0][Node 0] End of program
+exec 15
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.434 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.040 seconds.
+[0] NborBaseLB start topology elapsed time 0.000114
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34900518
+TIME PER STEP	10	9.134845	3.409922
+TIME PER STEP	20	11.977440	2.842595
+TIME PER STEP	30	14.901333	2.923893
+[NeighborLB] Load balancing step 0 starting at 23.339400
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 23.368921 duration 0.029521
+TIME PER STEP	40	23.381422	0.001475
+TIME PER STEP	50	26.604795	3.223373
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	33.760803	7.156008
+TIME PER STEP	70	37.362453	3.601650
+[NeighborLB] Load balancing step 1 starting at 42.098081
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 1 finished at 42.114420 duration 0.016339
+TIME PER STEP	80	42.137321	0.001460
+TIME PER STEP	90	46.051459	3.914138
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	51.440515	5.389056
+TIME PER STEP	110	55.185140	3.744625
+[NeighborLB] Load balancing step 2 starting at 59.091622
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 59.110066 duration 0.018444
+TIME PER STEP	120	59.117561	0.001449
+TIME PER STEP	130	62.372596	3.255035
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	67.440739	5.068143
+All done
+[Partition 0][Node 0] End of program
+exec 16
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.450 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000019
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34494963
+TIME PER STEP	10	8.427032	3.071498
+TIME PER STEP	20	10.826366	2.399334
+TIME PER STEP	30	13.175390	2.349024
+[NeighborLB] Load balancing step 0 starting at 22.454241
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 22.472867 duration 0.018626
+TIME PER STEP	40	22.485981	0.002100
+TIME PER STEP	50	25.564458	3.078477
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	31.528895	5.964437
+TIME PER STEP	70	34.129427	2.600532
+[NeighborLB] Load balancing step 1 starting at 41.377287
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 1 finished at 41.400591 duration 0.023304
+TIME PER STEP	80	41.429819	0.002142
+TIME PER STEP	90	44.039794	2.609975
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	50.180627	6.140833
+TIME PER STEP	110	52.824093	2.643466
+[NeighborLB] Load balancing step 2 starting at 60.129562
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 60.147936 duration 0.018374
+TIME PER STEP	120	60.185539	0.002127
+TIME PER STEP	130	62.765371	2.579832
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	69.784635	7.019264
+All done
+[Partition 0][Node 0] End of program
+exec 17
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.419 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.023 seconds.
+[0] NborBaseLB start topology elapsed time 0.000014
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34896212
+TIME PER STEP	10	8.837039	3.055408
+TIME PER STEP	20	11.665675	2.828636
+TIME PER STEP	30	14.378174	2.712499
+[NeighborLB] Load balancing step 0 starting at 19.906632
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 0 finished at 19.925166 duration 0.018534
+TIME PER STEP	40	19.930209	0.002069
+TIME PER STEP	50	22.567960	2.637751
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	27.484380	4.916420
+TIME PER STEP	70	30.532186	3.047806
+[NeighborLB] Load balancing step 1 starting at 37.742508
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 1 finished at 37.761126 duration 0.018618
+TIME PER STEP	80	37.797199	0.002085
+TIME PER STEP	90	40.477379	2.680180
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	46.888107	6.410728
+TIME PER STEP	110	49.527527	2.639420
+[NeighborLB] Load balancing step 2 starting at 57.068689
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 57.087294 duration 0.018605
+TIME PER STEP	120	57.109202	0.002090
+TIME PER STEP	130	59.718762	2.609560
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	66.780380	7.061618
+All done
+[Partition 0][Node 0] End of program
+exec 18
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.420 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000018
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34451475
+TIME PER STEP	10	8.937042	2.690880
+TIME PER STEP	20	11.323402	2.386360
+TIME PER STEP	30	13.676001	2.352599
+[NeighborLB] Load balancing step 0 starting at 24.649973
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 24.675295 duration 0.025322
+TIME PER STEP	40	24.677691	0.002117
+TIME PER STEP	50	28.282156	3.604465
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	34.643251	6.361095
+TIME PER STEP	70	38.256446	3.613195
+[NeighborLB] Load balancing step 1 starting at 44.521706
+[0] NeighborLB Strat elapsed time 0.000079
+[NeighborLB] Load balancing step 1 finished at 44.540566 duration 0.018860
+TIME PER STEP	80	44.553665	0.004886
+TIME PER STEP	90	47.307227	2.753562
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	52.263526	4.956299
+TIME PER STEP	110	54.860100	2.596574
+[NeighborLB] Load balancing step 2 starting at 61.167067
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 61.185687 duration 0.018620
+TIME PER STEP	120	61.198045	0.002097
+TIME PER STEP	130	63.867468	2.669423
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	71.215472	7.348004
+All done
+[Partition 0][Node 0] End of program
+exec 19
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.445 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.033 seconds.
+[0] NborBaseLB start topology elapsed time 0.000017
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34847360
+TIME PER STEP	10	8.587979	2.631882
+TIME PER STEP	20	11.128352	2.540373
+TIME PER STEP	30	13.667476	2.539124
+[NeighborLB] Load balancing step 0 starting at 21.776854
+[0] NeighborLB Strat elapsed time 0.000005
+[NeighborLB] Load balancing step 0 finished at 21.795448 duration 0.018594
+TIME PER STEP	40	21.804142	0.001467
+TIME PER STEP	50	24.381544	2.577402
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	28.293480	3.911936
+TIME PER STEP	70	31.049715	2.756235
+[NeighborLB] Load balancing step 1 starting at 35.020814
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 1 finished at 35.039359 duration 0.018545
+TIME PER STEP	80	35.078300	0.001430
+TIME PER STEP	90	37.856287	2.777987
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	42.273454	4.417167
+TIME PER STEP	110	44.848063	2.574609
+[NeighborLB] Load balancing step 2 starting at 49.905257
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 2 finished at 49.921583 duration 0.016326
+TIME PER STEP	120	49.958296	0.001429
+TIME PER STEP	130	52.545276	2.586980
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	57.273604	4.728328
+All done
+[Partition 0][Node 0] End of program
+exec 20
+testing charm
+Charmrun> scalable start enabled. 
+Charmrun> started all node programs in 1.329 seconds.
+Charm++> Running in non-SMP mode: 12 processes (PEs)
+Converse/Charm++ Commit ID: v6.9.0-0-gc3d50ef
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Verbose level 1, load balancing period: 0.5 seconds
+traceprojections was off at initial time.
+Charm++> Running on 2 hosts (1 sockets x 4 cores x 2 PUs = 8-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+[0] NborBaseLB start topology elapsed time 0.000020
+CharmLB> NeighborLB created.
+Running lb_test on 12 processors with 3600 elements
+Print every 10 steps
+Sync every 40 steps
+First node busywaits 60 usec; last node busywaits 4120 usec
+
+Selecting Topology Ring
+Generating topology 0 for 3600 elements
+[0] Total work/step = 3.123808 sec
+calibrated iterations 34501196
+TIME PER STEP	10	8.639053	2.727708
+TIME PER STEP	20	10.997540	2.358487
+TIME PER STEP	30	13.353449	2.355909
+[NeighborLB] Load balancing step 0 starting at 21.095083
+[0] NeighborLB Strat elapsed time 0.000004
+[NeighborLB] Load balancing step 0 finished at 21.124076 duration 0.028993
+TIME PER STEP	40	21.137380	0.002092
+TIME PER STEP	50	24.069765	2.932385
+[0] Total work/step = 3.123808 sec
+Resuming...
+TIME PER STEP	60	30.144004	6.074239
+TIME PER STEP	70	32.789336	2.645332
+[NeighborLB] Load balancing step 1 starting at 37.876427
+[0] NeighborLB Strat elapsed time 0.000005
+[NeighborLB] Load balancing step 1 finished at 37.895644 duration 0.019217
+TIME PER STEP	80	37.909337	0.002137
+TIME PER STEP	90	40.633527	2.724190
+[0] Total work/step = 3.008540 sec
+Resuming...
+TIME PER STEP	100	44.652273	4.018746
+TIME PER STEP	110	47.254212	2.601939
+[NeighborLB] Load balancing step 2 starting at 52.700940
+[0] NeighborLB Strat elapsed time 0.000003
+[NeighborLB] Load balancing step 2 finished at 52.719371 duration 0.018431
+TIME PER STEP	120	52.730210	0.001422
+TIME PER STEP	130	55.289200	2.558990
+[0] Total work/step = 3.050910 sec
+Resuming...
+TIME PER STEP	140	62.515716	7.226516
+All done
+[Partition 0][Node 0] End of program

@@ -1,0 +1,16 @@
+module myNborBaseLB {
+
+extern module LBDatabase;
+extern module BaseLB;
+
+include "NeighborLBMsg.h";
+
+group [migratable] myNborBaseLB: BaseLB {
+  entry void myNborBaseLB(const CkLBOptions &);
+  entry void ReceiveStats(CkMarshalledNLBStatsMessage data);
+  entry [reductiontarget] void ResumeClients();
+  entry void ResumeClients(int balancing);
+  entry void ReceiveMigration(LBMigrateMsg*);
+};
+
+};
