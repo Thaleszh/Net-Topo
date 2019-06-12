@@ -10,14 +10,14 @@
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
-
 using network_topology = const std::vector<std::vector<std::pair<int, int>>>&; 
 using machine_map = const std::vector<std::pair<int, int>>&;
 using pe_map = std::vector<std::unordered_set<int>>;
+#define default_filename "net_topo.xml"
 
 class net_topo {
 private:
-	string filename = "net_topo.xml";
+	string filename = default_filename;
 	std::unordered_map<int, int> pe_to_node;	// maps pes to nodes
 	pe_map machine_to_pe; // structure to hold pes of each machine
 	pe_map node_to_pe; //structure to hold pes of each node
@@ -33,19 +33,17 @@ public:
 	// machine topology has which machine and node, respectively, each pe is in
 	// network topology is a list (of nodes) containing a list of pairs (neighborPE, distance to it) 
 	// list of nodes must be clustered by machine (all nodes of same machine in sequence)
-	void init(machine_map machine_topo, network_topology network_topo);
-
-	// option to init with filename
-	void init(machine_map machine_topo, network_topology network_topo, string name) {
-		filename = name;
-		init(machine_topo, network_topo);
-	}
+	void init(machine_map machine_topo, network_topology network_topo, string name=default_filename, bool with_memoi=true);
 
 	// returns normalized minimal distance between 2 PEs
 	// 0.2 for same machine
 	// 0.1 for same node
 	// runs djisktra with memoization
 	float distance(int pe1, int pe2);
+
+	void fill_memoi() {
+		distances->fill_memoi();
+	}
 
 	// returns hop count between 2 PEs
 	// hop count on same core is 0

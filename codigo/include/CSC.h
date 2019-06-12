@@ -29,6 +29,8 @@ protected:
 	int _nodes;		// number of nodes in list
 	std::unique_ptr<upper_matrix> memoi; // memoization structure used in distances
 
+	void build_memoi(bool with_memoi);
+
 public:
 	
 	csc() {}
@@ -37,7 +39,7 @@ public:
 	csc(int_vec id, int_vec ln, int_vec val, int nlinks, int nodes, std::unique_ptr<upper_matrix> upp_matrix) 
 	: index(id), line(ln), value(val), _nlinks(nlinks), _nodes(nodes), memoi(std::move(upp_matrix)) {}
 
-	csc(int nlinks, int nodes);
+	csc(int nlinks, int nodes, bool with_memoi=true);
 
 	~csc();
 
@@ -78,6 +80,12 @@ public:
 
 	// returns number of hops between a and b
 	int hops(int a, int b);
+
+	// fills memoi with all distances
+	void fill_memoi();
+	
+	// fills all distances from scratch, might be better since distance is not restarted
+	// void all_distances();
 
 	// get neighbors of i
 	int_vec neighbors(int i);
