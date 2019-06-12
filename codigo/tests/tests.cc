@@ -1,3 +1,6 @@
+/*	Author: Thales A. Zirbel Hubner <thaleszh@gmail.com>
+ *	Created: 04/12/2018
+ */
 
 //#include "upper_matrix.h"
 #include "net_topo_charm_proxy.h"
@@ -9,8 +12,6 @@
 #include <cereal/archives/xml.hpp>
 #include <cereal/types/memory.hpp>
 
-
-
 namespace {
 
 // The fixture for testing class Foo.
@@ -19,10 +20,10 @@ class upper_matrix_test : public ::testing::Test {
  protected:
   // You can remove any or all of the following functions if its body
   // is empty.
- 	upper_matrix mat;
+ 	upper_matrix_real mat;
 
   upper_matrix_test() {
-    mat = upper_matrix(4);
+    mat = upper_matrix_real(4);
   }
 
   ~upper_matrix_test() override {
@@ -62,7 +63,7 @@ TEST_F(upper_matrix_test, cereal_archive_save) {
 }
 
 TEST_F(upper_matrix_test, cereal_archive_load) {
-	upper_matrix new_mat;
+	upper_matrix_real new_mat;
 
 	std::ifstream file("try.xml");
 
@@ -122,7 +123,7 @@ TEST_F(upper_matrix_test, full_matrix) {
 	EXPECT_EQ(mat.get(3,2), 6);
 }
 TEST_F(upper_matrix_test, full_matrix_loaded) {
-	upper_matrix new_mat;
+	upper_matrix_real new_mat;
 
 	std::ifstream file("try.xml");
 
@@ -186,23 +187,28 @@ class CSC_small : public ::testing::Test {
 };
 
 TEST(CSC_xml, create_and_save) {
-
+	printf("Going to create\n");
  	std::unique_ptr<csc> small(new csc(4,4));
+ 	printf("Created\n");
 
 	small->create_index(0, 2);
 	small->create_index(1, 2);
 	small->create_index(2, 2);
-	small->create_index(3, 2);	
+	small->create_index(3, 2);
+	printf("indexes created\n");	
 	small->create(0, 1, 11);
 	small->create(0, 3, 5);
 	small->create(1, 0, 11);
 	small->create(1, 2, 5);
+	printf("half indexes created\n");
 	small->create(2, 1, 5);
 	small->create(2, 3, 5);
 	small->create(3, 0, 5);
 	small->create(3, 2, 5);
-
+	printf("indexes created\n");
+	printf("Insert\n");
 	std::ofstream file("try.xml");
+	printf("Going to archive\n");
 	cereal::XMLOutputArchive archive(file);
 	archive(small);
 }
@@ -800,101 +806,6 @@ TEST_F(small_net_topo, change_name) {
 	EXPECT_EQ(net.name(), "new_name");
 }
 
-TEST(real_net_topo_, setup_xml_no_nodes) {
-	net_topo net;
-
-	std::vector<std::vector<pair<int, int>>> network_topo; 
-	std::vector<std::pair<int, int>> machine_topo;
-
-	std::vector<std::pair<int, int>> temporary;
-	int npe = 12;
-	//node 0
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(1, 2));
-	temporary.push_back(std::pair<int, int>(2, 2));
-	temporary.push_back(std::pair<int, int>(4, 1));
-	temporary.push_back(std::pair<int, int>(8, 8));
-	network_topo.push_back(temporary);
-	// node 1
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(0, 2));
-	temporary.push_back(std::pair<int, int>(3, 2));
-	temporary.push_back(std::pair<int, int>(5, 1));
-	temporary.push_back(std::pair<int, int>(9, 8));
-	network_topo.push_back(temporary);
-	// node 2
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(0, 2));
-	temporary.push_back(std::pair<int, int>(1, 2));
-	temporary.push_back(std::pair<int, int>(6, 1));
-	temporary.push_back(std::pair<int, int>(10, 8));
-	network_topo.push_back(temporary);
-	// node 3
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(1, 2));
-	temporary.push_back(std::pair<int, int>(2, 2));
-	temporary.push_back(std::pair<int, int>(7, 1));
-	temporary.push_back(std::pair<int, int>(11, 8));
-	network_topo.push_back(temporary);
-	// node 4
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(0, 1));
-	temporary.push_back(std::pair<int, int>(5, 2));
-	temporary.push_back(std::pair<int, int>(6, 2));
-	network_topo.push_back(temporary);
-	// node 5
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(1, 1));
-	temporary.push_back(std::pair<int, int>(4, 2));
-	temporary.push_back(std::pair<int, int>(7, 2));
-	network_topo.push_back(temporary);
-	// node 6
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(2, 1));
-	temporary.push_back(std::pair<int, int>(4, 2));
-	temporary.push_back(std::pair<int, int>(7, 2));
-	network_topo.push_back(temporary);
-	// node 7
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(3, 1));
-	temporary.push_back(std::pair<int, int>(5, 2));
-	temporary.push_back(std::pair<int, int>(6, 2));
-	network_topo.push_back(temporary);
-	// node 8
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(0, 8));
-	temporary.push_back(std::pair<int, int>(9, 2));
-	temporary.push_back(std::pair<int, int>(10, 2));
-	network_topo.push_back(temporary);
-	// node 9
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(1, 8));
-	temporary.push_back(std::pair<int, int>(8, 2));
-	temporary.push_back(std::pair<int, int>(11, 2));
-	network_topo.push_back(temporary);
-	// node 10
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(2, 8));
-	temporary.push_back(std::pair<int, int>(8, 2));
-	temporary.push_back(std::pair<int, int>(11, 2));
-	network_topo.push_back(temporary);
-	// node 11
-	temporary = std::vector<std::pair<int, int>>();
-	temporary.push_back(std::pair<int, int>(3, 8));
-	temporary.push_back(std::pair<int, int>(9, 2));
-	temporary.push_back(std::pair<int, int>(10, 2));
-	network_topo.push_back(temporary);
-
-	for (int i = 0; i < npe; i++)
-		machine_topo.push_back(std::pair<int, int>(i, 0)); // adds node and machine as self
-
-	net.init(machine_topo, network_topo);
-
-	net.save_topology("real_net_topo_no_nodes");
-
-
-}
-
 TEST(real_net_topo_, setup_xml_with_nodes) {
 	net_topo net;
 
@@ -992,6 +903,193 @@ TEST(real_net_topo_, setup_xml_with_nodes) {
 	net.init(machine_topo, network_topo);
 
 	net.save_topology("real_net_topo");
+
+}
+
+TEST(real_net_topo_, setup_xml_no_nodes_no_memoi) {
+	net_topo net;
+
+	std::vector<std::vector<pair<int, int>>> network_topo; 
+	std::vector<std::pair<int, int>> machine_topo;
+
+	std::vector<std::pair<int, int>> temporary;
+	int npe = 12;
+	//node 0
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 2));
+	temporary.push_back(std::pair<int, int>(2, 2));
+	temporary.push_back(std::pair<int, int>(4, 1));
+	temporary.push_back(std::pair<int, int>(8, 8));
+	network_topo.push_back(temporary);
+	// node 1
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 2));
+	temporary.push_back(std::pair<int, int>(3, 2));
+	temporary.push_back(std::pair<int, int>(5, 1));
+	temporary.push_back(std::pair<int, int>(9, 8));
+	network_topo.push_back(temporary);
+	// node 2
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 2));
+	temporary.push_back(std::pair<int, int>(1, 2));
+	temporary.push_back(std::pair<int, int>(6, 1));
+	temporary.push_back(std::pair<int, int>(10, 8));
+	network_topo.push_back(temporary);
+	// node 3
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 2));
+	temporary.push_back(std::pair<int, int>(2, 2));
+	temporary.push_back(std::pair<int, int>(7, 1));
+	temporary.push_back(std::pair<int, int>(11, 8));
+	network_topo.push_back(temporary);
+	// node 4
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 1));
+	temporary.push_back(std::pair<int, int>(5, 2));
+	temporary.push_back(std::pair<int, int>(6, 2));
+	network_topo.push_back(temporary);
+	// node 5
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 1));
+	temporary.push_back(std::pair<int, int>(4, 2));
+	temporary.push_back(std::pair<int, int>(7, 2));
+	network_topo.push_back(temporary);
+	// node 6
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(2, 1));
+	temporary.push_back(std::pair<int, int>(4, 2));
+	temporary.push_back(std::pair<int, int>(7, 2));
+	network_topo.push_back(temporary);
+	// node 7
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(3, 1));
+	temporary.push_back(std::pair<int, int>(5, 2));
+	temporary.push_back(std::pair<int, int>(6, 2));
+	network_topo.push_back(temporary);
+	// node 8
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 8));
+	temporary.push_back(std::pair<int, int>(9, 2));
+	temporary.push_back(std::pair<int, int>(10, 2));
+	network_topo.push_back(temporary);
+	// node 9
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 8));
+	temporary.push_back(std::pair<int, int>(8, 2));
+	temporary.push_back(std::pair<int, int>(11, 2));
+	network_topo.push_back(temporary);
+	// node 10
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(2, 8));
+	temporary.push_back(std::pair<int, int>(8, 2));
+	temporary.push_back(std::pair<int, int>(11, 2));
+	network_topo.push_back(temporary);
+	// node 11
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(3, 8));
+	temporary.push_back(std::pair<int, int>(9, 2));
+	temporary.push_back(std::pair<int, int>(10, 2));
+	network_topo.push_back(temporary);
+
+	for (int i = 0; i < npe; i++)
+		machine_topo.push_back(std::pair<int, int>(i, 0)); // adds node and machine as self
+
+	net.init(machine_topo, network_topo, "real_net_topo_no_nodes_no_memoi", false);
+
+	net.save_topology();
+}
+
+TEST(real_net_topo_, setup_xml_no_nodes) {
+	net_topo net;
+
+	std::vector<std::vector<pair<int, int>>> network_topo; 
+	std::vector<std::pair<int, int>> machine_topo;
+
+	std::vector<std::pair<int, int>> temporary;
+	int npe = 12;
+	//node 0
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 2));
+	temporary.push_back(std::pair<int, int>(2, 2));
+	temporary.push_back(std::pair<int, int>(4, 1));
+	temporary.push_back(std::pair<int, int>(8, 8));
+	network_topo.push_back(temporary);
+	// node 1
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 2));
+	temporary.push_back(std::pair<int, int>(3, 2));
+	temporary.push_back(std::pair<int, int>(5, 1));
+	temporary.push_back(std::pair<int, int>(9, 8));
+	network_topo.push_back(temporary);
+	// node 2
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 2));
+	temporary.push_back(std::pair<int, int>(1, 2));
+	temporary.push_back(std::pair<int, int>(6, 1));
+	temporary.push_back(std::pair<int, int>(10, 8));
+	network_topo.push_back(temporary);
+	// node 3
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 2));
+	temporary.push_back(std::pair<int, int>(2, 2));
+	temporary.push_back(std::pair<int, int>(7, 1));
+	temporary.push_back(std::pair<int, int>(11, 8));
+	network_topo.push_back(temporary);
+	// node 4
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 1));
+	temporary.push_back(std::pair<int, int>(5, 2));
+	temporary.push_back(std::pair<int, int>(6, 2));
+	network_topo.push_back(temporary);
+	// node 5
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 1));
+	temporary.push_back(std::pair<int, int>(4, 2));
+	temporary.push_back(std::pair<int, int>(7, 2));
+	network_topo.push_back(temporary);
+	// node 6
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(2, 1));
+	temporary.push_back(std::pair<int, int>(4, 2));
+	temporary.push_back(std::pair<int, int>(7, 2));
+	network_topo.push_back(temporary);
+	// node 7
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(3, 1));
+	temporary.push_back(std::pair<int, int>(5, 2));
+	temporary.push_back(std::pair<int, int>(6, 2));
+	network_topo.push_back(temporary);
+	// node 8
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(0, 8));
+	temporary.push_back(std::pair<int, int>(9, 2));
+	temporary.push_back(std::pair<int, int>(10, 2));
+	network_topo.push_back(temporary);
+	// node 9
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(1, 8));
+	temporary.push_back(std::pair<int, int>(8, 2));
+	temporary.push_back(std::pair<int, int>(11, 2));
+	network_topo.push_back(temporary);
+	// node 10
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(2, 8));
+	temporary.push_back(std::pair<int, int>(8, 2));
+	temporary.push_back(std::pair<int, int>(11, 2));
+	network_topo.push_back(temporary);
+	// node 11
+	temporary = std::vector<std::pair<int, int>>();
+	temporary.push_back(std::pair<int, int>(3, 8));
+	temporary.push_back(std::pair<int, int>(9, 2));
+	temporary.push_back(std::pair<int, int>(10, 2));
+	network_topo.push_back(temporary);
+
+	for (int i = 0; i < npe; i++)
+		machine_topo.push_back(std::pair<int, int>(i, 0)); // adds node and machine as self
+
+	net.init(machine_topo, network_topo);
+
+	net.save_topology("real_net_topo_no_nodes");
 
 }
 
@@ -1336,12 +1434,152 @@ TEST_F(real_net_topo_no_nodes, num_net_links) {
 	EXPECT_EQ(net.num_net_links(), 20);
 }
 
+class real_net_topo_no_nodes_no_memoi : public ::testing::Test {
+ protected:
+  // You can remove any or all of the following functions if its body
+  // is empty.
+ 	net_topo net;
+
+  real_net_topo_no_nodes_no_memoi() {
+
+  }
+
+  ~real_net_topo_no_nodes_no_memoi() override {}
+
+  // If the constructor and destructor are not enough for setting up
+  // and cleaning up each test, you can define the following methods:
+
+  void SetUp() override {
+     // Code here will be called immediately after the constructor (right
+     // before each test).
+  	net.load_topology("real_net_topo_no_nodes_no_memoi");
+
+  }
+
+  void TearDown() override {
+     // Code here will be called immediately after each test (right
+     // before the destructor).
+  	net.save_topology();
+  }
+
+  // Objects declared here can be used by all tests in the test case for Foo.
+};
+
+TEST_F(real_net_topo_no_nodes_no_memoi, load_topology) {
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, num_pes) {
+	EXPECT_EQ(net.num_pes(), 12);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, distance_0_1) {
+	EXPECT_FLOAT_EQ(net.distance(0,1), 2);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, distance_0_8) {
+	EXPECT_EQ(net.distance(0,8),8);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, distance_0_11) {
+	EXPECT_EQ(net.distance(0,11), 12);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, distance_5_10) {
+	EXPECT_EQ(net.distance(5,10), 11);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, net_neighbor0) {
+	std::vector<int> neigh = net.net_neighbors(0);
+	ASSERT_EQ(neigh.size(), 4);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, net_neighbors_11) {
+	std::vector<int> pes = net.net_neighbors(11);
+	EXPECT_EQ(pes.size(), 3);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, node_of_0) {
+	EXPECT_EQ(net.node_of(0), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, machine_of_0) {
+	EXPECT_EQ(net.machine_of(0), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, node_of_3) {
+	EXPECT_EQ(net.node_of(3), 3);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, machine_of_3) {
+	EXPECT_EQ(net.machine_of(3), 3);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, machine_of_9) {
+	EXPECT_EQ(net.machine_of(9), 9);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, node_of_9) {
+	EXPECT_EQ(net.node_of(9), 9);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, proximity_0_0) {
+	EXPECT_EQ(net.proximity(0, 0), 3);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, proximity_0_1) {
+	EXPECT_EQ(net.proximity(0, 1), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, proximity_0_4) {
+	EXPECT_EQ(net.proximity(0, 4), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, proximity_0_8) {
+	EXPECT_EQ(net.proximity(0, 8), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, proximity_8_9) {
+	EXPECT_EQ(net.proximity(8, 9), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, hops_0_1) {
+	EXPECT_EQ(net.hop_count(0,1), 1);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, hops_0_2) {
+	EXPECT_EQ(net.hop_count(0,2), 1);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, hops_0_4) {
+	EXPECT_EQ(net.hop_count(0,4), 1);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, hops_0_10) {
+	EXPECT_EQ(net.hop_count(0,10), 2);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, hops_4_11) {
+	EXPECT_EQ(net.hop_count(4,11), 4);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, on_same_machine_0) {
+	std::vector<int> pes = net.on_same_machine(0);
+	EXPECT_EQ(pes.size(), 0);
+
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, on_same_machine_8) {
+	std::vector<int> pes = net.on_same_machine(8);
+	EXPECT_EQ(pes.size(), 0);
+}
+
+TEST_F(real_net_topo_no_nodes_no_memoi, num_net_links) {
+	EXPECT_EQ(net.num_net_links(), 20);
+}
+
 }  // namespace
 
 int main(int argc, char **argv) {
   ::testing::InitGoogleTest(&argc, argv);
   return RUN_ALL_TESTS();
 }
-
-
-
