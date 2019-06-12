@@ -1,4 +1,4 @@
-/*	Author: Thales source. Zirbel Hubner <thaleszh@gmail.com>
+/*	Author: Thales A. Zirbel Hubner <thaleszh@gmail.com>
  *	Created: 04/12/2018
  */
 
@@ -10,14 +10,23 @@
 #include <unordered_set>
 
 
-csc::csc(int nlinks, int nodes) : _nlinks(nlinks), _nodes(nodes) {	
+void csc::build_memoi(bool with_memoi) {
+	if (with_memoi) {
+		memoi.reset(new upper_matrix_real(_nodes));
+	} else {
+		memoi.reset(new upper_matrix_dummy());
+	}
+}
+
+csc::csc(int nlinks, int nodes, bool with_memoi) : _nlinks(nlinks), _nodes(nodes) {
+
 	line.resize(2 * nlinks, -1);
 	value.resize(2 * nlinks, -1);
 
 	index.resize(_nodes + 1, -1);
 	index[0] = 0;
-
-	memoi.reset(new upper_matrix(nodes));
+	build_memoi(with_memoi);
+	// memoi.reset(new upper_matrix_dummy());
 }
 
 csc::~csc() {}
@@ -35,9 +44,10 @@ void csc::create_index(int column, int nlinks) {
 // creates line position and sets, it assumes there is no limit
 void csc::create(int _line, int column, int val) {
 	//if (column > _nodes || line > _nodes) return; 		// inexistant indexes
+	// printf("Before accesses");
 	if (_line == column) return; 						// self not stored, assumed 0
 	//if (line[_nlinks * 2 - 1] != -1) return; 	// no more space if dynamic
-
+	// printf("Before accesses");
 	int position = index[column];
 	int limit = index[column+1];
 	// printf("Before While, position is %d, limit is %d\n ", position, limit);
@@ -219,8 +229,8 @@ int csc::distance(int source, int sink) {
 	
 	node current = node(source, 0, source);
 	// inserts source into node_cost, parent
-	// node_cost[source] = 0; // would be done in memoi pickup
-	// unvisited.insert(current);
+	node_cost[source] = 0; // would be done in memoi pickup, unless its dummy
+	unvisited.insert(current);
 	// initializations
 	node new_node = current;
 	int position, limit, cost;
@@ -370,6 +380,12 @@ int csc::hops(int source, int sink) {
 	
 	// printf("Hops: %d\n", cost);
 	return cost;
+}
+
+void csc::fill_memoi() {
+	for (int i = 0; i < _nodes; i++)
+		for(int j = 0; j < _nodes; j++) 
+			if (memoi->get(i, j) == -1) distance(i,j);
 }
 
 	// get neighbors of i

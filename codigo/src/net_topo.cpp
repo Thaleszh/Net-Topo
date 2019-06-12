@@ -14,8 +14,9 @@
 // init, proxies to build them up
 // machine topology has which node each machine is in
 // network topology is a list of each node containing a list of their neighbors and the cost to them
-void net_topo::init(machine_map machine_topo, network_topology network_topo) {
+void net_topo::init(machine_map machine_topo, network_topology network_topo, string name, bool with_memoi) {
 
+	filename = name;
 	// handles machine topology
 	int i = 0;
 	int machine = 0;
@@ -100,7 +101,7 @@ void net_topo::init(machine_map machine_topo, network_topology network_topo) {
 	net_links /= 2;
 	// handles network topology
 	// printf("Creating csc with %d nodes and %d links \n", dist_to_machine.size(), net_links);
-	distances.reset(new csc(net_links, dist_to_machine.size()));
+	distances.reset(new csc(net_links, dist_to_machine.size(), with_memoi));
 
 	i = 0;
 	for (auto links : dist_to_machine ) {
@@ -226,17 +227,17 @@ int net_topo::proximity(int pe1, int pe2) {
 
 // reads a topology from a file, using it instead of finding it
 // Can be translated to a init with a file as arg?
-void net_topo::load_topology(string filename) {
-	std::ifstream file(filename);
+void net_topo::load_topology(string name) {
+	std::ifstream file(name);
 
 	cereal::XMLInputArchive archive(file);
 	archive(filename, distances, machine_to_pe, node_to_pe, pe_to_machine, pe_to_node);
 }
 
 // saves topology on a xml file
-void net_topo::save_topology(string filename) {
+void net_topo::save_topology(string name) {
 
-	std::ofstream file(filename);
+	std::ofstream file(name);
 	cereal::XMLOutputArchive archive(file);
 	archive(CEREAL_NVP(filename), CEREAL_NVP(distances), CEREAL_NVP(machine_to_pe), CEREAL_NVP(node_to_pe), CEREAL_NVP(pe_to_machine), CEREAL_NVP(pe_to_node));
 
