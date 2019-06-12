@@ -41,3 +41,13 @@ add_executable( runUnitTests tests/tests.cc )
 target_link_libraries(runUnitTests gtest gtest_main net_topo pthread)
 
 add_test( runUnitTests runUnitTests )
+
+add_executable( stuctsMake tests/syntetic_create.cc )
+
+target_link_libraries(stuctsMake gtest gtest_main net_topo pthread)
+
+add_test( stuctsMake stuctsMake )
+
+add_executable( execBench tests/execs.cpp )
+
+target_link_libraries(execBench net_topo)

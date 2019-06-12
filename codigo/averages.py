@@ -1,15 +1,20 @@
 import numpy as np
 
-charm_start = [
-	 0.026, 0.024, 0.025, 0.031, 0.021, 0.024, 0.023, 0.022, 0.023, 0.022, 0.032, 0.022, 
-	 0.020, 0.025, 0.035, 0.022, 0.026, 0.022, 0.023, 0.024, 0.023, 0.028, 0.008, 0.023, 
-	 0.026, 0.030, 0.022, 0.023, 0.022, 0.025]
+charm_topo_gather = [
+	0.028, 0.018, 0.029, 0.023, 0.022, 0.022, 0.021, 0.027, 0.029, 0.025, 0.028, 0.035, 0.021, 0.024, 0.019, 0.025, 0.021, 0.031, 0.028, 0.024, 0.042, 0.028, 0.022, 0.024, 0.022, 0.021, 0.025, 0.028, 0.021, 0.023, 0.024, 0.022, 0.023, 0.023, 0.022, 0.022, 0.022, 0.022, 0.034, 0.034, 0.025, 0.025, 0.030, 0.024, 0.023, 0.023, 0.024, 0.020, 0.024, 0.024, 0.027, 0.022, 0.032, 0.023, 0.022, 0.023, 0.024, 0.023, 0.030, 0.023, 0.019, 0.023, 0.027, 0.023, 0.027, 0.023, 0.042, 0.026, 0.023, 0.025, 0.030, 0.023, 0.022, 0.024, 0.024, 0.031, 0.022, 0.023, 0.022, 0.024, 0.022, 0.023, 0.022, 0.022, 0.023, 0.026, 0.032, 0.028, 0.023, 0.022, 0.026, 0.023, 0.038, 0.039, 0.021, 0.022, 0.023, 0.021, 0.020, 0.024, 0.023, 0.021, 0.023, 0.025, 0.023, 0.032, 0.025, 0.022, 0.027, 0.027, 0.023, 0.031, 0.024, 0.023, 0.023, 0.024, 0.023, 0.033, 0.043, 0.022, 0.026, 0.024, 0.025, 0.031, 0.021, 0.024, 0.023, 0.022, 0.023, 0.022, 0.032, 0.022, 0.020, 0.025, 0.035, 0.022, 0.026, 0.022, 0.023, 0.024, 0.023, 0.028, 0.008, 0.023, 0.026, 0.030, 0.022, 0.023, 0.022, 0.025, 0.020, 0.024, 0.029, 0.021, 0.022, 0.023, 0.033, 0.024, 0.022, 0.023, 0.023, 0.022, 0.027, 0.022, 0.022, 0.024, 0.022, 0.028, 0.022, 0.024, 0.022, 0.021, 0.023, 0.029, 0.022, 0.017, 0.022, 0.030, 0.022, 0.022, 0.021, 0.030, 0.022, 0.017, 0.027, 0.022, 0.041, 0.024, 0.030, 0.043, 0.033, 0.022, 0.021, 0.022, 0.023, 0.026, 0.019, 0.022, 0.026, 0.022, 0.021, 0.027, 0.031, 0.023, 0.023, 0.022, 0.023, 0.022, 0.022, 0.033, 0.022, 0.022, 0.011, 0.022, 0.039, 0.025, 0.028, 0.029, 0.031, 0.022, 0.022, 0.021, 0.016, 0.023, 0.022, 0.028, 0.041, 0.023, 0.027, 0.021, 0.023, 0.038, 0.022, 0.016, 0.018, 0.024, 0.024, 0.027, 0.028, 0.029
+	]
+
+normal_topo_start = [
+	 0.000020, 0.000019, 0.000020, 0.000020, 0.000022, 0.000017, 0.000020, 0.000020, 0.000016, 0.000020, 0.000017, 0.000020, 0.000022, 0.000020, 0.000022, 0.000019, 0.000021, 0.000020, 0.000020, 0.000020, 0.000020, 0.000017, 0.000021, 0.000017, 0.000020, 0.000018, 0.000019, 0.000022, 0.000020, 0.000017, 0.000020, 0.000019, 0.000019, 0.000015, 0.000018, 0.000021, 0.000019, 0.000018, 0.000017, 0.000021, 0.000019, 0.000019, 0.000020, 0.000016, 0.000019, 0.000018, 0.000018, 0.000015, 0.000021, 0.000019, 0.000019, 0.000018, 0.000018, 0.000020, 0.000019, 0.000015, 0.000020, 0.000019, 0.000019, 0.000015, 0.000015, 0.000019, 0.000022, 0.000015, 0.000015, 0.000019, 0.000019, 0.000020, 0.000019, 0.000019, 0.000019, 0.000019, 0.000019, 0.000019, 0.000019, 0.000015, 0.000020, 0.000021, 0.000018, 0.000019, 0.000018, 0.000019, 0.000019, 0.000019, 0.000019, 0.000015, 0.000021, 0.000019, 0.000018, 0.000019, 0.000019, 0.000018, 0.000018, 0.000021, 0.000021, 0.000018, 0.000015, 0.000016, 0.000019, 0.000019, 0.000019, 0.000018, 0.000018, 0.000019, 0.000015, 0.000018, 0.000015, 0.000019, 0.000019, 0.000022, 0.000021, 0.000020, 0.000015, 0.000015, 0.000019, 0.000020, 0.000019, 0.000015, 0.000015, 0.000020
+	 ]
+
+charm_start = np.add(normal_topo_start, charm_topo_gather[120:])
 
 start_topology = [
-	0.000639, 0.002586, 0.000911, 0.000924, 0.000922, 0.000686, 0.000909, 0.000940, 0.000644, 
-	0.000931, 0.000905, 0.000912, 0.000647, 0.000649, 0.000978, 0.000659, 0.000960, 0.000672, 
-	0.000908, 0.000939, 0.000910, 0.000898, 0.000639, 0.000908, 0.000656, 0.000904, 0.000962, 
-	0.000906, 0.000642, 0.000918]
+	0.000639, 0.002586, 0.000911, 0.000924, 0.000922, 0.000686, 0.000909, 0.000940, 0.000644, 0.000931, 0.000905, 0.000912, 0.000647, 0.000649, 0.000978, 0.000659, 0.000960, 0.000672, 0.000908, 0.000939, 0.000910, 0.000898, 0.000639, 0.000908, 0.000656, 0.000904, 0.000962, 0.000906, 0.000642, 0.000918, 0.000914, 0.000893, 0.000889, 0.000892, 0.000891, 0.000903, 0.000894, 0.000892, 0.000916, 0.000914, 0.000918, 0.000911, 0.000918, 0.000912, 0.000891, 0.000920, 0.000913, 0.000891, 0.000919, 0.000916, 0.000900, 0.000894, 0.000634, 0.000905, 0.000892, 0.000917, 0.000911, 0.000935, 0.000894, 0.000897, 0.000895, 0.000625, 0.000915, 0.000894, 0.000913, 0.000915, 0.000891, 0.000919, 0.000629, 0.000926, 0.000912, 0.000623, 0.000893, 0.000643, 0.000913, 0.000628, 0.000913, 0.000892, 0.000911, 0.000914, 0.000909, 0.000892, 0.000893, 0.000895, 0.000636, 0.000896, 0.000628, 0.000915, 0.000894, 0.000914, 0.000911, 0.000894, 0.000917, 0.000912, 0.000895, 0.000894, 0.000907, 0.000916, 0.000917, 0.000894, 0.000892, 0.000919, 0.000627, 0.000890, 0.000894, 0.000641, 0.000892, 0.000892, 0.000895, 0.000916, 0.000628, 0.000915, 0.000898, 0.000630, 0.000911, 0.000889, 0.000628, 0.000894, 0.000921, 0.000911 
+	]
+
+# mycharm_start = np.add(start_topology, charm_topo_gather[:120])
 
 load_topology = [
 	0.000715, 0.000738, 0.000740, 0.000732, 0.000733, 0.000732, 0.000737, 0.000742, 0.000569, 
@@ -69,6 +74,7 @@ big_lb = [
 
 avg_charm_start = np.mean(charm_start)
 avg_start_topology = np.mean(start_topology)
+avg_mycharm_start = avg_charm_start + avg_start_topology
 avg_load_topology = np.mean(load_topology)
 avg_neigh_finish = np.mean(neigh_finish)
 avg_myneigh_finish = np.mean(myneigh_finish)
@@ -79,42 +85,34 @@ avg_big_neigh_finish = np.mean(big_neigh_finish)
 avg_my_big_lb = np.mean(my_big_lb)
 avg_big_lb = np.mean(big_lb)
 
-print("avg_charm_start:")
-print(avg_charm_start)
+print("count: " + str(len(charm_start)) +" avg_charm_start:" + str(avg_charm_start))
 print()
-print("avg_start_topology:")
-print(avg_start_topology)
+print("count: " + str(len(charm_start)) +" avg_mycharm_start:" + str(avg_mycharm_start))
 print()
-print("avg_load_topology:")
-print(avg_load_topology)
+print("count: " + str(len(start_topology)) +" avg_start_topology:" + str(avg_start_topology))
 print()
-print("avg_neigh_finish:")
-print(avg_neigh_finish)
+print("count: " + str(len(load_topology)) +" avg_load_topology:" + str(avg_load_topology))
 print()
-print("avg_myneigh_finish:")
-print(avg_myneigh_finish)
+print("count: " + str(len(neigh_finish)) +" avg_neigh_finish:" + str(avg_neigh_finish))
 print()
-print("avg_lb:")
-print(avg_lb)
+print("count: " + str(len(myneigh_finish)) +" avg_myneigh_finish:" + str(avg_myneigh_finish))
 print()
-print("avg_my_lb:")
-print(avg_my_lb)
+print("count: " + str(len(big_myneigh_finish)) +" avg_big_myneigh_finish:" + str(avg_big_myneigh_finish))
 print()
-print("avg_big_myneigh_finish:")
-print(avg_big_myneigh_finish)
+print("count: " + str(len(big_neigh_finish)) +" avg_big_neigh_finish:" + str(avg_big_neigh_finish))
 print()
-print("avg_big_neigh_finish:")
-print(avg_big_neigh_finish)
+print("count: " + str(len(lb)) +" avg_lb:" + str(avg_lb))
 print()
-print("avg_my_big_lb:")
-print(avg_my_big_lb)
+print("count: " + str(len(my_lb)) +" avg_my_lb:" + str(avg_my_lb))
 print()
-print("avg_big_lb:")
-print(avg_big_lb)
+print("count: " + str(len(my_big_lb)) +" avg_my_big_lb:" + str(avg_my_big_lb))
+print()
+print("count: " + str(len(big_lb)) +" avg_big_lb:" + str(avg_big_lb))
 print()
 
 std_charm_start = np.std(charm_start)
 std_start_topology = np.std(start_topology)
+std_mycharm_start = std_charm_start + std_start_topology
 std_load_topology = np.std(load_topology)
 std_neigh_finish = np.std(neigh_finish)
 std_myneigh_finish = np.std(myneigh_finish)
@@ -125,35 +123,26 @@ std_big_neigh_finish = np.std(big_neigh_finish)
 std_my_big_lb = np.std(my_big_lb)
 std_big_lb = np.std(big_lb)
 
-print("std_charm_start (%):")
-print( 100* std_charm_start / avg_charm_start)
+print("std_charm_start (%):" + str(100* std_charm_start / avg_charm_start))
 print()
-print("std_start_topology (%):")
-print( 100* std_start_topology / avg_start_topology)
+print("std_mycharm_start (%):" + str(100* std_mycharm_start / avg_mycharm_start))
 print()
-print("std_load_topology (%):")
-print( 100* std_load_topology / avg_load_topology)
+print("std_start_topology (%):" + str(100* std_start_topology / avg_start_topology))
 print()
-print("std_neigh_finish (%):")
-print( 100* std_neigh_finish / avg_neigh_finish)
+print("std_load_topology (%):" + str(100* std_load_topology / avg_load_topology))
 print()
-print("std_myneigh_finish (%):")
-print( 100* std_myneigh_finish / avg_myneigh_finish)
+print("std_neigh_finish (%):" + str(100* std_neigh_finish / avg_neigh_finish))
 print()
-print("std_lb (%):")
-print( 100* std_lb / avg_lb)
+print("std_myneigh_finish (%):" + str(100* std_myneigh_finish / avg_myneigh_finish))
 print()
-print("std_my_lb (%):")
-print( 100* std_my_lb / avg_my_lb)
+print("std_big_myneigh_finish (%):" + str(100* std_big_myneigh_finish / avg_big_myneigh_finish))
 print()
-print("std_big_myneigh_finish (%):")
-print( 100* std_big_myneigh_finish / avg_big_myneigh_finish)
+print("std_big_neigh_finish (%):" + str(100* std_big_neigh_finish / avg_big_neigh_finish))
 print()
-print("std_big_neigh_finish (%):")
-print( 100* std_big_neigh_finish / avg_big_neigh_finish)
+print("std_lb (%):" + str(100* std_lb / avg_lb))
 print()
-print("std_my_big_lb (%):")
-print( 100* std_my_big_lb / avg_my_big_lb)
+print("std_my_lb (%):" + str(100* std_my_lb / avg_my_lb))
 print()
-print("std_big_lb (%):")
-print( 100* std_big_lb / avg_big_lb)
+print("std_my_big_lb (%):" + str(100* std_my_big_lb / avg_my_big_lb))
+print()
+print("std_big_lb (%):" + str(100* std_big_lb / avg_big_lb))
