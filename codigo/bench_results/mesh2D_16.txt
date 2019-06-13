@@ -1,0 +1,2040 @@
+[mesh2D_16] Init time: 2633 microseconds, Save time: 112514 microseconds, Total time: 115148 microseconds
+[mesh2D_16] Init time: 3571 microseconds, Save time: 99124 microseconds, Total time: 102696 microseconds
+[mesh2D_16] Init time: 2670 microseconds, Save time: 59497 microseconds, Total time: 62167 microseconds
+[mesh2D_16] Init time: 2664 microseconds, Save time: 68905 microseconds, Total time: 71569 microseconds
+[mesh2D_16] Init time: 2681 microseconds, Save time: 83260 microseconds, Total time: 85941 microseconds
+[mesh2D_16] Init time: 2673 microseconds, Save time: 68289 microseconds, Total time: 70963 microseconds
+[mesh2D_16] Init time: 2670 microseconds, Save time: 59929 microseconds, Total time: 62599 microseconds
+[mesh2D_16] Init time: 2664 microseconds, Save time: 59966 microseconds, Total time: 62630 microseconds
+[mesh2D_16] Init time: 2669 microseconds, Save time: 59548 microseconds, Total time: 62218 microseconds
+[mesh2D_16] Init time: 2672 microseconds, Save time: 59967 microseconds, Total time: 62640 microseconds
+[mesh2D_16] Init time: 2638 microseconds, Save time: 60626 microseconds, Total time: 63264 microseconds
+[mesh2D_16] Init time: 2672 microseconds, Save time: 59608 microseconds, Total time: 62280 microseconds
+[mesh2D_16] Init time: 2669 microseconds, Save time: 59992 microseconds, Total time: 62661 microseconds
+[mesh2D_16] Init time: 2634 microseconds, Save time: 214130 microseconds, Total time: 216765 microseconds
+[mesh2D_16] Init time: 11633 microseconds, Save time: 84379 microseconds, Total time: 96013 microseconds
+ Starting multiload of mesh2D_16, running 100 iterations 
+[mesh2D_16] - Load time: 84814 microseconds
+[mesh2D_16] - Load time: 82925 microseconds
+[mesh2D_16] - Load time: 82545 microseconds
+[mesh2D_16] - Load time: 82203 microseconds
+[mesh2D_16] - Load time: 82183 microseconds
+[mesh2D_16] - Load time: 82629 microseconds
+[mesh2D_16] - Load time: 82765 microseconds
+[mesh2D_16] - Load time: 82223 microseconds
+[mesh2D_16] - Load time: 82243 microseconds
+[mesh2D_16] - Load time: 82134 microseconds
+[mesh2D_16] - Load time: 82187 microseconds
+[mesh2D_16] - Load time: 82340 microseconds
+[mesh2D_16] - Load time: 82351 microseconds
+[mesh2D_16] - Load time: 82155 microseconds
+[mesh2D_16] - Load time: 82227 microseconds
+[mesh2D_16] - Load time: 82211 microseconds
+[mesh2D_16] - Load time: 82191 microseconds
+[mesh2D_16] - Load time: 82176 microseconds
+[mesh2D_16] - Load time: 82539 microseconds
+[mesh2D_16] - Load time: 82200 microseconds
+[mesh2D_16] - Load time: 82180 microseconds
+[mesh2D_16] - Load time: 82202 microseconds
+[mesh2D_16] - Load time: 82172 microseconds
+[mesh2D_16] - Load time: 82414 microseconds
+[mesh2D_16] - Load time: 82501 microseconds
+[mesh2D_16] - Load time: 82178 microseconds
+[mesh2D_16] - Load time: 82454 microseconds
+[mesh2D_16] - Load time: 82197 microseconds
+[mesh2D_16] - Load time: 82201 microseconds
+[mesh2D_16] - Load time: 82227 microseconds
+[mesh2D_16] - Load time: 82506 microseconds
+[mesh2D_16] - Load time: 82228 microseconds
+[mesh2D_16] - Load time: 82172 microseconds
+[mesh2D_16] - Load time: 82168 microseconds
+[mesh2D_16] - Load time: 82186 microseconds
+[mesh2D_16] - Load time: 82378 microseconds
+[mesh2D_16] - Load time: 82389 microseconds
+[mesh2D_16] - Load time: 82169 microseconds
+[mesh2D_16] - Load time: 82197 microseconds
+[mesh2D_16] - Load time: 82376 microseconds
+[mesh2D_16] - Load time: 82206 microseconds
+[mesh2D_16] - Load time: 82416 microseconds
+[mesh2D_16] - Load time: 82391 microseconds
+[mesh2D_16] - Load time: 82269 microseconds
+[mesh2D_16] - Load time: 82182 microseconds
+[mesh2D_16] - Load time: 82272 microseconds
+[mesh2D_16] - Load time: 82172 microseconds
+[mesh2D_16] - Load time: 82403 microseconds
+[mesh2D_16] - Load time: 82404 microseconds
+[mesh2D_16] - Load time: 82301 microseconds
+[mesh2D_16] - Load time: 82212 microseconds
+[mesh2D_16] - Load time: 82330 microseconds
+[mesh2D_16] - Load time: 82195 microseconds
+[mesh2D_16] - Load time: 82217 microseconds
+[mesh2D_16] - Load time: 82374 microseconds
+[mesh2D_16] - Load time: 82312 microseconds
+[mesh2D_16] - Load time: 82294 microseconds
+[mesh2D_16] - Load time: 82208 microseconds
+[mesh2D_16] - Load time: 82198 microseconds
+[mesh2D_16] - Load time: 82182 microseconds
+[mesh2D_16] - Load time: 82410 microseconds
+[mesh2D_16] - Load time: 82321 microseconds
+[mesh2D_16] - Load time: 82205 microseconds
+[mesh2D_16] - Load time: 82241 microseconds
+[mesh2D_16] - Load time: 82236 microseconds
+[mesh2D_16] - Load time: 82160 microseconds
+[mesh2D_16] - Load time: 82332 microseconds
+[mesh2D_16] - Load time: 82258 microseconds
+[mesh2D_16] - Load time: 82219 microseconds
+[mesh2D_16] - Load time: 82221 microseconds
+[mesh2D_16] - Load time: 82196 microseconds
+[mesh2D_16] - Load time: 82161 microseconds
+[mesh2D_16] - Load time: 82297 microseconds
+[mesh2D_16] - Load time: 82345 microseconds
+[mesh2D_16] - Load time: 82412 microseconds
+[mesh2D_16] - Load time: 82509 microseconds
+[mesh2D_16] - Load time: 82355 microseconds
+[mesh2D_16] - Load time: 82175 microseconds
+[mesh2D_16] - Load time: 82284 microseconds
+[mesh2D_16] - Load time: 82399 microseconds
+[mesh2D_16] - Load time: 82207 microseconds
+[mesh2D_16] - Load time: 82242 microseconds
+[mesh2D_16] - Load time: 82175 microseconds
+[mesh2D_16] - Load time: 82177 microseconds
+[mesh2D_16] - Load time: 82178 microseconds
+[mesh2D_16] - Load time: 82373 microseconds
+[mesh2D_16] - Load time: 82277 microseconds
+[mesh2D_16] - Load time: 82258 microseconds
+[mesh2D_16] - Load time: 82220 microseconds
+[mesh2D_16] - Load time: 82172 microseconds
+[mesh2D_16] - Load time: 82170 microseconds
+[mesh2D_16] - Load time: 82323 microseconds
+[mesh2D_16] - Load time: 82212 microseconds
+[mesh2D_16] - Load time: 82168 microseconds
+[mesh2D_16] - Load time: 82195 microseconds
+[mesh2D_16] - Load time: 82170 microseconds
+[mesh2D_16] - Load time: 82213 microseconds
+[mesh2D_16] - Load time: 82439 microseconds
+[mesh2D_16] - Load time: 84032 microseconds
+[mesh2D_16] - Load time: 88832 microseconds
+ Starting distance on mesh2D_16, up to 256 nodes, running 200 iterations 
+[mesh2D_16] - Proximity time: 755 ns
+[mesh2D_16] - Proximity time: 300 ns
+[mesh2D_16] - Proximity time: 232 ns
+[mesh2D_16] - Proximity time: 210 ns
+[mesh2D_16] - Proximity time: 235 ns
+[mesh2D_16] - Proximity time: 223 ns
+[mesh2D_16] - Proximity time: 206 ns
+[mesh2D_16] - Proximity time: 212 ns
+[mesh2D_16] - Proximity time: 224 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 208 ns
+[mesh2D_16] - Proximity time: 214 ns
+[mesh2D_16] - Proximity time: 194 ns
+[mesh2D_16] - Proximity time: 209 ns
+[mesh2D_16] - Proximity time: 225 ns
+[mesh2D_16] - Proximity time: 204 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 208 ns
+[mesh2D_16] - Proximity time: 199 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 211 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 208 ns
+[mesh2D_16] - Proximity time: 218 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 196 ns
+[mesh2D_16] - Proximity time: 207 ns
+[mesh2D_16] - Proximity time: 205 ns
+[mesh2D_16] - Proximity time: 201 ns
+[mesh2D_16] - Proximity time: 223 ns
+[mesh2D_16] - Proximity time: 208 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 192 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 215 ns
+[mesh2D_16] - Proximity time: 200 ns
+[mesh2D_16] - Proximity time: 192 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 195 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 195 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 206 ns
+[mesh2D_16] - Proximity time: 207 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 192 ns
+[mesh2D_16] - Proximity time: 198 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 199 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 211 ns
+[mesh2D_16] - Proximity time: 204 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 183 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 194 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 197 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 197 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 192 ns
+[mesh2D_16] - Proximity time: 206 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 199 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 199 ns
+[mesh2D_16] - Proximity time: 208 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 200 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 1138 ns
+[mesh2D_16] - Proximity time: 194 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 242 ns
+[mesh2D_16] - Proximity time: 192 ns
+[mesh2D_16] - Proximity time: 207 ns
+[mesh2D_16] - Proximity time: 210 ns
+[mesh2D_16] - Proximity time: 213 ns
+[mesh2D_16] - Proximity time: 195 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 195 ns
+[mesh2D_16] - Proximity time: 196 ns
+[mesh2D_16] - Proximity time: 206 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 217 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 196 ns
+[mesh2D_16] - Proximity time: 197 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 208 ns
+[mesh2D_16] - Proximity time: 211 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 199 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 196 ns
+[mesh2D_16] - Proximity time: 198 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 205 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 200 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 196 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 183 ns
+[mesh2D_16] - Proximity time: 206 ns
+[mesh2D_16] - Proximity time: 202 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 199 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 190 ns
+[mesh2D_16] - Proximity time: 192 ns
+[mesh2D_16] - Proximity time: 198 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 196 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 207 ns
+[mesh2D_16] - Proximity time: 187 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 201 ns
+[mesh2D_16] - Proximity time: 184 ns
+[mesh2D_16] - Proximity time: 189 ns
+[mesh2D_16] - Proximity time: 203 ns
+[mesh2D_16] - Proximity time: 188 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 185 ns
+[mesh2D_16] - Proximity time: 191 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 193 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 186 ns
+[mesh2D_16] - Proximity time: 182 ns
+[mesh2D_16] - Proximity time: 201 ns
+ Starting hops on mesh2D_16, reaching up to 1, up to 256 nodes, running 200 iterations 
+[mesh2D_16] - 1 Hop time: 10611 ns
+[mesh2D_16] - 1 Hop time: 5913 ns
+[mesh2D_16] - 1 Hop time: 5260 ns
+[mesh2D_16] - 1 Hop time: 5356 ns
+[mesh2D_16] - 1 Hop time: 5643 ns
+[mesh2D_16] - 1 Hop time: 261455 ns
+[mesh2D_16] - 1 Hop time: 5930 ns
+[mesh2D_16] - 1 Hop time: 5499 ns
+[mesh2D_16] - 1 Hop time: 5403 ns
+[mesh2D_16] - 1 Hop time: 5213 ns
+[mesh2D_16] - 1 Hop time: 5147 ns
+[mesh2D_16] - 1 Hop time: 5118 ns
+[mesh2D_16] - 1 Hop time: 2286 ns
+[mesh2D_16] - 1 Hop time: 2289 ns
+[mesh2D_16] - 1 Hop time: 5242 ns
+[mesh2D_16] - 1 Hop time: 5177 ns
+[mesh2D_16] - 1 Hop time: 5204 ns
+[mesh2D_16] - 1 Hop time: 5141 ns
+[mesh2D_16] - 1 Hop time: 5138 ns
+[mesh2D_16] - 1 Hop time: 2292 ns
+[mesh2D_16] - 1 Hop time: 5100 ns
+[mesh2D_16] - 1 Hop time: 5081 ns
+[mesh2D_16] - 1 Hop time: 5176 ns
+[mesh2D_16] - 1 Hop time: 5115 ns
+[mesh2D_16] - 1 Hop time: 5094 ns
+[mesh2D_16] - 1 Hop time: 5171 ns
+[mesh2D_16] - 1 Hop time: 4436 ns
+[mesh2D_16] - 1 Hop time: 5087 ns
+[mesh2D_16] - 1 Hop time: 4958 ns
+[mesh2D_16] - 1 Hop time: 4379 ns
+[mesh2D_16] - 1 Hop time: 5128 ns
+[mesh2D_16] - 1 Hop time: 5136 ns
+[mesh2D_16] - 1 Hop time: 5099 ns
+[mesh2D_16] - 1 Hop time: 5027 ns
+[mesh2D_16] - 1 Hop time: 2243 ns
+[mesh2D_16] - 1 Hop time: 5094 ns
+[mesh2D_16] - 1 Hop time: 5050 ns
+[mesh2D_16] - 1 Hop time: 4973 ns
+[mesh2D_16] - 1 Hop time: 5107 ns
+[mesh2D_16] - 1 Hop time: 5068 ns
+[mesh2D_16] - 1 Hop time: 5010 ns
+[mesh2D_16] - 1 Hop time: 5095 ns
+[mesh2D_16] - 1 Hop time: 2261 ns
+[mesh2D_16] - 1 Hop time: 5102 ns
+[mesh2D_16] - 1 Hop time: 5103 ns
+[mesh2D_16] - 1 Hop time: 5074 ns
+[mesh2D_16] - 1 Hop time: 4380 ns
+[mesh2D_16] - 1 Hop time: 4946 ns
+[mesh2D_16] - 1 Hop time: 4972 ns
+[mesh2D_16] - 1 Hop time: 5143 ns
+[mesh2D_16] - 1 Hop time: 5143 ns
+[mesh2D_16] - 1 Hop time: 5069 ns
+[mesh2D_16] - 1 Hop time: 5139 ns
+[mesh2D_16] - 1 Hop time: 5096 ns
+[mesh2D_16] - 1 Hop time: 4963 ns
+[mesh2D_16] - 1 Hop time: 5086 ns
+[mesh2D_16] - 1 Hop time: 1797 ns
+[mesh2D_16] - 1 Hop time: 5123 ns
+[mesh2D_16] - 1 Hop time: 5124 ns
+[mesh2D_16] - 1 Hop time: 5145 ns
+[mesh2D_16] - 1 Hop time: 5133 ns
+[mesh2D_16] - 1 Hop time: 5006 ns
+[mesh2D_16] - 1 Hop time: 5100 ns
+[mesh2D_16] - 1 Hop time: 5093 ns
+[mesh2D_16] - 1 Hop time: 5116 ns
+[mesh2D_16] - 1 Hop time: 5079 ns
+[mesh2D_16] - 1 Hop time: 4321 ns
+[mesh2D_16] - 1 Hop time: 5069 ns
+[mesh2D_16] - 1 Hop time: 5101 ns
+[mesh2D_16] - 1 Hop time: 5126 ns
+[mesh2D_16] - 1 Hop time: 2238 ns
+[mesh2D_16] - 1 Hop time: 5024 ns
+[mesh2D_16] - 1 Hop time: 4396 ns
+[mesh2D_16] - 1 Hop time: 2224 ns
+[mesh2D_16] - 1 Hop time: 4384 ns
+[mesh2D_16] - 1 Hop time: 5163 ns
+[mesh2D_16] - 1 Hop time: 5084 ns
+[mesh2D_16] - 1 Hop time: 5100 ns
+[mesh2D_16] - 1 Hop time: 5141 ns
+[mesh2D_16] - 1 Hop time: 5108 ns
+[mesh2D_16] - 1 Hop time: 4350 ns
+[mesh2D_16] - 1 Hop time: 5072 ns
+[mesh2D_16] - 1 Hop time: 5070 ns
+[mesh2D_16] - 1 Hop time: 5137 ns
+[mesh2D_16] - 1 Hop time: 5022 ns
+[mesh2D_16] - 1 Hop time: 5135 ns
+[mesh2D_16] - 1 Hop time: 5109 ns
+[mesh2D_16] - 1 Hop time: 2244 ns
+[mesh2D_16] - 1 Hop time: 5108 ns
+[mesh2D_16] - 1 Hop time: 4344 ns
+[mesh2D_16] - 1 Hop time: 5152 ns
+[mesh2D_16] - 1 Hop time: 5127 ns
+[mesh2D_16] - 1 Hop time: 5099 ns
+[mesh2D_16] - 1 Hop time: 5134 ns
+[mesh2D_16] - 1 Hop time: 5066 ns
+[mesh2D_16] - 1 Hop time: 4955 ns
+[mesh2D_16] - 1 Hop time: 2198 ns
+[mesh2D_16] - 1 Hop time: 5093 ns
+[mesh2D_16] - 1 Hop time: 1890 ns
+[mesh2D_16] - 1 Hop time: 5088 ns
+[mesh2D_16] - 1 Hop time: 2245 ns
+[mesh2D_16] - 1 Hop time: 2230 ns
+[mesh2D_16] - 1 Hop time: 5059 ns
+[mesh2D_16] - 1 Hop time: 5086 ns
+[mesh2D_16] - 1 Hop time: 2209 ns
+[mesh2D_16] - 1 Hop time: 5055 ns
+[mesh2D_16] - 1 Hop time: 5101 ns
+[mesh2D_16] - 1 Hop time: 5053 ns
+[mesh2D_16] - 1 Hop time: 2253 ns
+[mesh2D_16] - 1 Hop time: 5138 ns
+[mesh2D_16] - 1 Hop time: 5126 ns
+[mesh2D_16] - 1 Hop time: 5138 ns
+[mesh2D_16] - 1 Hop time: 5095 ns
+[mesh2D_16] - 1 Hop time: 5128 ns
+[mesh2D_16] - 1 Hop time: 4398 ns
+[mesh2D_16] - 1 Hop time: 5109 ns
+[mesh2D_16] - 1 Hop time: 5126 ns
+[mesh2D_16] - 1 Hop time: 2240 ns
+[mesh2D_16] - 1 Hop time: 5375 ns
+[mesh2D_16] - 1 Hop time: 5073 ns
+[mesh2D_16] - 1 Hop time: 5075 ns
+[mesh2D_16] - 1 Hop time: 5064 ns
+[mesh2D_16] - 1 Hop time: 4327 ns
+[mesh2D_16] - 1 Hop time: 5050 ns
+[mesh2D_16] - 1 Hop time: 5061 ns
+[mesh2D_16] - 1 Hop time: 5106 ns
+[mesh2D_16] - 1 Hop time: 2229 ns
+[mesh2D_16] - 1 Hop time: 5112 ns
+[mesh2D_16] - 1 Hop time: 2255 ns
+[mesh2D_16] - 1 Hop time: 1831 ns
+[mesh2D_16] - 1 Hop time: 2238 ns
+[mesh2D_16] - 1 Hop time: 2267 ns
+[mesh2D_16] - 1 Hop time: 5132 ns
+[mesh2D_16] - 1 Hop time: 5066 ns
+[mesh2D_16] - 1 Hop time: 5181 ns
+[mesh2D_16] - 1 Hop time: 5128 ns
+[mesh2D_16] - 1 Hop time: 5138 ns
+[mesh2D_16] - 1 Hop time: 2240 ns
+[mesh2D_16] - 1 Hop time: 5137 ns
+[mesh2D_16] - 1 Hop time: 5030 ns
+[mesh2D_16] - 1 Hop time: 5090 ns
+[mesh2D_16] - 1 Hop time: 5034 ns
+[mesh2D_16] - 1 Hop time: 5125 ns
+[mesh2D_16] - 1 Hop time: 5014 ns
+[mesh2D_16] - 1 Hop time: 4313 ns
+[mesh2D_16] - 1 Hop time: 5084 ns
+[mesh2D_16] - 1 Hop time: 4397 ns
+[mesh2D_16] - 1 Hop time: 5089 ns
+[mesh2D_16] - 1 Hop time: 5093 ns
+[mesh2D_16] - 1 Hop time: 4999 ns
+[mesh2D_16] - 1 Hop time: 4920 ns
+[mesh2D_16] - 1 Hop time: 5105 ns
+[mesh2D_16] - 1 Hop time: 5006 ns
+[mesh2D_16] - 1 Hop time: 5128 ns
+[mesh2D_16] - 1 Hop time: 5081 ns
+[mesh2D_16] - 1 Hop time: 5101 ns
+[mesh2D_16] - 1 Hop time: 4393 ns
+[mesh2D_16] - 1 Hop time: 5111 ns
+[mesh2D_16] - 1 Hop time: 5027 ns
+[mesh2D_16] - 1 Hop time: 5096 ns
+[mesh2D_16] - 1 Hop time: 5074 ns
+[mesh2D_16] - 1 Hop time: 5166 ns
+[mesh2D_16] - 1 Hop time: 5097 ns
+[mesh2D_16] - 1 Hop time: 5001 ns
+[mesh2D_16] - 1 Hop time: 5139 ns
+[mesh2D_16] - 1 Hop time: 4424 ns
+[mesh2D_16] - 1 Hop time: 2240 ns
+[mesh2D_16] - 1 Hop time: 5098 ns
+[mesh2D_16] - 1 Hop time: 5118 ns
+[mesh2D_16] - 1 Hop time: 5128 ns
+[mesh2D_16] - 1 Hop time: 5102 ns
+[mesh2D_16] - 1 Hop time: 2191 ns
+[mesh2D_16] - 1 Hop time: 5136 ns
+[mesh2D_16] - 1 Hop time: 5106 ns
+[mesh2D_16] - 1 Hop time: 4380 ns
+[mesh2D_16] - 1 Hop time: 5072 ns
+[mesh2D_16] - 1 Hop time: 5126 ns
+[mesh2D_16] - 1 Hop time: 5137 ns
+[mesh2D_16] - 1 Hop time: 5064 ns
+[mesh2D_16] - 1 Hop time: 5125 ns
+[mesh2D_16] - 1 Hop time: 5131 ns
+[mesh2D_16] - 1 Hop time: 5115 ns
+[mesh2D_16] - 1 Hop time: 5008 ns
+[mesh2D_16] - 1 Hop time: 5098 ns
+[mesh2D_16] - 1 Hop time: 5036 ns
+[mesh2D_16] - 1 Hop time: 4364 ns
+[mesh2D_16] - 1 Hop time: 4993 ns
+[mesh2D_16] - 1 Hop time: 5126 ns
+[mesh2D_16] - 1 Hop time: 5088 ns
+[mesh2D_16] - 1 Hop time: 4944 ns
+[mesh2D_16] - 1 Hop time: 5123 ns
+[mesh2D_16] - 1 Hop time: 2226 ns
+[mesh2D_16] - 1 Hop time: 2232 ns
+[mesh2D_16] - 1 Hop time: 5099 ns
+[mesh2D_16] - 1 Hop time: 5098 ns
+[mesh2D_16] - 1 Hop time: 5148 ns
+[mesh2D_16] - 1 Hop time: 4335 ns
+[mesh2D_16] - 1 Hop time: 5081 ns
+[mesh2D_16] - 1 Hop time: 2231 ns
+[mesh2D_16] - 1 Hop time: 5066 ns
+ Starting distance on mesh2D_16, reaching up to 1, up to 256 nodes, running 200 iterations 
+[mesh2D_16] - 1 Distance time: 30 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 31 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 393 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 34 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 42 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 40 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 53 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 40 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 20 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 24 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 39 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 14 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 15 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 26 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 15 microseconds
+[mesh2D_16] - 1 Distance time: 17 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 20 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 24 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 27 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 35 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 28 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 42 microseconds
+[mesh2D_16] - 1 Distance time: 2 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 24 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 14 microseconds
+[mesh2D_16] - 1 Distance time: 42 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 24 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 31 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 30 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 15 microseconds
+[mesh2D_16] - 1 Distance time: 30 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 47 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 29 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 44 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 42 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 34 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 28 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 11 microseconds
+[mesh2D_16] - 1 Distance time: 38 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 30 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 29 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 45 microseconds
+[mesh2D_16] - 1 Distance time: 2 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 32 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 36 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 14 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 28 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 13 microseconds
+[mesh2D_16] - 1 Distance time: 20 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 22 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 17 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 23 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 18 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 27 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 15 microseconds
+[mesh2D_16] - 1 Distance time: 17 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 22 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 10 microseconds
+[mesh2D_16] - 1 Distance time: 26 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 16 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 25 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 18 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 22 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 17 microseconds
+[mesh2D_16] - 1 Distance time: 20 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 33 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 18 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 13 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 22 microseconds
+[mesh2D_16] - 1 Distance time: 2 microseconds
+[mesh2D_16] - 1 Distance time: 2 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 55 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 3 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 13 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 51 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 40 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 29 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 40 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 45 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 19 microseconds
+[mesh2D_16] - 1 Distance time: 28 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 21 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 28 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 28 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 26 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 4 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 12 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 12 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 18 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 10 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 17 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 11 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 17 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 13 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 14 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 11 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+ Starting Fill on mesh2D_16, running 15 iterations 
+[mesh2D_16] - Fill time: 872187 microseconds
+[mesh2D_16] - Fill time: 883117 microseconds
+[mesh2D_16] - Fill time: 864426 microseconds
+[mesh2D_16] - Fill time: 862541 microseconds
+[mesh2D_16] - Fill time: 862217 microseconds
+[mesh2D_16] - Fill time: 862132 microseconds
+[mesh2D_16] - Fill time: 862077 microseconds
+[mesh2D_16] - Fill time: 862484 microseconds
+[mesh2D_16] - Fill time: 861590 microseconds
+[mesh2D_16] - Fill time: 862259 microseconds
+[mesh2D_16] - Fill time: 862535 microseconds
+[mesh2D_16] - Fill time: 862668 microseconds
+[mesh2D_16] - Fill time: 861931 microseconds
+[mesh2D_16] - Fill time: 861913 microseconds
+[mesh2D_16] - Fill time: 862264 microseconds
+ Starting distance on mesh2D_16, reaching up to 1, up to 256 nodes, running 200 iterations 
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 1 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds
+[mesh2D_16] - 1 Distance time: 0 microseconds

@@ -1,0 +1,1408 @@
+[tree_7] Init time: 978 microseconds, Save time: 63456 microseconds, Total time: 64434 microseconds
+[tree_7] Init time: 1383 microseconds, Save time: 17122 microseconds, Total time: 18505 microseconds
+[tree_7] Init time: 1029 microseconds, Save time: 15635 microseconds, Total time: 16665 microseconds
+[tree_7] Init time: 1037 microseconds, Save time: 15472 microseconds, Total time: 16509 microseconds
+[tree_7] Init time: 1030 microseconds, Save time: 14907 microseconds, Total time: 15938 microseconds
+[tree_7] Init time: 1047 microseconds, Save time: 14872 microseconds, Total time: 15920 microseconds
+[tree_7] Init time: 1025 microseconds, Save time: 14883 microseconds, Total time: 15908 microseconds
+[tree_7] Init time: 1021 microseconds, Save time: 14874 microseconds, Total time: 15895 microseconds
+[tree_7] Init time: 1022 microseconds, Save time: 14884 microseconds, Total time: 15906 microseconds
+[tree_7] Init time: 1026 microseconds, Save time: 14868 microseconds, Total time: 15895 microseconds
+[tree_7] Init time: 1003 microseconds, Save time: 15194 microseconds, Total time: 16197 microseconds
+[tree_7] Init time: 1030 microseconds, Save time: 14902 microseconds, Total time: 15933 microseconds
+[tree_7] Init time: 1028 microseconds, Save time: 14898 microseconds, Total time: 15927 microseconds
+[tree_7] Init time: 1002 microseconds, Save time: 15436 microseconds, Total time: 16439 microseconds
+[tree_7] Init time: 1030 microseconds, Save time: 14887 microseconds, Total time: 15917 microseconds
+ Starting multiload of tree_7, running 100 iterations 
+[tree_7] - Load time: 22792 microseconds
+[tree_7] - Load time: 22504 microseconds
+[tree_7] - Load time: 22679 microseconds
+[tree_7] - Load time: 21996 microseconds
+[tree_7] - Load time: 22600 microseconds
+[tree_7] - Load time: 22176 microseconds
+[tree_7] - Load time: 22005 microseconds
+[tree_7] - Load time: 21491 microseconds
+[tree_7] - Load time: 20963 microseconds
+[tree_7] - Load time: 20904 microseconds
+[tree_7] - Load time: 20890 microseconds
+[tree_7] - Load time: 20878 microseconds
+[tree_7] - Load time: 20880 microseconds
+[tree_7] - Load time: 20902 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20880 microseconds
+[tree_7] - Load time: 20895 microseconds
+[tree_7] - Load time: 20880 microseconds
+[tree_7] - Load time: 20917 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20892 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20973 microseconds
+[tree_7] - Load time: 20886 microseconds
+[tree_7] - Load time: 20889 microseconds
+[tree_7] - Load time: 20883 microseconds
+[tree_7] - Load time: 20893 microseconds
+[tree_7] - Load time: 20894 microseconds
+[tree_7] - Load time: 20945 microseconds
+[tree_7] - Load time: 20893 microseconds
+[tree_7] - Load time: 20843 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20919 microseconds
+[tree_7] - Load time: 20916 microseconds
+[tree_7] - Load time: 20888 microseconds
+[tree_7] - Load time: 20853 microseconds
+[tree_7] - Load time: 20939 microseconds
+[tree_7] - Load time: 20897 microseconds
+[tree_7] - Load time: 20897 microseconds
+[tree_7] - Load time: 21012 microseconds
+[tree_7] - Load time: 20882 microseconds
+[tree_7] - Load time: 20882 microseconds
+[tree_7] - Load time: 20894 microseconds
+[tree_7] - Load time: 20884 microseconds
+[tree_7] - Load time: 20896 microseconds
+[tree_7] - Load time: 20893 microseconds
+[tree_7] - Load time: 20931 microseconds
+[tree_7] - Load time: 20924 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20902 microseconds
+[tree_7] - Load time: 20879 microseconds
+[tree_7] - Load time: 20883 microseconds
+[tree_7] - Load time: 20888 microseconds
+[tree_7] - Load time: 20882 microseconds
+[tree_7] - Load time: 20886 microseconds
+[tree_7] - Load time: 20900 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20887 microseconds
+[tree_7] - Load time: 20891 microseconds
+[tree_7] - Load time: 20900 microseconds
+[tree_7] - Load time: 20888 microseconds
+[tree_7] - Load time: 20893 microseconds
+[tree_7] - Load time: 20898 microseconds
+[tree_7] - Load time: 20887 microseconds
+[tree_7] - Load time: 20881 microseconds
+[tree_7] - Load time: 20889 microseconds
+[tree_7] - Load time: 20932 microseconds
+[tree_7] - Load time: 20887 microseconds
+[tree_7] - Load time: 20898 microseconds
+[tree_7] - Load time: 20882 microseconds
+[tree_7] - Load time: 20943 microseconds
+[tree_7] - Load time: 20906 microseconds
+[tree_7] - Load time: 20881 microseconds
+[tree_7] - Load time: 20884 microseconds
+[tree_7] - Load time: 20882 microseconds
+[tree_7] - Load time: 20887 microseconds
+[tree_7] - Load time: 20895 microseconds
+[tree_7] - Load time: 20943 microseconds
+[tree_7] - Load time: 20890 microseconds
+[tree_7] - Load time: 20868 microseconds
+[tree_7] - Load time: 20908 microseconds
+[tree_7] - Load time: 20892 microseconds
+[tree_7] - Load time: 20871 microseconds
+[tree_7] - Load time: 20897 microseconds
+[tree_7] - Load time: 20880 microseconds
+[tree_7] - Load time: 20900 microseconds
+[tree_7] - Load time: 20881 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20875 microseconds
+[tree_7] - Load time: 20898 microseconds
+[tree_7] - Load time: 20910 microseconds
+[tree_7] - Load time: 20881 microseconds
+[tree_7] - Load time: 20906 microseconds
+[tree_7] - Load time: 20886 microseconds
+[tree_7] - Load time: 21048 microseconds
+[tree_7] - Load time: 20885 microseconds
+[tree_7] - Load time: 20890 microseconds
+[tree_7] - Load time: 20886 microseconds
+[tree_7] - Load time: 20880 microseconds
+[tree_7] - Load time: 20901 microseconds
+ Starting distance on tree_7, up to 127 nodes, running 200 iterations 
+[tree_7] - Proximity time: 1534 ns
+[tree_7] - Proximity time: 308 ns
+[tree_7] - Proximity time: 197 ns
+[tree_7] - Proximity time: 217 ns
+[tree_7] - Proximity time: 214 ns
+[tree_7] - Proximity time: 209 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 215 ns
+[tree_7] - Proximity time: 227 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 195 ns
+[tree_7] - Proximity time: 198 ns
+[tree_7] - Proximity time: 206 ns
+[tree_7] - Proximity time: 196 ns
+[tree_7] - Proximity time: 198 ns
+[tree_7] - Proximity time: 194 ns
+[tree_7] - Proximity time: 196 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 53 ns
+[tree_7] - Proximity time: 208 ns
+[tree_7] - Proximity time: 198 ns
+[tree_7] - Proximity time: 39 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 227 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 212 ns
+[tree_7] - Proximity time: 220 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 196 ns
+[tree_7] - Proximity time: 210 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 206 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 193 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 206 ns
+[tree_7] - Proximity time: 202 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 206 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 194 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 204 ns
+[tree_7] - Proximity time: 195 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 42 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 203 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 193 ns
+[tree_7] - Proximity time: 202 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 182 ns
+[tree_7] - Proximity time: 204 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 200 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 202 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 182 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 196 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 200 ns
+[tree_7] - Proximity time: 204 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 193 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 200 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 207 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 247 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 205 ns
+[tree_7] - Proximity time: 194 ns
+[tree_7] - Proximity time: 198 ns
+[tree_7] - Proximity time: 198 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 194 ns
+[tree_7] - Proximity time: 204 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 209 ns
+[tree_7] - Proximity time: 193 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 195 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 194 ns
+[tree_7] - Proximity time: 195 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 211 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 197 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 38 ns
+[tree_7] - Proximity time: 200 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 197 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 193 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 204 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 201 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 206 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 194 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 184 ns
+[tree_7] - Proximity time: 204 ns
+[tree_7] - Proximity time: 199 ns
+[tree_7] - Proximity time: 183 ns
+[tree_7] - Proximity time: 202 ns
+[tree_7] - Proximity time: 188 ns
+[tree_7] - Proximity time: 187 ns
+[tree_7] - Proximity time: 191 ns
+[tree_7] - Proximity time: 182 ns
+[tree_7] - Proximity time: 189 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 185 ns
+[tree_7] - Proximity time: 192 ns
+[tree_7] - Proximity time: 190 ns
+[tree_7] - Proximity time: 205 ns
+[tree_7] - Proximity time: 186 ns
+[tree_7] - Proximity time: 199 ns
+ Starting hops on tree_7, reaching up to 1, up to 127 nodes, running 200 iterations 
+[tree_7] - 1 Hop time: 9580 ns
+[tree_7] - 1 Hop time: 6357 ns
+[tree_7] - 1 Hop time: 6318 ns
+[tree_7] - 1 Hop time: 6274 ns
+[tree_7] - 1 Hop time: 1429 ns
+[tree_7] - 1 Hop time: 6259 ns
+[tree_7] - 1 Hop time: 1397 ns
+[tree_7] - 1 Hop time: 6202 ns
+[tree_7] - 1 Hop time: 42802 ns
+[tree_7] - 1 Hop time: 6614 ns
+[tree_7] - 1 Hop time: 1409 ns
+[tree_7] - 1 Hop time: 1392 ns
+[tree_7] - 1 Hop time: 6186 ns
+[tree_7] - 1 Hop time: 6065 ns
+[tree_7] - 1 Hop time: 6048 ns
+[tree_7] - 1 Hop time: 1394 ns
+[tree_7] - 1 Hop time: 6203 ns
+[tree_7] - 1 Hop time: 6160 ns
+[tree_7] - 1 Hop time: 1354 ns
+[tree_7] - 1 Hop time: 133159 ns
+[tree_7] - 1 Hop time: 1383 ns
+[tree_7] - 1 Hop time: 6490 ns
+[tree_7] - 1 Hop time: 1373 ns
+[tree_7] - 1 Hop time: 6252 ns
+[tree_7] - 1 Hop time: 1378 ns
+[tree_7] - 1 Hop time: 6217 ns
+[tree_7] - 1 Hop time: 6130 ns
+[tree_7] - 1 Hop time: 1385 ns
+[tree_7] - 1 Hop time: 6259 ns
+[tree_7] - 1 Hop time: 1377 ns
+[tree_7] - 1 Hop time: 6208 ns
+[tree_7] - 1 Hop time: 6010 ns
+[tree_7] - 1 Hop time: 6242 ns
+[tree_7] - 1 Hop time: 6217 ns
+[tree_7] - 1 Hop time: 6018 ns
+[tree_7] - 1 Hop time: 1308 ns
+[tree_7] - 1 Hop time: 1364 ns
+[tree_7] - 1 Hop time: 6189 ns
+[tree_7] - 1 Hop time: 1370 ns
+[tree_7] - 1 Hop time: 6128 ns
+[tree_7] - 1 Hop time: 6172 ns
+[tree_7] - 1 Hop time: 6195 ns
+[tree_7] - 1 Hop time: 1369 ns
+[tree_7] - 1 Hop time: 1383 ns
+[tree_7] - 1 Hop time: 1378 ns
+[tree_7] - 1 Hop time: 6252 ns
+[tree_7] - 1 Hop time: 6174 ns
+[tree_7] - 1 Hop time: 1371 ns
+[tree_7] - 1 Hop time: 6191 ns
+[tree_7] - 1 Hop time: 6084 ns
+[tree_7] - 1 Hop time: 1379 ns
+[tree_7] - 1 Hop time: 1397 ns
+[tree_7] - 1 Hop time: 6099 ns
+[tree_7] - 1 Hop time: 6138 ns
+[tree_7] - 1 Hop time: 6185 ns
+[tree_7] - 1 Hop time: 6173 ns
+[tree_7] - 1 Hop time: 6046 ns
+[tree_7] - 1 Hop time: 6177 ns
+[tree_7] - 1 Hop time: 6154 ns
+[tree_7] - 1 Hop time: 1357 ns
+[tree_7] - 1 Hop time: 6211 ns
+[tree_7] - 1 Hop time: 6092 ns
+[tree_7] - 1 Hop time: 6192 ns
+[tree_7] - 1 Hop time: 6078 ns
+[tree_7] - 1 Hop time: 1363 ns
+[tree_7] - 1 Hop time: 6101 ns
+[tree_7] - 1 Hop time: 1369 ns
+[tree_7] - 1 Hop time: 6015 ns
+[tree_7] - 1 Hop time: 1319 ns
+[tree_7] - 1 Hop time: 1275 ns
+[tree_7] - 1 Hop time: 6082 ns
+[tree_7] - 1 Hop time: 1368 ns
+[tree_7] - 1 Hop time: 6112 ns
+[tree_7] - 1 Hop time: 6042 ns
+[tree_7] - 1 Hop time: 1360 ns
+[tree_7] - 1 Hop time: 1371 ns
+[tree_7] - 1 Hop time: 6166 ns
+[tree_7] - 1 Hop time: 6127 ns
+[tree_7] - 1 Hop time: 1371 ns
+[tree_7] - 1 Hop time: 6121 ns
+[tree_7] - 1 Hop time: 6214 ns
+[tree_7] - 1 Hop time: 6145 ns
+[tree_7] - 1 Hop time: 6151 ns
+[tree_7] - 1 Hop time: 1282 ns
+[tree_7] - 1 Hop time: 1307 ns
+[tree_7] - 1 Hop time: 6204 ns
+[tree_7] - 1 Hop time: 6171 ns
+[tree_7] - 1 Hop time: 6057 ns
+[tree_7] - 1 Hop time: 6176 ns
+[tree_7] - 1 Hop time: 6089 ns
+[tree_7] - 1 Hop time: 1365 ns
+[tree_7] - 1 Hop time: 6174 ns
+[tree_7] - 1 Hop time: 6152 ns
+[tree_7] - 1 Hop time: 1382 ns
+[tree_7] - 1 Hop time: 6190 ns
+[tree_7] - 1 Hop time: 1360 ns
+[tree_7] - 1 Hop time: 6076 ns
+[tree_7] - 1 Hop time: 6114 ns
+[tree_7] - 1 Hop time: 5986 ns
+[tree_7] - 1 Hop time: 1382 ns
+[tree_7] - 1 Hop time: 1368 ns
+[tree_7] - 1 Hop time: 6142 ns
+[tree_7] - 1 Hop time: 1361 ns
+[tree_7] - 1 Hop time: 6164 ns
+[tree_7] - 1 Hop time: 6157 ns
+[tree_7] - 1 Hop time: 6073 ns
+[tree_7] - 1 Hop time: 1367 ns
+[tree_7] - 1 Hop time: 1340 ns
+[tree_7] - 1 Hop time: 6239 ns
+[tree_7] - 1 Hop time: 1373 ns
+[tree_7] - 1 Hop time: 6044 ns
+[tree_7] - 1 Hop time: 1386 ns
+[tree_7] - 1 Hop time: 1372 ns
+[tree_7] - 1 Hop time: 6092 ns
+[tree_7] - 1 Hop time: 6152 ns
+[tree_7] - 1 Hop time: 6131 ns
+[tree_7] - 1 Hop time: 1380 ns
+[tree_7] - 1 Hop time: 6200 ns
+[tree_7] - 1 Hop time: 1372 ns
+[tree_7] - 1 Hop time: 1371 ns
+[tree_7] - 1 Hop time: 1385 ns
+[tree_7] - 1 Hop time: 6099 ns
+[tree_7] - 1 Hop time: 6042 ns
+[tree_7] - 1 Hop time: 6000 ns
+[tree_7] - 1 Hop time: 6024 ns
+[tree_7] - 1 Hop time: 1300 ns
+[tree_7] - 1 Hop time: 1358 ns
+[tree_7] - 1 Hop time: 6084 ns
+[tree_7] - 1 Hop time: 1373 ns
+[tree_7] - 1 Hop time: 1373 ns
+[tree_7] - 1 Hop time: 1476 ns
+[tree_7] - 1 Hop time: 1358 ns
+[tree_7] - 1 Hop time: 6286 ns
+[tree_7] - 1 Hop time: 6138 ns
+[tree_7] - 1 Hop time: 1337 ns
+[tree_7] - 1 Hop time: 1338 ns
+[tree_7] - 1 Hop time: 6186 ns
+[tree_7] - 1 Hop time: 1357 ns
+[tree_7] - 1 Hop time: 6110 ns
+[tree_7] - 1 Hop time: 1319 ns
+[tree_7] - 1 Hop time: 6210 ns
+[tree_7] - 1 Hop time: 6198 ns
+[tree_7] - 1 Hop time: 6202 ns
+[tree_7] - 1 Hop time: 6185 ns
+[tree_7] - 1 Hop time: 6192 ns
+[tree_7] - 1 Hop time: 38700 ns
+[tree_7] - 1 Hop time: 1413 ns
+[tree_7] - 1 Hop time: 1392 ns
+[tree_7] - 1 Hop time: 1390 ns
+[tree_7] - 1 Hop time: 6387 ns
+[tree_7] - 1 Hop time: 1384 ns
+[tree_7] - 1 Hop time: 1363 ns
+[tree_7] - 1 Hop time: 6234 ns
+[tree_7] - 1 Hop time: 6147 ns
+[tree_7] - 1 Hop time: 1373 ns
+[tree_7] - 1 Hop time: 6009 ns
+[tree_7] - 1 Hop time: 1345 ns
+[tree_7] - 1 Hop time: 6132 ns
+[tree_7] - 1 Hop time: 6174 ns
+[tree_7] - 1 Hop time: 6196 ns
+[tree_7] - 1 Hop time: 7258 ns
+[tree_7] - 1 Hop time: 6213 ns
+[tree_7] - 1 Hop time: 26639 ns
+[tree_7] - 1 Hop time: 6331 ns
+[tree_7] - 1 Hop time: 18579 ns
+[tree_7] - 1 Hop time: 1379 ns
+[tree_7] - 1 Hop time: 1388 ns
+[tree_7] - 1 Hop time: 1402 ns
+[tree_7] - 1 Hop time: 1365 ns
+[tree_7] - 1 Hop time: 1357 ns
+[tree_7] - 1 Hop time: 6111 ns
+[tree_7] - 1 Hop time: 1284 ns
+[tree_7] - 1 Hop time: 1358 ns
+[tree_7] - 1 Hop time: 6220 ns
+[tree_7] - 1 Hop time: 1298 ns
+[tree_7] - 1 Hop time: 6049 ns
+[tree_7] - 1 Hop time: 1362 ns
+[tree_7] - 1 Hop time: 6223 ns
+[tree_7] - 1 Hop time: 6100 ns
+[tree_7] - 1 Hop time: 1365 ns
+[tree_7] - 1 Hop time: 1360 ns
+[tree_7] - 1 Hop time: 6236 ns
+[tree_7] - 1 Hop time: 6200 ns
+[tree_7] - 1 Hop time: 1364 ns
+[tree_7] - 1 Hop time: 6126 ns
+[tree_7] - 1 Hop time: 1294 ns
+[tree_7] - 1 Hop time: 6093 ns
+[tree_7] - 1 Hop time: 1352 ns
+[tree_7] - 1 Hop time: 6109 ns
+[tree_7] - 1 Hop time: 1377 ns
+[tree_7] - 1 Hop time: 6218 ns
+[tree_7] - 1 Hop time: 6096 ns
+[tree_7] - 1 Hop time: 1370 ns
+[tree_7] - 1 Hop time: 6089 ns
+[tree_7] - 1 Hop time: 6130 ns
+[tree_7] - 1 Hop time: 6106 ns
+[tree_7] - 1 Hop time: 5984 ns
+[tree_7] - 1 Hop time: 6080 ns
+[tree_7] - 1 Hop time: 1369 ns
+[tree_7] - 1 Hop time: 1369 ns
+ Starting distance on tree_7, reaching up to 1, up to 127 nodes, running 200 iterations 
+[tree_7] - 1 Distance time: 17 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 11 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 7 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 10 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 10 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 38 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 7 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 5 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 8 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 8 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 11 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 8 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 8 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 9 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 10 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 10 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 7 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 7 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 5 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 5 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 8 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 7 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 7 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 8 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 10 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 11 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 4 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 6 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+ Starting Fill on tree_7, running 15 iterations 
+[tree_7] - Fill time: 75849 microseconds
+[tree_7] - Fill time: 75701 microseconds
+[tree_7] - Fill time: 76309 microseconds
+[tree_7] - Fill time: 75820 microseconds
+[tree_7] - Fill time: 75841 microseconds
+[tree_7] - Fill time: 75854 microseconds
+[tree_7] - Fill time: 75818 microseconds
+[tree_7] - Fill time: 75708 microseconds
+[tree_7] - Fill time: 75672 microseconds
+[tree_7] - Fill time: 75843 microseconds
+[tree_7] - Fill time: 75655 microseconds
+[tree_7] - Fill time: 75728 microseconds
+[tree_7] - Fill time: 75760 microseconds
+[tree_7] - Fill time: 75660 microseconds
+[tree_7] - Fill time: 75819 microseconds
+ Starting distance on tree_7, reaching up to 1, up to 127 nodes, running 200 iterations 
+[tree_7] - 1 Distance time: 1 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 1 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds
+[tree_7] - 1 Distance time: 0 microseconds

@@ -1,0 +1,15 @@
+[mesh2D_16] Init time: 2633 microseconds, Save time: 112514 microseconds, Total time: 115148 microseconds
+[mesh2D_16] Init time: 3571 microseconds, Save time: 99124 microseconds, Total time: 102696 microseconds
+[mesh2D_16] Init time: 2670 microseconds, Save time: 59497 microseconds, Total time: 62167 microseconds
+[mesh2D_16] Init time: 2664 microseconds, Save time: 68905 microseconds, Total time: 71569 microseconds
+[mesh2D_16] Init time: 2681 microseconds, Save time: 83260 microseconds, Total time: 85941 microseconds
+[mesh2D_16] Init time: 2673 microseconds, Save time: 68289 microseconds, Total time: 70963 microseconds
+[mesh2D_16] Init time: 2670 microseconds, Save time: 59929 microseconds, Total time: 62599 microseconds
+[mesh2D_16] Init time: 2664 microseconds, Save time: 59966 microseconds, Total time: 62630 microseconds
+[mesh2D_16] Init time: 2669 microseconds, Save time: 59548 microseconds, Total time: 62218 microseconds
+[mesh2D_16] Init time: 2672 microseconds, Save time: 59967 microseconds, Total time: 62640 microseconds
+[mesh2D_16] Init time: 2638 microseconds, Save time: 60626 microseconds, Total time: 63264 microseconds
+[mesh2D_16] Init time: 2672 microseconds, Save time: 59608 microseconds, Total time: 62280 microseconds
+[mesh2D_16] Init time: 2669 microseconds, Save time: 59992 microseconds, Total time: 62661 microseconds
+[mesh2D_16] Init time: 2634 microseconds, Save time: 214130 microseconds, Total time: 216765 microseconds
+[mesh2D_16] Init time: 11633 microseconds, Save time: 84379 microseconds, Total time: 96013 microseconds

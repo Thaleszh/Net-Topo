@@ -1,0 +1,2286 @@
+tree_10 swapped to no memoi
+[tree_10] Init time: 7526 microseconds, Save time: 20963 microseconds, Total time: 28489 microseconds
+[tree_10] Init time: 7781 microseconds, Save time: 20828 microseconds, Total time: 28609 microseconds
+[tree_10] Init time: 7755 microseconds, Save time: 20817 microseconds, Total time: 28573 microseconds
+[tree_10] Init time: 7801 microseconds, Save time: 20739 microseconds, Total time: 28541 microseconds
+[tree_10] Init time: 7759 microseconds, Save time: 20756 microseconds, Total time: 28515 microseconds
+[tree_10] Init time: 7801 microseconds, Save time: 20912 microseconds, Total time: 28713 microseconds
+[tree_10] Init time: 7775 microseconds, Save time: 20727 microseconds, Total time: 28502 microseconds
+[tree_10] Init time: 7770 microseconds, Save time: 20732 microseconds, Total time: 28503 microseconds
+[tree_10] Init time: 7758 microseconds, Save time: 20914 microseconds, Total time: 28673 microseconds
+[tree_10] Init time: 7917 microseconds, Save time: 20968 microseconds, Total time: 28885 microseconds
+[tree_10] Init time: 7776 microseconds, Save time: 20745 microseconds, Total time: 28522 microseconds
+[tree_10] Init time: 7768 microseconds, Save time: 20803 microseconds, Total time: 28571 microseconds
+[tree_10] Init time: 7777 microseconds, Save time: 20754 microseconds, Total time: 28532 microseconds
+[tree_10] Init time: 7765 microseconds, Save time: 20781 microseconds, Total time: 28547 microseconds
+[tree_10] Init time: 7756 microseconds, Save time: 20750 microseconds, Total time: 28506 microseconds
+[tree_10] Init time: 7785 microseconds, Save time: 20677 microseconds, Total time: 28462 microseconds
+[tree_10] Init time: 7760 microseconds, Save time: 20705 microseconds, Total time: 28466 microseconds
+[tree_10] Init time: 7731 microseconds, Save time: 20751 microseconds, Total time: 28482 microseconds
+[tree_10] Init time: 7751 microseconds, Save time: 20745 microseconds, Total time: 28497 microseconds
+[tree_10] Init time: 7748 microseconds, Save time: 20730 microseconds, Total time: 28478 microseconds
+[tree_10] Init time: 7736 microseconds, Save time: 20826 microseconds, Total time: 28563 microseconds
+[tree_10] Init time: 7739 microseconds, Save time: 20836 microseconds, Total time: 28576 microseconds
+[tree_10] Init time: 7765 microseconds, Save time: 20942 microseconds, Total time: 28707 microseconds
+[tree_10] Init time: 7755 microseconds, Save time: 20714 microseconds, Total time: 28469 microseconds
+[tree_10] Init time: 7767 microseconds, Save time: 20684 microseconds, Total time: 28451 microseconds
+[tree_10] Init time: 7737 microseconds, Save time: 20770 microseconds, Total time: 28507 microseconds
+[tree_10] Init time: 7807 microseconds, Save time: 20921 microseconds, Total time: 28728 microseconds
+[tree_10] Init time: 7765 microseconds, Save time: 20751 microseconds, Total time: 28517 microseconds
+[tree_10] Init time: 7751 microseconds, Save time: 20704 microseconds, Total time: 28455 microseconds
+[tree_10] Init time: 7762 microseconds, Save time: 20984 microseconds, Total time: 28746 microseconds
+[tree_10] Init time: 7849 microseconds, Save time: 20939 microseconds, Total time: 28789 microseconds
+[tree_10] Init time: 7762 microseconds, Save time: 20801 microseconds, Total time: 28564 microseconds
+[tree_10] Init time: 7728 microseconds, Save time: 20762 microseconds, Total time: 28490 microseconds
+[tree_10] Init time: 7772 microseconds, Save time: 20758 microseconds, Total time: 28530 microseconds
+[tree_10] Init time: 7761 microseconds, Save time: 20783 microseconds, Total time: 28544 microseconds
+[tree_10] Init time: 7734 microseconds, Save time: 20705 microseconds, Total time: 28440 microseconds
+[tree_10] Init time: 7740 microseconds, Save time: 20793 microseconds, Total time: 28534 microseconds
+[tree_10] Init time: 7781 microseconds, Save time: 20758 microseconds, Total time: 28539 microseconds
+[tree_10] Init time: 7728 microseconds, Save time: 20809 microseconds, Total time: 28538 microseconds
+[tree_10] Init time: 7780 microseconds, Save time: 20740 microseconds, Total time: 28520 microseconds
+[tree_10] Init time: 7783 microseconds, Save time: 20905 microseconds, Total time: 28689 microseconds
+[tree_10] Init time: 7743 microseconds, Save time: 20762 microseconds, Total time: 28506 microseconds
+[tree_10] Init time: 7780 microseconds, Save time: 20738 microseconds, Total time: 28518 microseconds
+[tree_10] Init time: 7805 microseconds, Save time: 20738 microseconds, Total time: 28543 microseconds
+[tree_10] Init time: 7863 microseconds, Save time: 24990 microseconds, Total time: 32854 microseconds
+[tree_10] Init time: 7776 microseconds, Save time: 22269 microseconds, Total time: 30045 microseconds
+[tree_10] Init time: 7777 microseconds, Save time: 20755 microseconds, Total time: 28533 microseconds
+[tree_10] Init time: 7774 microseconds, Save time: 20699 microseconds, Total time: 28473 microseconds
+[tree_10] Init time: 7755 microseconds, Save time: 20701 microseconds, Total time: 28456 microseconds
+[tree_10] Init time: 7764 microseconds, Save time: 20821 microseconds, Total time: 28585 microseconds
+[tree_10] Init time: 7796 microseconds, Save time: 21138 microseconds, Total time: 28934 microseconds
+[tree_10] Init time: 7797 microseconds, Save time: 20868 microseconds, Total time: 28665 microseconds
+[tree_10] Init time: 7783 microseconds, Save time: 20752 microseconds, Total time: 28535 microseconds
+[tree_10] Init time: 7756 microseconds, Save time: 20769 microseconds, Total time: 28525 microseconds
+[tree_10] Init time: 7762 microseconds, Save time: 20783 microseconds, Total time: 28546 microseconds
+[tree_10] Init time: 7758 microseconds, Save time: 20745 microseconds, Total time: 28504 microseconds
+[tree_10] Init time: 7769 microseconds, Save time: 20850 microseconds, Total time: 28620 microseconds
+[tree_10] Init time: 7772 microseconds, Save time: 20726 microseconds, Total time: 28499 microseconds
+[tree_10] Init time: 7767 microseconds, Save time: 20905 microseconds, Total time: 28672 microseconds
+[tree_10] Init time: 7767 microseconds, Save time: 20793 microseconds, Total time: 28561 microseconds
+[tree_10] Init time: 7769 microseconds, Save time: 20839 microseconds, Total time: 28608 microseconds
+[tree_10] Init time: 7776 microseconds, Save time: 20814 microseconds, Total time: 28591 microseconds
+[tree_10] Init time: 7770 microseconds, Save time: 20728 microseconds, Total time: 28499 microseconds
+[tree_10] Init time: 7779 microseconds, Save time: 20719 microseconds, Total time: 28499 microseconds
+[tree_10] Init time: 7773 microseconds, Save time: 20720 microseconds, Total time: 28493 microseconds
+[tree_10] Init time: 7750 microseconds, Save time: 20686 microseconds, Total time: 28436 microseconds
+[tree_10] Init time: 7756 microseconds, Save time: 20727 microseconds, Total time: 28483 microseconds
+[tree_10] Init time: 7789 microseconds, Save time: 20710 microseconds, Total time: 28499 microseconds
+[tree_10] Init time: 7752 microseconds, Save time: 20699 microseconds, Total time: 28451 microseconds
+[tree_10] Init time: 7748 microseconds, Save time: 20733 microseconds, Total time: 28481 microseconds
+[tree_10] Init time: 7768 microseconds, Save time: 20683 microseconds, Total time: 28452 microseconds
+[tree_10] Init time: 7769 microseconds, Save time: 21123 microseconds, Total time: 28892 microseconds
+[tree_10] Init time: 7817 microseconds, Save time: 20888 microseconds, Total time: 28705 microseconds
+[tree_10] Init time: 7802 microseconds, Save time: 20882 microseconds, Total time: 28684 microseconds
+[tree_10] Init time: 7765 microseconds, Save time: 20793 microseconds, Total time: 28559 microseconds
+[tree_10] Init time: 7745 microseconds, Save time: 20753 microseconds, Total time: 28499 microseconds
+[tree_10] Init time: 7775 microseconds, Save time: 20837 microseconds, Total time: 28612 microseconds
+[tree_10] Init time: 7778 microseconds, Save time: 20817 microseconds, Total time: 28596 microseconds
+[tree_10] Init time: 7757 microseconds, Save time: 20939 microseconds, Total time: 28697 microseconds
+[tree_10] Init time: 7813 microseconds, Save time: 20835 microseconds, Total time: 28648 microseconds
+[tree_10] Init time: 7775 microseconds, Save time: 20805 microseconds, Total time: 28581 microseconds
+[tree_10] Init time: 7769 microseconds, Save time: 20760 microseconds, Total time: 28529 microseconds
+[tree_10] Init time: 7748 microseconds, Save time: 20730 microseconds, Total time: 28479 microseconds
+[tree_10] Init time: 7765 microseconds, Save time: 20725 microseconds, Total time: 28491 microseconds
+[tree_10] Init time: 7788 microseconds, Save time: 20825 microseconds, Total time: 28614 microseconds
+[tree_10] Init time: 7775 microseconds, Save time: 20777 microseconds, Total time: 28552 microseconds
+[tree_10] Init time: 7746 microseconds, Save time: 20744 microseconds, Total time: 28491 microseconds
+[tree_10] Init time: 7759 microseconds, Save time: 20716 microseconds, Total time: 28476 microseconds
+[tree_10] Init time: 7764 microseconds, Save time: 20704 microseconds, Total time: 28468 microseconds
+[tree_10] Init time: 7770 microseconds, Save time: 20780 microseconds, Total time: 28551 microseconds
+[tree_10] Init time: 7808 microseconds, Save time: 20768 microseconds, Total time: 28577 microseconds
+[tree_10] Init time: 7767 microseconds, Save time: 20678 microseconds, Total time: 28446 microseconds
+[tree_10] Init time: 7764 microseconds, Save time: 20978 microseconds, Total time: 28743 microseconds
+[tree_10] Init time: 7813 microseconds, Save time: 20857 microseconds, Total time: 28670 microseconds
+[tree_10] Init time: 7780 microseconds, Save time: 20963 microseconds, Total time: 28743 microseconds
+[tree_10] Init time: 7833 microseconds, Save time: 20943 microseconds, Total time: 28776 microseconds
+[tree_10] Init time: 7809 microseconds, Save time: 21011 microseconds, Total time: 28821 microseconds
+[tree_10] Init time: 7808 microseconds, Save time: 20813 microseconds, Total time: 28622 microseconds
+[tree_10] Init time: 7774 microseconds, Save time: 20781 microseconds, Total time: 28555 microseconds
+[tree_10] Init time: 7747 microseconds, Save time: 21303 microseconds, Total time: 29051 microseconds
+ Starting multiload of tree_10, running 100 iterations 
+[tree_10] - Load time: 31483 microseconds
+[tree_10] - Load time: 30303 microseconds
+[tree_10] - Load time: 29872 microseconds
+[tree_10] - Load time: 30629 microseconds
+[tree_10] - Load time: 29942 microseconds
+[tree_10] - Load time: 29986 microseconds
+[tree_10] - Load time: 30695 microseconds
+[tree_10] - Load time: 31615 microseconds
+[tree_10] - Load time: 31056 microseconds
+[tree_10] - Load time: 32105 microseconds
+[tree_10] - Load time: 31193 microseconds
+[tree_10] - Load time: 32000 microseconds
+[tree_10] - Load time: 31452 microseconds
+[tree_10] - Load time: 33712 microseconds
+[tree_10] - Load time: 31125 microseconds
+[tree_10] - Load time: 30794 microseconds
+[tree_10] - Load time: 30743 microseconds
+[tree_10] - Load time: 30920 microseconds
+[tree_10] - Load time: 30500 microseconds
+[tree_10] - Load time: 30815 microseconds
+[tree_10] - Load time: 30414 microseconds
+[tree_10] - Load time: 30116 microseconds
+[tree_10] - Load time: 30325 microseconds
+[tree_10] - Load time: 30102 microseconds
+[tree_10] - Load time: 30259 microseconds
+[tree_10] - Load time: 30185 microseconds
+[tree_10] - Load time: 30144 microseconds
+[tree_10] - Load time: 29999 microseconds
+[tree_10] - Load time: 30051 microseconds
+[tree_10] - Load time: 30011 microseconds
+[tree_10] - Load time: 30029 microseconds
+[tree_10] - Load time: 30306 microseconds
+[tree_10] - Load time: 30351 microseconds
+[tree_10] - Load time: 30139 microseconds
+[tree_10] - Load time: 29915 microseconds
+[tree_10] - Load time: 29836 microseconds
+[tree_10] - Load time: 29942 microseconds
+[tree_10] - Load time: 29966 microseconds
+[tree_10] - Load time: 29922 microseconds
+[tree_10] - Load time: 30377 microseconds
+[tree_10] - Load time: 30387 microseconds
+[tree_10] - Load time: 30147 microseconds
+[tree_10] - Load time: 30019 microseconds
+[tree_10] - Load time: 29992 microseconds
+[tree_10] - Load time: 29959 microseconds
+[tree_10] - Load time: 29922 microseconds
+[tree_10] - Load time: 29920 microseconds
+[tree_10] - Load time: 29839 microseconds
+[tree_10] - Load time: 30535 microseconds
+[tree_10] - Load time: 30413 microseconds
+[tree_10] - Load time: 30974 microseconds
+[tree_10] - Load time: 31036 microseconds
+[tree_10] - Load time: 33642 microseconds
+[tree_10] - Load time: 31330 microseconds
+[tree_10] - Load time: 33529 microseconds
+[tree_10] - Load time: 33921 microseconds
+[tree_10] - Load time: 32568 microseconds
+[tree_10] - Load time: 33657 microseconds
+[tree_10] - Load time: 33416 microseconds
+[tree_10] - Load time: 33300 microseconds
+[tree_10] - Load time: 33507 microseconds
+[tree_10] - Load time: 33200 microseconds
+[tree_10] - Load time: 33202 microseconds
+[tree_10] - Load time: 32482 microseconds
+[tree_10] - Load time: 32388 microseconds
+[tree_10] - Load time: 32552 microseconds
+[tree_10] - Load time: 30766 microseconds
+[tree_10] - Load time: 30056 microseconds
+[tree_10] - Load time: 30003 microseconds
+[tree_10] - Load time: 30024 microseconds
+[tree_10] - Load time: 29920 microseconds
+[tree_10] - Load time: 29832 microseconds
+[tree_10] - Load time: 29854 microseconds
+[tree_10] - Load time: 29863 microseconds
+[tree_10] - Load time: 29751 microseconds
+[tree_10] - Load time: 29766 microseconds
+[tree_10] - Load time: 29811 microseconds
+[tree_10] - Load time: 29807 microseconds
+[tree_10] - Load time: 29750 microseconds
+[tree_10] - Load time: 29762 microseconds
+[tree_10] - Load time: 29750 microseconds
+[tree_10] - Load time: 29753 microseconds
+[tree_10] - Load time: 29749 microseconds
+[tree_10] - Load time: 29781 microseconds
+[tree_10] - Load time: 29788 microseconds
+[tree_10] - Load time: 29875 microseconds
+[tree_10] - Load time: 29739 microseconds
+[tree_10] - Load time: 29774 microseconds
+[tree_10] - Load time: 29783 microseconds
+[tree_10] - Load time: 29808 microseconds
+[tree_10] - Load time: 29961 microseconds
+[tree_10] - Load time: 29752 microseconds
+[tree_10] - Load time: 29765 microseconds
+[tree_10] - Load time: 29770 microseconds
+[tree_10] - Load time: 29863 microseconds
+[tree_10] - Load time: 29806 microseconds
+[tree_10] - Load time: 29863 microseconds
+[tree_10] - Load time: 30053 microseconds
+[tree_10] - Load time: 29773 microseconds
+[tree_10] - Load time: 29766 microseconds
+ Starting distance on tree_10, up to 1023 nodes, running 200 iterations 
+[tree_10] - Proximity time: 710 ns
+[tree_10] - Proximity time: 278 ns
+[tree_10] - Proximity time: 224 ns
+[tree_10] - Proximity time: 231 ns
+[tree_10] - Proximity time: 236 ns
+[tree_10] - Proximity time: 234 ns
+[tree_10] - Proximity time: 234 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 220 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 221 ns
+[tree_10] - Proximity time: 226 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 220 ns
+[tree_10] - Proximity time: 218 ns
+[tree_10] - Proximity time: 236 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 227 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 220 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 227 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 234 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 232 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 185 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 218 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 239 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 224 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 223 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 235 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 217 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 184 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 209 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 251 ns
+[tree_10] - Proximity time: 248 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 220 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 236 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 219 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 217 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 222 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 230 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 223 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 222 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 203 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 203 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 207 ns
+ Starting hops on tree_10, reaching up to 1, up to 1023 nodes, running 200 iterations 
+[tree_10] - 1 Hop time: 4554 ns
+[tree_10] - 1 Hop time: 7284 ns
+[tree_10] - 1 Hop time: 6362 ns
+[tree_10] - 1 Hop time: 1403 ns
+[tree_10] - 1 Hop time: 1405 ns
+[tree_10] - 1 Hop time: 6412 ns
+[tree_10] - 1 Hop time: 6264 ns
+[tree_10] - 1 Hop time: 6182 ns
+[tree_10] - 1 Hop time: 6007 ns
+[tree_10] - 1 Hop time: 1448 ns
+[tree_10] - 1 Hop time: 1397 ns
+[tree_10] - 1 Hop time: 6090 ns
+[tree_10] - 1 Hop time: 6171 ns
+[tree_10] - 1 Hop time: 6234 ns
+[tree_10] - 1 Hop time: 1477 ns
+[tree_10] - 1 Hop time: 1548 ns
+[tree_10] - 1 Hop time: 6270 ns
+[tree_10] - 1 Hop time: 6234 ns
+[tree_10] - 1 Hop time: 6240 ns
+[tree_10] - 1 Hop time: 6096 ns
+[tree_10] - 1 Hop time: 6332 ns
+[tree_10] - 1 Hop time: 6268 ns
+[tree_10] - 1 Hop time: 1429 ns
+[tree_10] - 1 Hop time: 6054 ns
+[tree_10] - 1 Hop time: 6062 ns
+[tree_10] - 1 Hop time: 6095 ns
+[tree_10] - 1 Hop time: 6196 ns
+[tree_10] - 1 Hop time: 1422 ns
+[tree_10] - 1 Hop time: 6248 ns
+[tree_10] - 1 Hop time: 6122 ns
+[tree_10] - 1 Hop time: 1417 ns
+[tree_10] - 1 Hop time: 6116 ns
+[tree_10] - 1 Hop time: 1391 ns
+[tree_10] - 1 Hop time: 6109 ns
+[tree_10] - 1 Hop time: 1390 ns
+[tree_10] - 1 Hop time: 1396 ns
+[tree_10] - 1 Hop time: 6216 ns
+[tree_10] - 1 Hop time: 6056 ns
+[tree_10] - 1 Hop time: 1344 ns
+[tree_10] - 1 Hop time: 1366 ns
+[tree_10] - 1 Hop time: 6264 ns
+[tree_10] - 1 Hop time: 1358 ns
+[tree_10] - 1 Hop time: 1387 ns
+[tree_10] - 1 Hop time: 6201 ns
+[tree_10] - 1 Hop time: 1468 ns
+[tree_10] - 1 Hop time: 6201 ns
+[tree_10] - 1 Hop time: 1367 ns
+[tree_10] - 1 Hop time: 6051 ns
+[tree_10] - 1 Hop time: 5965 ns
+[tree_10] - 1 Hop time: 6092 ns
+[tree_10] - 1 Hop time: 6171 ns
+[tree_10] - 1 Hop time: 1401 ns
+[tree_10] - 1 Hop time: 1371 ns
+[tree_10] - 1 Hop time: 6136 ns
+[tree_10] - 1 Hop time: 6212 ns
+[tree_10] - 1 Hop time: 1388 ns
+[tree_10] - 1 Hop time: 1386 ns
+[tree_10] - 1 Hop time: 6174 ns
+[tree_10] - 1 Hop time: 6226 ns
+[tree_10] - 1 Hop time: 1390 ns
+[tree_10] - 1 Hop time: 1380 ns
+[tree_10] - 1 Hop time: 6104 ns
+[tree_10] - 1 Hop time: 1388 ns
+[tree_10] - 1 Hop time: 1380 ns
+[tree_10] - 1 Hop time: 6037 ns
+[tree_10] - 1 Hop time: 1379 ns
+[tree_10] - 1 Hop time: 6003 ns
+[tree_10] - 1 Hop time: 1402 ns
+[tree_10] - 1 Hop time: 6203 ns
+[tree_10] - 1 Hop time: 6214 ns
+[tree_10] - 1 Hop time: 6199 ns
+[tree_10] - 1 Hop time: 6206 ns
+[tree_10] - 1 Hop time: 1367 ns
+[tree_10] - 1 Hop time: 6212 ns
+[tree_10] - 1 Hop time: 1387 ns
+[tree_10] - 1 Hop time: 1373 ns
+[tree_10] - 1 Hop time: 6045 ns
+[tree_10] - 1 Hop time: 1313 ns
+[tree_10] - 1 Hop time: 1350 ns
+[tree_10] - 1 Hop time: 1364 ns
+[tree_10] - 1 Hop time: 5958 ns
+[tree_10] - 1 Hop time: 5978 ns
+[tree_10] - 1 Hop time: 6080 ns
+[tree_10] - 1 Hop time: 1371 ns
+[tree_10] - 1 Hop time: 1398 ns
+[tree_10] - 1 Hop time: 6195 ns
+[tree_10] - 1 Hop time: 6210 ns
+[tree_10] - 1 Hop time: 6215 ns
+[tree_10] - 1 Hop time: 1374 ns
+[tree_10] - 1 Hop time: 1386 ns
+[tree_10] - 1 Hop time: 6071 ns
+[tree_10] - 1 Hop time: 1302 ns
+[tree_10] - 1 Hop time: 1383 ns
+[tree_10] - 1 Hop time: 6206 ns
+[tree_10] - 1 Hop time: 6069 ns
+[tree_10] - 1 Hop time: 6150 ns
+[tree_10] - 1 Hop time: 6145 ns
+[tree_10] - 1 Hop time: 5971 ns
+[tree_10] - 1 Hop time: 1388 ns
+[tree_10] - 1 Hop time: 6151 ns
+[tree_10] - 1 Hop time: 6204 ns
+[tree_10] - 1 Hop time: 6131 ns
+[tree_10] - 1 Hop time: 1379 ns
+[tree_10] - 1 Hop time: 5983 ns
+[tree_10] - 1 Hop time: 6243 ns
+[tree_10] - 1 Hop time: 6231 ns
+[tree_10] - 1 Hop time: 1369 ns
+[tree_10] - 1 Hop time: 6197 ns
+[tree_10] - 1 Hop time: 6063 ns
+[tree_10] - 1 Hop time: 6069 ns
+[tree_10] - 1 Hop time: 6000 ns
+[tree_10] - 1 Hop time: 6031 ns
+[tree_10] - 1 Hop time: 1383 ns
+[tree_10] - 1 Hop time: 6202 ns
+[tree_10] - 1 Hop time: 1390 ns
+[tree_10] - 1 Hop time: 6219 ns
+[tree_10] - 1 Hop time: 1376 ns
+[tree_10] - 1 Hop time: 6230 ns
+[tree_10] - 1 Hop time: 1392 ns
+[tree_10] - 1 Hop time: 1400 ns
+[tree_10] - 1 Hop time: 6062 ns
+[tree_10] - 1 Hop time: 1291 ns
+[tree_10] - 1 Hop time: 6220 ns
+[tree_10] - 1 Hop time: 6227 ns
+[tree_10] - 1 Hop time: 1374 ns
+[tree_10] - 1 Hop time: 6126 ns
+[tree_10] - 1 Hop time: 6528 ns
+[tree_10] - 1 Hop time: 1392 ns
+[tree_10] - 1 Hop time: 1385 ns
+[tree_10] - 1 Hop time: 6329 ns
+[tree_10] - 1 Hop time: 6139 ns
+[tree_10] - 1 Hop time: 1319 ns
+[tree_10] - 1 Hop time: 6266 ns
+[tree_10] - 1 Hop time: 1366 ns
+[tree_10] - 1 Hop time: 1390 ns
+[tree_10] - 1 Hop time: 1380 ns
+[tree_10] - 1 Hop time: 6264 ns
+[tree_10] - 1 Hop time: 1380 ns
+[tree_10] - 1 Hop time: 6323 ns
+[tree_10] - 1 Hop time: 6268 ns
+[tree_10] - 1 Hop time: 6151 ns
+[tree_10] - 1 Hop time: 6236 ns
+[tree_10] - 1 Hop time: 1391 ns
+[tree_10] - 1 Hop time: 1402 ns
+[tree_10] - 1 Hop time: 1379 ns
+[tree_10] - 1 Hop time: 6299 ns
+[tree_10] - 1 Hop time: 6219 ns
+[tree_10] - 1 Hop time: 1394 ns
+[tree_10] - 1 Hop time: 1393 ns
+[tree_10] - 1 Hop time: 1409 ns
+[tree_10] - 1 Hop time: 6136 ns
+[tree_10] - 1 Hop time: 1396 ns
+[tree_10] - 1 Hop time: 6122 ns
+[tree_10] - 1 Hop time: 6206 ns
+[tree_10] - 1 Hop time: 5977 ns
+[tree_10] - 1 Hop time: 6207 ns
+[tree_10] - 1 Hop time: 1390 ns
+[tree_10] - 1 Hop time: 6160 ns
+[tree_10] - 1 Hop time: 1384 ns
+[tree_10] - 1 Hop time: 6258 ns
+[tree_10] - 1 Hop time: 1371 ns
+[tree_10] - 1 Hop time: 1369 ns
+[tree_10] - 1 Hop time: 6128 ns
+[tree_10] - 1 Hop time: 6213 ns
+[tree_10] - 1 Hop time: 1404 ns
+[tree_10] - 1 Hop time: 6039 ns
+[tree_10] - 1 Hop time: 1408 ns
+[tree_10] - 1 Hop time: 1388 ns
+[tree_10] - 1 Hop time: 1389 ns
+[tree_10] - 1 Hop time: 1363 ns
+[tree_10] - 1 Hop time: 6261 ns
+[tree_10] - 1 Hop time: 1375 ns
+[tree_10] - 1 Hop time: 6210 ns
+[tree_10] - 1 Hop time: 1391 ns
+[tree_10] - 1 Hop time: 1368 ns
+[tree_10] - 1 Hop time: 1387 ns
+[tree_10] - 1 Hop time: 1361 ns
+[tree_10] - 1 Hop time: 1372 ns
+[tree_10] - 1 Hop time: 6136 ns
+[tree_10] - 1 Hop time: 1269 ns
+[tree_10] - 1 Hop time: 1332 ns
+[tree_10] - 1 Hop time: 1270 ns
+[tree_10] - 1 Hop time: 1299 ns
+[tree_10] - 1 Hop time: 6255 ns
+[tree_10] - 1 Hop time: 6178 ns
+[tree_10] - 1 Hop time: 1344 ns
+[tree_10] - 1 Hop time: 6196 ns
+[tree_10] - 1 Hop time: 1360 ns
+[tree_10] - 1 Hop time: 1350 ns
+[tree_10] - 1 Hop time: 1274 ns
+[tree_10] - 1 Hop time: 1299 ns
+[tree_10] - 1 Hop time: 1268 ns
+[tree_10] - 1 Hop time: 1283 ns
+[tree_10] - 1 Hop time: 1332 ns
+[tree_10] - 1 Hop time: 1329 ns
+[tree_10] - 1 Hop time: 6344 ns
+[tree_10] - 1 Hop time: 6118 ns
+[tree_10] - 1 Hop time: 6078 ns
+[tree_10] - 1 Hop time: 1354 ns
+[tree_10] - 1 Hop time: 1371 ns
+ Starting distance on tree_10, reaching up to 1, up to 1023 nodes, running 200 iterations 
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 41 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 37 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 37 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 22 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 21 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 20 microseconds
+[tree_10] - 1 Distance time: 19 microseconds
+[tree_10] - 1 Distance time: 18 microseconds
+[tree_10] Init time: 8867 microseconds, Save time: 876227 microseconds, Total time: 885094 microseconds
+[tree_10] Init time: 9198 microseconds, Save time: 973446 microseconds, Total time: 982645 microseconds
+[tree_10] Init time: 9207 microseconds, Save time: 995823 microseconds, Total time: 1005031 microseconds
+[tree_10] Init time: 9224 microseconds, Save time: 1004949 microseconds, Total time: 1014173 microseconds
+[tree_10] Init time: 9109 microseconds, Save time: 1020913 microseconds, Total time: 1030022 microseconds
+[tree_10] Init time: 9229 microseconds, Save time: 1004370 microseconds, Total time: 1013600 microseconds
+[tree_10] Init time: 9115 microseconds, Save time: 1013685 microseconds, Total time: 1022801 microseconds
+[tree_10] Init time: 9212 microseconds, Save time: 1019289 microseconds, Total time: 1028501 microseconds
+[tree_10] Init time: 9173 microseconds, Save time: 1072657 microseconds, Total time: 1081831 microseconds
+[tree_10] Init time: 11010 microseconds, Save time: 970525 microseconds, Total time: 981536 microseconds
+[tree_10] Init time: 9278 microseconds, Save time: 1004840 microseconds, Total time: 1014118 microseconds
+[tree_10] Init time: 9201 microseconds, Save time: 1005259 microseconds, Total time: 1014461 microseconds
+[tree_10] Init time: 9216 microseconds, Save time: 1009673 microseconds, Total time: 1018889 microseconds
+[tree_10] Init time: 9260 microseconds, Save time: 996440 microseconds, Total time: 1005701 microseconds
+[tree_10] Init time: 9206 microseconds, Save time: 1010447 microseconds, Total time: 1019654 microseconds
+ Starting multiload of tree_10, running 15 iterations 
+[tree_10] - Load time: 1306615 microseconds
+[tree_10] - Load time: 1285689 microseconds
+[tree_10] - Load time: 1285503 microseconds
+[tree_10] - Load time: 1285491 microseconds
+[tree_10] - Load time: 1286062 microseconds
+[tree_10] - Load time: 1300024 microseconds
+[tree_10] - Load time: 1285365 microseconds
+[tree_10] - Load time: 1285361 microseconds
+[tree_10] - Load time: 1285452 microseconds
+[tree_10] - Load time: 1285177 microseconds
+[tree_10] - Load time: 1285552 microseconds
+[tree_10] - Load time: 1285342 microseconds
+[tree_10] - Load time: 1285307 microseconds
+[tree_10] - Load time: 1286396 microseconds
+[tree_10] - Load time: 1285063 microseconds
+ Starting distance on tree_10, up to 1023 nodes, running 200 iterations 
+[tree_10] - Proximity time: 727 ns
+[tree_10] - Proximity time: 244 ns
+[tree_10] - Proximity time: 236 ns
+[tree_10] - Proximity time: 231 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 235 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 225 ns
+[tree_10] - Proximity time: 222 ns
+[tree_10] - Proximity time: 226 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 224 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 229 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 223 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 226 ns
+[tree_10] - Proximity time: 236 ns
+[tree_10] - Proximity time: 273 ns
+[tree_10] - Proximity time: 221 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 224 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 277 ns
+[tree_10] - Proximity time: 226 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 227 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 219 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 217 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 221 ns
+[tree_10] - Proximity time: 184 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 230 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 185 ns
+[tree_10] - Proximity time: 209 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 226 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 210 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 211 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 263 ns
+[tree_10] - Proximity time: 217 ns
+[tree_10] - Proximity time: 205 ns
+[tree_10] - Proximity time: 198 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 221 ns
+[tree_10] - Proximity time: 231 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 223 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 215 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 223 ns
+[tree_10] - Proximity time: 214 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 200 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 221 ns
+[tree_10] - Proximity time: 207 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 193 ns
+[tree_10] - Proximity time: 208 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 197 ns
+[tree_10] - Proximity time: 203 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 225 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 227 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 187 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 203 ns
+[tree_10] - Proximity time: 199 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 201 ns
+[tree_10] - Proximity time: 183 ns
+[tree_10] - Proximity time: 212 ns
+[tree_10] - Proximity time: 222 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 192 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 216 ns
+[tree_10] - Proximity time: 187 ns
+[tree_10] - Proximity time: 203 ns
+[tree_10] - Proximity time: 206 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 181 ns
+[tree_10] - Proximity time: 204 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 202 ns
+[tree_10] - Proximity time: 219 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 194 ns
+[tree_10] - Proximity time: 196 ns
+[tree_10] - Proximity time: 190 ns
+[tree_10] - Proximity time: 203 ns
+[tree_10] - Proximity time: 189 ns
+[tree_10] - Proximity time: 195 ns
+[tree_10] - Proximity time: 184 ns
+[tree_10] - Proximity time: 213 ns
+[tree_10] - Proximity time: 188 ns
+[tree_10] - Proximity time: 191 ns
+[tree_10] - Proximity time: 183 ns
+ Starting hops on tree_10, reaching up to 1, up to 1023 nodes, running 200 iterations 
+[tree_10] - 1 Hop time: 13523 ns
+[tree_10] - 1 Hop time: 8805 ns
+[tree_10] - 1 Hop time: 8765 ns
+[tree_10] - 1 Hop time: 1640 ns
+[tree_10] - 1 Hop time: 2469 ns
+[tree_10] - 1 Hop time: 7092 ns
+[tree_10] - 1 Hop time: 8106 ns
+[tree_10] - 1 Hop time: 8214 ns
+[tree_10] - 1 Hop time: 6820 ns
+[tree_10] - 1 Hop time: 2583 ns
+[tree_10] - 1 Hop time: 3079 ns
+[tree_10] - 1 Hop time: 6571 ns
+[tree_10] - 1 Hop time: 7401 ns
+[tree_10] - 1 Hop time: 7657 ns
+[tree_10] - 1 Hop time: 2268 ns
+[tree_10] - 1 Hop time: 3210 ns
+[tree_10] - 1 Hop time: 7896 ns
+[tree_10] - 1 Hop time: 8778 ns
+[tree_10] - 1 Hop time: 7505 ns
+[tree_10] - 1 Hop time: 6199 ns
+[tree_10] - 1 Hop time: 8521 ns
+[tree_10] - 1 Hop time: 7061 ns
+[tree_10] - 1 Hop time: 1616 ns
+[tree_10] - 1 Hop time: 7067 ns
+[tree_10] - 1 Hop time: 7507 ns
+[tree_10] - 1 Hop time: 6863 ns
+[tree_10] - 1 Hop time: 7343 ns
+[tree_10] - 1 Hop time: 2066 ns
+[tree_10] - 1 Hop time: 6745 ns
+[tree_10] - 1 Hop time: 6272 ns
+[tree_10] - 1 Hop time: 1632 ns
+[tree_10] - 1 Hop time: 6825 ns
+[tree_10] - 1 Hop time: 1687 ns
+[tree_10] - 1 Hop time: 7090 ns
+[tree_10] - 1 Hop time: 2081 ns
+[tree_10] - 1 Hop time: 1726 ns
+[tree_10] - 1 Hop time: 6599 ns
+[tree_10] - 1 Hop time: 7657 ns
+[tree_10] - 1 Hop time: 2073 ns
+[tree_10] - 1 Hop time: 2564 ns
+[tree_10] - 1 Hop time: 7151 ns
+[tree_10] - 1 Hop time: 1541 ns
+[tree_10] - 1 Hop time: 1969 ns
+[tree_10] - 1 Hop time: 7464 ns
+[tree_10] - 1 Hop time: 3561 ns
+[tree_10] - 1 Hop time: 8196 ns
+[tree_10] - 1 Hop time: 2162 ns
+[tree_10] - 1 Hop time: 7235 ns
+[tree_10] - 1 Hop time: 6984 ns
+[tree_10] - 1 Hop time: 10831 ns
+[tree_10] - 1 Hop time: 6983 ns
+[tree_10] - 1 Hop time: 1820 ns
+[tree_10] - 1 Hop time: 1963 ns
+[tree_10] - 1 Hop time: 6832 ns
+[tree_10] - 1 Hop time: 9068 ns
+[tree_10] - 1 Hop time: 1887 ns
+[tree_10] - 1 Hop time: 2010 ns
+[tree_10] - 1 Hop time: 6767 ns
+[tree_10] - 1 Hop time: 7271 ns
+[tree_10] - 1 Hop time: 1625 ns
+[tree_10] - 1 Hop time: 2243 ns
+[tree_10] - 1 Hop time: 7354 ns
+[tree_10] - 1 Hop time: 1693 ns
+[tree_10] - 1 Hop time: 1658 ns
+[tree_10] - 1 Hop time: 6766 ns
+[tree_10] - 1 Hop time: 1840 ns
+[tree_10] - 1 Hop time: 6744 ns
+[tree_10] - 1 Hop time: 1758 ns
+[tree_10] - 1 Hop time: 6455 ns
+[tree_10] - 1 Hop time: 6718 ns
+[tree_10] - 1 Hop time: 6377 ns
+[tree_10] - 1 Hop time: 7465 ns
+[tree_10] - 1 Hop time: 1653 ns
+[tree_10] - 1 Hop time: 7057 ns
+[tree_10] - 1 Hop time: 1672 ns
+[tree_10] - 1 Hop time: 1490 ns
+[tree_10] - 1 Hop time: 6897 ns
+[tree_10] - 1 Hop time: 1545 ns
+[tree_10] - 1 Hop time: 1942 ns
+[tree_10] - 1 Hop time: 1946 ns
+[tree_10] - 1 Hop time: 6380 ns
+[tree_10] - 1 Hop time: 6992 ns
+[tree_10] - 1 Hop time: 6433 ns
+[tree_10] - 1 Hop time: 1383 ns
+[tree_10] - 1 Hop time: 1788 ns
+[tree_10] - 1 Hop time: 6835 ns
+[tree_10] - 1 Hop time: 6839 ns
+[tree_10] - 1 Hop time: 7343 ns
+[tree_10] - 1 Hop time: 1391 ns
+[tree_10] - 1 Hop time: 1658 ns
+[tree_10] - 1 Hop time: 7069 ns
+[tree_10] - 1 Hop time: 1794 ns
+[tree_10] - 1 Hop time: 1813 ns
+[tree_10] - 1 Hop time: 6707 ns
+[tree_10] - 1 Hop time: 6871 ns
+[tree_10] - 1 Hop time: 7299 ns
+[tree_10] - 1 Hop time: 7423 ns
+[tree_10] - 1 Hop time: 6614 ns
+[tree_10] - 1 Hop time: 1686 ns
+[tree_10] - 1 Hop time: 7650 ns
+[tree_10] - 1 Hop time: 7072 ns
+[tree_10] - 1 Hop time: 8317 ns
+[tree_10] - 1 Hop time: 2134 ns
+[tree_10] - 1 Hop time: 8329 ns
+[tree_10] - 1 Hop time: 8724 ns
+[tree_10] - 1 Hop time: 7437 ns
+[tree_10] - 1 Hop time: 3285 ns
+[tree_10] - 1 Hop time: 8281 ns
+[tree_10] - 1 Hop time: 7251 ns
+[tree_10] - 1 Hop time: 7094 ns
+[tree_10] - 1 Hop time: 11248 ns
+[tree_10] - 1 Hop time: 7339 ns
+[tree_10] - 1 Hop time: 2454 ns
+[tree_10] - 1 Hop time: 6068 ns
+[tree_10] - 1 Hop time: 1785 ns
+[tree_10] - 1 Hop time: 6413 ns
+[tree_10] - 1 Hop time: 1850 ns
+[tree_10] - 1 Hop time: 6458 ns
+[tree_10] - 1 Hop time: 1735 ns
+[tree_10] - 1 Hop time: 1649 ns
+[tree_10] - 1 Hop time: 6804 ns
+[tree_10] - 1 Hop time: 1600 ns
+[tree_10] - 1 Hop time: 6516 ns
+[tree_10] - 1 Hop time: 23324 ns
+[tree_10] - 1 Hop time: 1896 ns
+[tree_10] - 1 Hop time: 7280 ns
+[tree_10] - 1 Hop time: 8591 ns
+[tree_10] - 1 Hop time: 1749 ns
+[tree_10] - 1 Hop time: 1659 ns
+[tree_10] - 1 Hop time: 6889 ns
+[tree_10] - 1 Hop time: 7858 ns
+[tree_10] - 1 Hop time: 1840 ns
+[tree_10] - 1 Hop time: 6822 ns
+[tree_10] - 1 Hop time: 1486 ns
+[tree_10] - 1 Hop time: 1723 ns
+[tree_10] - 1 Hop time: 1645 ns
+[tree_10] - 1 Hop time: 7054 ns
+[tree_10] - 1 Hop time: 1491 ns
+[tree_10] - 1 Hop time: 6976 ns
+[tree_10] - 1 Hop time: 6354 ns
+[tree_10] - 1 Hop time: 6170 ns
+[tree_10] - 1 Hop time: 6810 ns
+[tree_10] - 1 Hop time: 1546 ns
+[tree_10] - 1 Hop time: 1427 ns
+[tree_10] - 1 Hop time: 2116 ns
+[tree_10] - 1 Hop time: 6829 ns
+[tree_10] - 1 Hop time: 6888 ns
+[tree_10] - 1 Hop time: 1590 ns
+[tree_10] - 1 Hop time: 1732 ns
+[tree_10] - 1 Hop time: 1668 ns
+[tree_10] - 1 Hop time: 6574 ns
+[tree_10] - 1 Hop time: 1766 ns
+[tree_10] - 1 Hop time: 7668 ns
+[tree_10] - 1 Hop time: 7086 ns
+[tree_10] - 1 Hop time: 6782 ns
+[tree_10] - 1 Hop time: 6867 ns
+[tree_10] - 1 Hop time: 1618 ns
+[tree_10] - 1 Hop time: 6888 ns
+[tree_10] - 1 Hop time: 1601 ns
+[tree_10] - 1 Hop time: 6346 ns
+[tree_10] - 1 Hop time: 1526 ns
+[tree_10] - 1 Hop time: 1475 ns
+[tree_10] - 1 Hop time: 8095 ns
+[tree_10] - 1 Hop time: 6738 ns
+[tree_10] - 1 Hop time: 1772 ns
+[tree_10] - 1 Hop time: 6945 ns
+[tree_10] - 1 Hop time: 1667 ns
+[tree_10] - 1 Hop time: 1486 ns
+[tree_10] - 1 Hop time: 1592 ns
+[tree_10] - 1 Hop time: 1603 ns
+[tree_10] - 1 Hop time: 6623 ns
+[tree_10] - 1 Hop time: 1514 ns
+[tree_10] - 1 Hop time: 31803 ns
+[tree_10] - 1 Hop time: 2568 ns
+[tree_10] - 1 Hop time: 1436 ns
+[tree_10] - 1 Hop time: 1868 ns
+[tree_10] - 1 Hop time: 2678 ns
+[tree_10] - 1 Hop time: 2197 ns
+[tree_10] - 1 Hop time: 23286 ns
+[tree_10] - 1 Hop time: 2074 ns
+[tree_10] - 1 Hop time: 2099 ns
+[tree_10] - 1 Hop time: 3411 ns
+[tree_10] - 1 Hop time: 3507 ns
+[tree_10] - 1 Hop time: 7892 ns
+[tree_10] - 1 Hop time: 7848 ns
+[tree_10] - 1 Hop time: 2309 ns
+[tree_10] - 1 Hop time: 8680 ns
+[tree_10] - 1 Hop time: 2017 ns
+[tree_10] - 1 Hop time: 2642 ns
+[tree_10] - 1 Hop time: 1705 ns
+[tree_10] - 1 Hop time: 2728 ns
+[tree_10] - 1 Hop time: 2462 ns
+[tree_10] - 1 Hop time: 1889 ns
+[tree_10] - 1 Hop time: 1492 ns
+[tree_10] - 1 Hop time: 2028 ns
+[tree_10] - 1 Hop time: 9331 ns
+[tree_10] - 1 Hop time: 11131 ns
+[tree_10] - 1 Hop time: 10819 ns
+[tree_10] - 1 Hop time: 3113 ns
+[tree_10] - 1 Hop time: 3509 ns
+ Starting distance on tree_10, reaching up to 1, up to 1023 nodes, running 200 iterations 
+[tree_10] - 1 Distance time: 44 microseconds
+[tree_10] - 1 Distance time: 36 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 35 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 37 microseconds
+[tree_10] - 1 Distance time: 36 microseconds
+[tree_10] - 1 Distance time: 37 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 32 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 37 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 32 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 32 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 34 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 36 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 32 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 35 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 36 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 33 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 35 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 37 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 35 microseconds
+[tree_10] - 1 Distance time: 29 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 34 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 32 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 29 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 32 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 31 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 51 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 38 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 29 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 29 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 29 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 24 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 28 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 30 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 25 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 27 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 26 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+ Starting Fill on tree_10, running 15 iterations 
+[tree_10] - Fill time: 6172891 microseconds
+[tree_10] - Fill time: 6171014 microseconds
+[tree_10] - Fill time: 6207811 microseconds
+[tree_10] - Fill time: 6207835 microseconds
+[tree_10] - Fill time: 6173031 microseconds
+[tree_10] - Fill time: 6171529 microseconds
+[tree_10] - Fill time: 6180796 microseconds
+[tree_10] - Fill time: 6209255 microseconds
+[tree_10] - Fill time: 6172143 microseconds
+[tree_10] - Fill time: 6173181 microseconds
+[tree_10] - Fill time: 6173067 microseconds
+[tree_10] - Fill time: 6212393 microseconds
+[tree_10] - Fill time: 6175882 microseconds
+[tree_10] - Fill time: 6170979 microseconds
+[tree_10] - Fill time: 6172775 microseconds
+ Starting distance on tree_10, reaching up to 1, up to 1023 nodes, running 200 iterations 
+[tree_10] - 1 Distance time: 1 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds
+[tree_10] - 1 Distance time: 0 microseconds

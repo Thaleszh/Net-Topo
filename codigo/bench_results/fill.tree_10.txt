@@ -1,0 +1,15 @@
+[tree_10] - Fill time: 6172891 microseconds
+[tree_10] - Fill time: 6171014 microseconds
+[tree_10] - Fill time: 6207811 microseconds
+[tree_10] - Fill time: 6207835 microseconds
+[tree_10] - Fill time: 6173031 microseconds
+[tree_10] - Fill time: 6171529 microseconds
+[tree_10] - Fill time: 6180796 microseconds
+[tree_10] - Fill time: 6209255 microseconds
+[tree_10] - Fill time: 6172143 microseconds
+[tree_10] - Fill time: 6173181 microseconds
+[tree_10] - Fill time: 6173067 microseconds
+[tree_10] - Fill time: 6212393 microseconds
+[tree_10] - Fill time: 6175882 microseconds
+[tree_10] - Fill time: 6170979 microseconds
+[tree_10] - Fill time: 6172775 microseconds

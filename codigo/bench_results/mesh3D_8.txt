@@ -1,0 +1,4221 @@
+mesh3D_8 swapped to no memoi
+[mesh3D_8] Init time: 6005 microseconds, Save time: 23386 microseconds, Total time: 29391 microseconds
+[mesh3D_8] Init time: 6046 microseconds, Save time: 15174 microseconds, Total time: 21221 microseconds
+[mesh3D_8] Init time: 6020 microseconds, Save time: 15117 microseconds, Total time: 21138 microseconds
+[mesh3D_8] Init time: 6040 microseconds, Save time: 15086 microseconds, Total time: 21127 microseconds
+[mesh3D_8] Init time: 6011 microseconds, Save time: 15104 microseconds, Total time: 21115 microseconds
+[mesh3D_8] Init time: 5988 microseconds, Save time: 15025 microseconds, Total time: 21014 microseconds
+[mesh3D_8] Init time: 6019 microseconds, Save time: 15113 microseconds, Total time: 21133 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15109 microseconds, Total time: 21125 microseconds
+[mesh3D_8] Init time: 5982 microseconds, Save time: 15071 microseconds, Total time: 21054 microseconds
+[mesh3D_8] Init time: 6007 microseconds, Save time: 15057 microseconds, Total time: 21065 microseconds
+[mesh3D_8] Init time: 6025 microseconds, Save time: 15051 microseconds, Total time: 21076 microseconds
+[mesh3D_8] Init time: 6009 microseconds, Save time: 15061 microseconds, Total time: 21070 microseconds
+[mesh3D_8] Init time: 5989 microseconds, Save time: 15138 microseconds, Total time: 21128 microseconds
+[mesh3D_8] Init time: 6014 microseconds, Save time: 15129 microseconds, Total time: 21144 microseconds
+[mesh3D_8] Init time: 6019 microseconds, Save time: 15085 microseconds, Total time: 21104 microseconds
+[mesh3D_8] Init time: 5993 microseconds, Save time: 15055 microseconds, Total time: 21049 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15082 microseconds, Total time: 21100 microseconds
+[mesh3D_8] Init time: 6008 microseconds, Save time: 15143 microseconds, Total time: 21151 microseconds
+[mesh3D_8] Init time: 6046 microseconds, Save time: 15073 microseconds, Total time: 21119 microseconds
+[mesh3D_8] Init time: 6010 microseconds, Save time: 15146 microseconds, Total time: 21157 microseconds
+[mesh3D_8] Init time: 6016 microseconds, Save time: 15106 microseconds, Total time: 21123 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15120 microseconds, Total time: 21135 microseconds
+[mesh3D_8] Init time: 6014 microseconds, Save time: 15065 microseconds, Total time: 21079 microseconds
+[mesh3D_8] Init time: 5984 microseconds, Save time: 15094 microseconds, Total time: 21078 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15083 microseconds, Total time: 21098 microseconds
+[mesh3D_8] Init time: 6068 microseconds, Save time: 15167 microseconds, Total time: 21235 microseconds
+[mesh3D_8] Init time: 6090 microseconds, Save time: 15233 microseconds, Total time: 21323 microseconds
+[mesh3D_8] Init time: 6051 microseconds, Save time: 15090 microseconds, Total time: 21141 microseconds
+[mesh3D_8] Init time: 6020 microseconds, Save time: 15167 microseconds, Total time: 21187 microseconds
+[mesh3D_8] Init time: 5989 microseconds, Save time: 15106 microseconds, Total time: 21096 microseconds
+[mesh3D_8] Init time: 6036 microseconds, Save time: 15106 microseconds, Total time: 21142 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15055 microseconds, Total time: 21070 microseconds
+[mesh3D_8] Init time: 6013 microseconds, Save time: 15095 microseconds, Total time: 21108 microseconds
+[mesh3D_8] Init time: 6022 microseconds, Save time: 15082 microseconds, Total time: 21105 microseconds
+[mesh3D_8] Init time: 5986 microseconds, Save time: 15034 microseconds, Total time: 21020 microseconds
+[mesh3D_8] Init time: 6009 microseconds, Save time: 15046 microseconds, Total time: 21056 microseconds
+[mesh3D_8] Init time: 6013 microseconds, Save time: 15087 microseconds, Total time: 21101 microseconds
+[mesh3D_8] Init time: 5983 microseconds, Save time: 15126 microseconds, Total time: 21109 microseconds
+[mesh3D_8] Init time: 6044 microseconds, Save time: 15061 microseconds, Total time: 21105 microseconds
+[mesh3D_8] Init time: 6023 microseconds, Save time: 15033 microseconds, Total time: 21057 microseconds
+[mesh3D_8] Init time: 5983 microseconds, Save time: 15081 microseconds, Total time: 21064 microseconds
+[mesh3D_8] Init time: 6055 microseconds, Save time: 15135 microseconds, Total time: 21191 microseconds
+[mesh3D_8] Init time: 6016 microseconds, Save time: 15073 microseconds, Total time: 21089 microseconds
+[mesh3D_8] Init time: 6022 microseconds, Save time: 15037 microseconds, Total time: 21059 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15033 microseconds, Total time: 21051 microseconds
+[mesh3D_8] Init time: 5977 microseconds, Save time: 15064 microseconds, Total time: 21041 microseconds
+[mesh3D_8] Init time: 6021 microseconds, Save time: 15036 microseconds, Total time: 21058 microseconds
+[mesh3D_8] Init time: 6009 microseconds, Save time: 15092 microseconds, Total time: 21101 microseconds
+[mesh3D_8] Init time: 5986 microseconds, Save time: 15067 microseconds, Total time: 21054 microseconds
+[mesh3D_8] Init time: 6007 microseconds, Save time: 15135 microseconds, Total time: 21142 microseconds
+[mesh3D_8] Init time: 6039 microseconds, Save time: 15163 microseconds, Total time: 21203 microseconds
+[mesh3D_8] Init time: 6014 microseconds, Save time: 15088 microseconds, Total time: 21102 microseconds
+[mesh3D_8] Init time: 6016 microseconds, Save time: 15043 microseconds, Total time: 21059 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15003 microseconds, Total time: 21019 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15239 microseconds, Total time: 21257 microseconds
+[mesh3D_8] Init time: 6047 microseconds, Save time: 15106 microseconds, Total time: 21153 microseconds
+[mesh3D_8] Init time: 5992 microseconds, Save time: 15114 microseconds, Total time: 21106 microseconds
+[mesh3D_8] Init time: 6031 microseconds, Save time: 15046 microseconds, Total time: 21077 microseconds
+[mesh3D_8] Init time: 6007 microseconds, Save time: 15058 microseconds, Total time: 21065 microseconds
+[mesh3D_8] Init time: 5984 microseconds, Save time: 15133 microseconds, Total time: 21118 microseconds
+[mesh3D_8] Init time: 6072 microseconds, Save time: 15088 microseconds, Total time: 21161 microseconds
+[mesh3D_8] Init time: 6037 microseconds, Save time: 15092 microseconds, Total time: 21129 microseconds
+[mesh3D_8] Init time: 5983 microseconds, Save time: 15081 microseconds, Total time: 21065 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15154 microseconds, Total time: 21169 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15112 microseconds, Total time: 21130 microseconds
+[mesh3D_8] Init time: 6046 microseconds, Save time: 15113 microseconds, Total time: 21159 microseconds
+[mesh3D_8] Init time: 6018 microseconds, Save time: 15110 microseconds, Total time: 21128 microseconds
+[mesh3D_8] Init time: 6065 microseconds, Save time: 15072 microseconds, Total time: 21138 microseconds
+[mesh3D_8] Init time: 6081 microseconds, Save time: 15083 microseconds, Total time: 21165 microseconds
+[mesh3D_8] Init time: 6006 microseconds, Save time: 15024 microseconds, Total time: 21031 microseconds
+[mesh3D_8] Init time: 5987 microseconds, Save time: 15026 microseconds, Total time: 21013 microseconds
+[mesh3D_8] Init time: 6010 microseconds, Save time: 15050 microseconds, Total time: 21061 microseconds
+[mesh3D_8] Init time: 6022 microseconds, Save time: 15174 microseconds, Total time: 21196 microseconds
+[mesh3D_8] Init time: 6013 microseconds, Save time: 15110 microseconds, Total time: 21123 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15079 microseconds, Total time: 21095 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15058 microseconds, Total time: 21075 microseconds
+[mesh3D_8] Init time: 6018 microseconds, Save time: 15052 microseconds, Total time: 21071 microseconds
+[mesh3D_8] Init time: 5981 microseconds, Save time: 15122 microseconds, Total time: 21103 microseconds
+[mesh3D_8] Init time: 6039 microseconds, Save time: 15059 microseconds, Total time: 21099 microseconds
+[mesh3D_8] Init time: 6012 microseconds, Save time: 15067 microseconds, Total time: 21080 microseconds
+[mesh3D_8] Init time: 5988 microseconds, Save time: 15098 microseconds, Total time: 21087 microseconds
+[mesh3D_8] Init time: 6011 microseconds, Save time: 15068 microseconds, Total time: 21079 microseconds
+[mesh3D_8] Init time: 6018 microseconds, Save time: 15005 microseconds, Total time: 21023 microseconds
+[mesh3D_8] Init time: 6171 microseconds, Save time: 15213 microseconds, Total time: 21385 microseconds
+[mesh3D_8] Init time: 6020 microseconds, Save time: 15121 microseconds, Total time: 21141 microseconds
+[mesh3D_8] Init time: 6046 microseconds, Save time: 15030 microseconds, Total time: 21076 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15082 microseconds, Total time: 21100 microseconds
+[mesh3D_8] Init time: 6000 microseconds, Save time: 15073 microseconds, Total time: 21073 microseconds
+[mesh3D_8] Init time: 6019 microseconds, Save time: 15180 microseconds, Total time: 21200 microseconds
+[mesh3D_8] Init time: 6053 microseconds, Save time: 15114 microseconds, Total time: 21168 microseconds
+[mesh3D_8] Init time: 6018 microseconds, Save time: 15112 microseconds, Total time: 21130 microseconds
+[mesh3D_8] Init time: 5987 microseconds, Save time: 15088 microseconds, Total time: 21075 microseconds
+[mesh3D_8] Init time: 6014 microseconds, Save time: 15076 microseconds, Total time: 21090 microseconds
+[mesh3D_8] Init time: 6012 microseconds, Save time: 15070 microseconds, Total time: 21083 microseconds
+[mesh3D_8] Init time: 5997 microseconds, Save time: 15046 microseconds, Total time: 21044 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15073 microseconds, Total time: 21088 microseconds
+[mesh3D_8] Init time: 6017 microseconds, Save time: 15057 microseconds, Total time: 21075 microseconds
+[mesh3D_8] Init time: 6015 microseconds, Save time: 15070 microseconds, Total time: 21086 microseconds
+[mesh3D_8] Init time: 6013 microseconds, Save time: 15076 microseconds, Total time: 21090 microseconds
+[mesh3D_8] Init time: 5990 microseconds, Save time: 15110 microseconds, Total time: 21100 microseconds
+ Starting multiload of mesh3D_8, running 100 iterations 
+[mesh3D_8] - Load time: 22412 microseconds
+[mesh3D_8] - Load time: 21673 microseconds
+[mesh3D_8] - Load time: 21464 microseconds
+[mesh3D_8] - Load time: 21490 microseconds
+[mesh3D_8] - Load time: 21435 microseconds
+[mesh3D_8] - Load time: 21454 microseconds
+[mesh3D_8] - Load time: 21522 microseconds
+[mesh3D_8] - Load time: 21477 microseconds
+[mesh3D_8] - Load time: 21526 microseconds
+[mesh3D_8] - Load time: 21807 microseconds
+[mesh3D_8] - Load time: 21613 microseconds
+[mesh3D_8] - Load time: 21544 microseconds
+[mesh3D_8] - Load time: 21485 microseconds
+[mesh3D_8] - Load time: 21450 microseconds
+[mesh3D_8] - Load time: 21459 microseconds
+[mesh3D_8] - Load time: 21520 microseconds
+[mesh3D_8] - Load time: 21452 microseconds
+[mesh3D_8] - Load time: 21591 microseconds
+[mesh3D_8] - Load time: 21611 microseconds
+[mesh3D_8] - Load time: 21599 microseconds
+[mesh3D_8] - Load time: 21498 microseconds
+[mesh3D_8] - Load time: 21544 microseconds
+[mesh3D_8] - Load time: 21566 microseconds
+[mesh3D_8] - Load time: 21575 microseconds
+[mesh3D_8] - Load time: 21572 microseconds
+[mesh3D_8] - Load time: 21595 microseconds
+[mesh3D_8] - Load time: 21574 microseconds
+[mesh3D_8] - Load time: 21526 microseconds
+[mesh3D_8] - Load time: 21573 microseconds
+[mesh3D_8] - Load time: 21579 microseconds
+[mesh3D_8] - Load time: 21580 microseconds
+[mesh3D_8] - Load time: 21531 microseconds
+[mesh3D_8] - Load time: 21734 microseconds
+[mesh3D_8] - Load time: 22086 microseconds
+[mesh3D_8] - Load time: 22064 microseconds
+[mesh3D_8] - Load time: 22093 microseconds
+[mesh3D_8] - Load time: 21948 microseconds
+[mesh3D_8] - Load time: 21573 microseconds
+[mesh3D_8] - Load time: 21592 microseconds
+[mesh3D_8] - Load time: 21567 microseconds
+[mesh3D_8] - Load time: 22214 microseconds
+[mesh3D_8] - Load time: 21695 microseconds
+[mesh3D_8] - Load time: 21666 microseconds
+[mesh3D_8] - Load time: 22129 microseconds
+[mesh3D_8] - Load time: 21801 microseconds
+[mesh3D_8] - Load time: 21742 microseconds
+[mesh3D_8] - Load time: 21685 microseconds
+[mesh3D_8] - Load time: 21739 microseconds
+[mesh3D_8] - Load time: 21727 microseconds
+[mesh3D_8] - Load time: 21598 microseconds
+[mesh3D_8] - Load time: 21595 microseconds
+[mesh3D_8] - Load time: 21706 microseconds
+[mesh3D_8] - Load time: 21666 microseconds
+[mesh3D_8] - Load time: 21560 microseconds
+[mesh3D_8] - Load time: 21502 microseconds
+[mesh3D_8] - Load time: 21438 microseconds
+[mesh3D_8] - Load time: 21481 microseconds
+[mesh3D_8] - Load time: 21450 microseconds
+[mesh3D_8] - Load time: 21473 microseconds
+[mesh3D_8] - Load time: 21560 microseconds
+[mesh3D_8] - Load time: 21481 microseconds
+[mesh3D_8] - Load time: 21465 microseconds
+[mesh3D_8] - Load time: 21451 microseconds
+[mesh3D_8] - Load time: 21456 microseconds
+[mesh3D_8] - Load time: 21522 microseconds
+[mesh3D_8] - Load time: 21497 microseconds
+[mesh3D_8] - Load time: 21812 microseconds
+[mesh3D_8] - Load time: 22382 microseconds
+[mesh3D_8] - Load time: 22748 microseconds
+[mesh3D_8] - Load time: 22608 microseconds
+[mesh3D_8] - Load time: 23395 microseconds
+[mesh3D_8] - Load time: 22665 microseconds
+[mesh3D_8] - Load time: 22804 microseconds
+[mesh3D_8] - Load time: 23400 microseconds
+[mesh3D_8] - Load time: 22955 microseconds
+[mesh3D_8] - Load time: 23121 microseconds
+[mesh3D_8] - Load time: 23820 microseconds
+[mesh3D_8] - Load time: 23152 microseconds
+[mesh3D_8] - Load time: 23329 microseconds
+[mesh3D_8] - Load time: 23382 microseconds
+[mesh3D_8] - Load time: 22900 microseconds
+[mesh3D_8] - Load time: 22892 microseconds
+[mesh3D_8] - Load time: 22990 microseconds
+[mesh3D_8] - Load time: 22319 microseconds
+[mesh3D_8] - Load time: 21672 microseconds
+[mesh3D_8] - Load time: 21579 microseconds
+[mesh3D_8] - Load time: 21508 microseconds
+[mesh3D_8] - Load time: 21662 microseconds
+[mesh3D_8] - Load time: 21681 microseconds
+[mesh3D_8] - Load time: 21544 microseconds
+[mesh3D_8] - Load time: 21445 microseconds
+[mesh3D_8] - Load time: 21452 microseconds
+[mesh3D_8] - Load time: 21441 microseconds
+[mesh3D_8] - Load time: 21574 microseconds
+[mesh3D_8] - Load time: 21710 microseconds
+[mesh3D_8] - Load time: 21654 microseconds
+[mesh3D_8] - Load time: 21855 microseconds
+[mesh3D_8] - Load time: 22178 microseconds
+[mesh3D_8] - Load time: 21698 microseconds
+[mesh3D_8] - Load time: 21575 microseconds
+ Starting distance on mesh3D_8, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - Proximity time: 781 ns
+[mesh3D_8] - Proximity time: 266 ns
+[mesh3D_8] - Proximity time: 231 ns
+[mesh3D_8] - Proximity time: 230 ns
+[mesh3D_8] - Proximity time: 223 ns
+[mesh3D_8] - Proximity time: 220 ns
+[mesh3D_8] - Proximity time: 220 ns
+[mesh3D_8] - Proximity time: 218 ns
+[mesh3D_8] - Proximity time: 212 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 227 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 218 ns
+[mesh3D_8] - Proximity time: 233 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 211 ns
+[mesh3D_8] - Proximity time: 229 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 223 ns
+[mesh3D_8] - Proximity time: 206 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 207 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 223 ns
+[mesh3D_8] - Proximity time: 206 ns
+[mesh3D_8] - Proximity time: 227 ns
+[mesh3D_8] - Proximity time: 220 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 214 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 212 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 207 ns
+[mesh3D_8] - Proximity time: 218 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 218 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 207 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 217 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 208 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 207 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 213 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 206 ns
+[mesh3D_8] - Proximity time: 197 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 183 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 4142 ns
+[mesh3D_8] - Proximity time: 215 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 208 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 249 ns
+[mesh3D_8] - Proximity time: 234 ns
+[mesh3D_8] - Proximity time: 197 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 211 ns
+[mesh3D_8] - Proximity time: 227 ns
+[mesh3D_8] - Proximity time: 224 ns
+[mesh3D_8] - Proximity time: 225 ns
+[mesh3D_8] - Proximity time: 215 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 213 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 216 ns
+[mesh3D_8] - Proximity time: 206 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 207 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 197 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 211 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 211 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 181 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 215 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 243 ns
+[mesh3D_8] - Proximity time: 219 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 214 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 212 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 190 ns
+ Starting hops on mesh3D_8, reaching up to 1, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - 1 Hop time: 18057 ns
+[mesh3D_8] - 1 Hop time: 6543 ns
+[mesh3D_8] - 1 Hop time: 20179 ns
+[mesh3D_8] - 1 Hop time: 19855 ns
+[mesh3D_8] - 1 Hop time: 19422 ns
+[mesh3D_8] - 1 Hop time: 9967 ns
+[mesh3D_8] - 1 Hop time: 19663 ns
+[mesh3D_8] - 1 Hop time: 19885 ns
+[mesh3D_8] - 1 Hop time: 19697 ns
+[mesh3D_8] - 1 Hop time: 19557 ns
+[mesh3D_8] - 1 Hop time: 14343 ns
+[mesh3D_8] - 1 Hop time: 19372 ns
+[mesh3D_8] - 1 Hop time: 14639 ns
+[mesh3D_8] - 1 Hop time: 14325 ns
+[mesh3D_8] - 1 Hop time: 14400 ns
+[mesh3D_8] - 1 Hop time: 9719 ns
+[mesh3D_8] - 1 Hop time: 14548 ns
+[mesh3D_8] - 1 Hop time: 13948 ns
+[mesh3D_8] - 1 Hop time: 19928 ns
+[mesh3D_8] - 1 Hop time: 10047 ns
+[mesh3D_8] - 1 Hop time: 19491 ns
+[mesh3D_8] - 1 Hop time: 14624 ns
+[mesh3D_8] - 1 Hop time: 9974 ns
+[mesh3D_8] - 1 Hop time: 19602 ns
+[mesh3D_8] - 1 Hop time: 14658 ns
+[mesh3D_8] - 1 Hop time: 19482 ns
+[mesh3D_8] - 1 Hop time: 14532 ns
+[mesh3D_8] - 1 Hop time: 19782 ns
+[mesh3D_8] - 1 Hop time: 14454 ns
+[mesh3D_8] - 1 Hop time: 14079 ns
+[mesh3D_8] - 1 Hop time: 19849 ns
+[mesh3D_8] - 1 Hop time: 23638 ns
+[mesh3D_8] - 1 Hop time: 29107 ns
+[mesh3D_8] - 1 Hop time: 31832 ns
+[mesh3D_8] - 1 Hop time: 14212 ns
+[mesh3D_8] - 1 Hop time: 9758 ns
+[mesh3D_8] - 1 Hop time: 14304 ns
+[mesh3D_8] - 1 Hop time: 19897 ns
+[mesh3D_8] - 1 Hop time: 19641 ns
+[mesh3D_8] - 1 Hop time: 19322 ns
+[mesh3D_8] - 1 Hop time: 19492 ns
+[mesh3D_8] - 1 Hop time: 19507 ns
+[mesh3D_8] - 1 Hop time: 14607 ns
+[mesh3D_8] - 1 Hop time: 14328 ns
+[mesh3D_8] - 1 Hop time: 19667 ns
+[mesh3D_8] - 1 Hop time: 19439 ns
+[mesh3D_8] - 1 Hop time: 14578 ns
+[mesh3D_8] - 1 Hop time: 19610 ns
+[mesh3D_8] - 1 Hop time: 19599 ns
+[mesh3D_8] - 1 Hop time: 19654 ns
+[mesh3D_8] - 1 Hop time: 19566 ns
+[mesh3D_8] - 1 Hop time: 9892 ns
+[mesh3D_8] - 1 Hop time: 19677 ns
+[mesh3D_8] - 1 Hop time: 19708 ns
+[mesh3D_8] - 1 Hop time: 19482 ns
+[mesh3D_8] - 1 Hop time: 14531 ns
+[mesh3D_8] - 1 Hop time: 9761 ns
+[mesh3D_8] - 1 Hop time: 14156 ns
+[mesh3D_8] - 1 Hop time: 19622 ns
+[mesh3D_8] - 1 Hop time: 14345 ns
+[mesh3D_8] - 1 Hop time: 19762 ns
+[mesh3D_8] - 1 Hop time: 14783 ns
+[mesh3D_8] - 1 Hop time: 14651 ns
+[mesh3D_8] - 1 Hop time: 14278 ns
+[mesh3D_8] - 1 Hop time: 19786 ns
+[mesh3D_8] - 1 Hop time: 14628 ns
+[mesh3D_8] - 1 Hop time: 6403 ns
+[mesh3D_8] - 1 Hop time: 19645 ns
+[mesh3D_8] - 1 Hop time: 14281 ns
+[mesh3D_8] - 1 Hop time: 19783 ns
+[mesh3D_8] - 1 Hop time: 9903 ns
+[mesh3D_8] - 1 Hop time: 14545 ns
+[mesh3D_8] - 1 Hop time: 6403 ns
+[mesh3D_8] - 1 Hop time: 14230 ns
+[mesh3D_8] - 1 Hop time: 10149 ns
+[mesh3D_8] - 1 Hop time: 14386 ns
+[mesh3D_8] - 1 Hop time: 14395 ns
+[mesh3D_8] - 1 Hop time: 19750 ns
+[mesh3D_8] - 1 Hop time: 19733 ns
+[mesh3D_8] - 1 Hop time: 14563 ns
+[mesh3D_8] - 1 Hop time: 14322 ns
+[mesh3D_8] - 1 Hop time: 9952 ns
+[mesh3D_8] - 1 Hop time: 19716 ns
+[mesh3D_8] - 1 Hop time: 14365 ns
+[mesh3D_8] - 1 Hop time: 19745 ns
+[mesh3D_8] - 1 Hop time: 19728 ns
+[mesh3D_8] - 1 Hop time: 9676 ns
+[mesh3D_8] - 1 Hop time: 14452 ns
+[mesh3D_8] - 1 Hop time: 14353 ns
+[mesh3D_8] - 1 Hop time: 13844 ns
+[mesh3D_8] - 1 Hop time: 14212 ns
+[mesh3D_8] - 1 Hop time: 19789 ns
+[mesh3D_8] - 1 Hop time: 14542 ns
+[mesh3D_8] - 1 Hop time: 19490 ns
+[mesh3D_8] - 1 Hop time: 14233 ns
+[mesh3D_8] - 1 Hop time: 19726 ns
+[mesh3D_8] - 1 Hop time: 14147 ns
+[mesh3D_8] - 1 Hop time: 14245 ns
+[mesh3D_8] - 1 Hop time: 9792 ns
+[mesh3D_8] - 1 Hop time: 14194 ns
+[mesh3D_8] - 1 Hop time: 14247 ns
+[mesh3D_8] - 1 Hop time: 14194 ns
+[mesh3D_8] - 1 Hop time: 19912 ns
+[mesh3D_8] - 1 Hop time: 14552 ns
+[mesh3D_8] - 1 Hop time: 10016 ns
+[mesh3D_8] - 1 Hop time: 19676 ns
+[mesh3D_8] - 1 Hop time: 14596 ns
+[mesh3D_8] - 1 Hop time: 9963 ns
+[mesh3D_8] - 1 Hop time: 9872 ns
+[mesh3D_8] - 1 Hop time: 14438 ns
+[mesh3D_8] - 1 Hop time: 14419 ns
+[mesh3D_8] - 1 Hop time: 19568 ns
+[mesh3D_8] - 1 Hop time: 19695 ns
+[mesh3D_8] - 1 Hop time: 14327 ns
+[mesh3D_8] - 1 Hop time: 10107 ns
+[mesh3D_8] - 1 Hop time: 19745 ns
+[mesh3D_8] - 1 Hop time: 19318 ns
+[mesh3D_8] - 1 Hop time: 9994 ns
+[mesh3D_8] - 1 Hop time: 19212 ns
+[mesh3D_8] - 1 Hop time: 14681 ns
+[mesh3D_8] - 1 Hop time: 19531 ns
+[mesh3D_8] - 1 Hop time: 19338 ns
+[mesh3D_8] - 1 Hop time: 9766 ns
+[mesh3D_8] - 1 Hop time: 19553 ns
+[mesh3D_8] - 1 Hop time: 19621 ns
+[mesh3D_8] - 1 Hop time: 14293 ns
+[mesh3D_8] - 1 Hop time: 19680 ns
+[mesh3D_8] - 1 Hop time: 19618 ns
+[mesh3D_8] - 1 Hop time: 9884 ns
+[mesh3D_8] - 1 Hop time: 9803 ns
+[mesh3D_8] - 1 Hop time: 6322 ns
+[mesh3D_8] - 1 Hop time: 14612 ns
+[mesh3D_8] - 1 Hop time: 19741 ns
+[mesh3D_8] - 1 Hop time: 19530 ns
+[mesh3D_8] - 1 Hop time: 9944 ns
+[mesh3D_8] - 1 Hop time: 19570 ns
+[mesh3D_8] - 1 Hop time: 14802 ns
+[mesh3D_8] - 1 Hop time: 14036 ns
+[mesh3D_8] - 1 Hop time: 19584 ns
+[mesh3D_8] - 1 Hop time: 14489 ns
+[mesh3D_8] - 1 Hop time: 19591 ns
+[mesh3D_8] - 1 Hop time: 14437 ns
+[mesh3D_8] - 1 Hop time: 19431 ns
+[mesh3D_8] - 1 Hop time: 14657 ns
+[mesh3D_8] - 1 Hop time: 9868 ns
+[mesh3D_8] - 1 Hop time: 19808 ns
+[mesh3D_8] - 1 Hop time: 14542 ns
+[mesh3D_8] - 1 Hop time: 19442 ns
+[mesh3D_8] - 1 Hop time: 19520 ns
+[mesh3D_8] - 1 Hop time: 14626 ns
+[mesh3D_8] - 1 Hop time: 19594 ns
+[mesh3D_8] - 1 Hop time: 10073 ns
+[mesh3D_8] - 1 Hop time: 19763 ns
+[mesh3D_8] - 1 Hop time: 19414 ns
+[mesh3D_8] - 1 Hop time: 19354 ns
+[mesh3D_8] - 1 Hop time: 14397 ns
+[mesh3D_8] - 1 Hop time: 14537 ns
+[mesh3D_8] - 1 Hop time: 19594 ns
+[mesh3D_8] - 1 Hop time: 14335 ns
+[mesh3D_8] - 1 Hop time: 19488 ns
+[mesh3D_8] - 1 Hop time: 14284 ns
+[mesh3D_8] - 1 Hop time: 19738 ns
+[mesh3D_8] - 1 Hop time: 19708 ns
+[mesh3D_8] - 1 Hop time: 14501 ns
+[mesh3D_8] - 1 Hop time: 14085 ns
+[mesh3D_8] - 1 Hop time: 14366 ns
+[mesh3D_8] - 1 Hop time: 19627 ns
+[mesh3D_8] - 1 Hop time: 14341 ns
+[mesh3D_8] - 1 Hop time: 19430 ns
+[mesh3D_8] - 1 Hop time: 14786 ns
+[mesh3D_8] - 1 Hop time: 19861 ns
+[mesh3D_8] - 1 Hop time: 14581 ns
+[mesh3D_8] - 1 Hop time: 14189 ns
+[mesh3D_8] - 1 Hop time: 19822 ns
+[mesh3D_8] - 1 Hop time: 14241 ns
+[mesh3D_8] - 1 Hop time: 9895 ns
+[mesh3D_8] - 1 Hop time: 14161 ns
+[mesh3D_8] - 1 Hop time: 14137 ns
+[mesh3D_8] - 1 Hop time: 19813 ns
+[mesh3D_8] - 1 Hop time: 19633 ns
+[mesh3D_8] - 1 Hop time: 19594 ns
+[mesh3D_8] - 1 Hop time: 14495 ns
+[mesh3D_8] - 1 Hop time: 19640 ns
+[mesh3D_8] - 1 Hop time: 19538 ns
+[mesh3D_8] - 1 Hop time: 14610 ns
+[mesh3D_8] - 1 Hop time: 14510 ns
+[mesh3D_8] - 1 Hop time: 14238 ns
+[mesh3D_8] - 1 Hop time: 19737 ns
+[mesh3D_8] - 1 Hop time: 14644 ns
+[mesh3D_8] - 1 Hop time: 19594 ns
+[mesh3D_8] - 1 Hop time: 14433 ns
+[mesh3D_8] - 1 Hop time: 14363 ns
+[mesh3D_8] - 1 Hop time: 19505 ns
+[mesh3D_8] - 1 Hop time: 19904 ns
+[mesh3D_8] - 1 Hop time: 14235 ns
+[mesh3D_8] - 1 Hop time: 19685 ns
+[mesh3D_8] - 1 Hop time: 9760 ns
+[mesh3D_8] - 1 Hop time: 19573 ns
+[mesh3D_8] - 1 Hop time: 14577 ns
+[mesh3D_8] - 1 Hop time: 14336 ns
+ Starting distance on mesh3D_8, reaching up to 1, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 11 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 11 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 11 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 50 microseconds
+[mesh3D_8] - 1 Distance time: 41 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 15 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 11 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 42 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 41 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 45 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 16 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 19 microseconds
+[mesh3D_8] - 1 Distance time: 14 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 13 microseconds
+[mesh3D_8] Init time: 6293 microseconds, Save time: 226076 microseconds, Total time: 232370 microseconds
+[mesh3D_8] Init time: 6356 microseconds, Save time: 248608 microseconds, Total time: 254965 microseconds
+[mesh3D_8] Init time: 6412 microseconds, Save time: 243221 microseconds, Total time: 249634 microseconds
+[mesh3D_8] Init time: 6342 microseconds, Save time: 244930 microseconds, Total time: 251272 microseconds
+[mesh3D_8] Init time: 6404 microseconds, Save time: 241124 microseconds, Total time: 247529 microseconds
+[mesh3D_8] Init time: 6353 microseconds, Save time: 250273 microseconds, Total time: 256626 microseconds
+[mesh3D_8] Init time: 6346 microseconds, Save time: 245690 microseconds, Total time: 252036 microseconds
+[mesh3D_8] Init time: 6361 microseconds, Save time: 245107 microseconds, Total time: 251469 microseconds
+[mesh3D_8] Init time: 6364 microseconds, Save time: 278654 microseconds, Total time: 285018 microseconds
+[mesh3D_8] Init time: 6324 microseconds, Save time: 267102 microseconds, Total time: 273427 microseconds
+[mesh3D_8] Init time: 6361 microseconds, Save time: 243375 microseconds, Total time: 249736 microseconds
+[mesh3D_8] Init time: 6384 microseconds, Save time: 245215 microseconds, Total time: 251600 microseconds
+[mesh3D_8] Init time: 6367 microseconds, Save time: 246842 microseconds, Total time: 253209 microseconds
+[mesh3D_8] Init time: 6328 microseconds, Save time: 246804 microseconds, Total time: 253133 microseconds
+[mesh3D_8] Init time: 6361 microseconds, Save time: 246471 microseconds, Total time: 252832 microseconds
+ Starting multiload of mesh3D_8, running 15 iterations 
+[mesh3D_8] - Load time: 337877 microseconds
+[mesh3D_8] - Load time: 323605 microseconds
+[mesh3D_8] - Load time: 323206 microseconds
+[mesh3D_8] - Load time: 322242 microseconds
+[mesh3D_8] - Load time: 322535 microseconds
+[mesh3D_8] - Load time: 322397 microseconds
+[mesh3D_8] - Load time: 322275 microseconds
+[mesh3D_8] - Load time: 322574 microseconds
+[mesh3D_8] - Load time: 322628 microseconds
+[mesh3D_8] - Load time: 322299 microseconds
+[mesh3D_8] - Load time: 322535 microseconds
+[mesh3D_8] - Load time: 322441 microseconds
+[mesh3D_8] - Load time: 322019 microseconds
+[mesh3D_8] - Load time: 322363 microseconds
+[mesh3D_8] - Load time: 322411 microseconds
+ Starting distance on mesh3D_8, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - Proximity time: 827 ns
+[mesh3D_8] - Proximity time: 271 ns
+[mesh3D_8] - Proximity time: 217 ns
+[mesh3D_8] - Proximity time: 238 ns
+[mesh3D_8] - Proximity time: 233 ns
+[mesh3D_8] - Proximity time: 216 ns
+[mesh3D_8] - Proximity time: 225 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 221 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 217 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 197 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 211 ns
+[mesh3D_8] - Proximity time: 215 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 220 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 217 ns
+[mesh3D_8] - Proximity time: 222 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 208 ns
+[mesh3D_8] - Proximity time: 209 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 208 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 221 ns
+[mesh3D_8] - Proximity time: 214 ns
+[mesh3D_8] - Proximity time: 1009 ns
+[mesh3D_8] - Proximity time: 206 ns
+[mesh3D_8] - Proximity time: 212 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 183 ns
+[mesh3D_8] - Proximity time: 205 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 184 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 185 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 208 ns
+[mesh3D_8] - Proximity time: 208 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 273 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 286 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 210 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 215 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 197 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 204 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 219 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 212 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 183 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 193 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 186 ns
+[mesh3D_8] - Proximity time: 201 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 199 ns
+[mesh3D_8] - Proximity time: 274 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 196 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 184 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 195 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 198 ns
+[mesh3D_8] - Proximity time: 184 ns
+[mesh3D_8] - Proximity time: 203 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 183 ns
+[mesh3D_8] - Proximity time: 200 ns
+[mesh3D_8] - Proximity time: 211 ns
+[mesh3D_8] - Proximity time: 191 ns
+[mesh3D_8] - Proximity time: 207 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 188 ns
+[mesh3D_8] - Proximity time: 194 ns
+[mesh3D_8] - Proximity time: 187 ns
+[mesh3D_8] - Proximity time: 190 ns
+[mesh3D_8] - Proximity time: 189 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 192 ns
+[mesh3D_8] - Proximity time: 202 ns
+[mesh3D_8] - Proximity time: 182 ns
+[mesh3D_8] - Proximity time: 190 ns
+ Starting hops on mesh3D_8, reaching up to 1, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - 1 Hop time: 18647 ns
+[mesh3D_8] - 1 Hop time: 6467 ns
+[mesh3D_8] - 1 Hop time: 20240 ns
+[mesh3D_8] - 1 Hop time: 19500 ns
+[mesh3D_8] - 1 Hop time: 19916 ns
+[mesh3D_8] - 1 Hop time: 10058 ns
+[mesh3D_8] - 1 Hop time: 19325 ns
+[mesh3D_8] - 1 Hop time: 19667 ns
+[mesh3D_8] - 1 Hop time: 19698 ns
+[mesh3D_8] - 1 Hop time: 19668 ns
+[mesh3D_8] - 1 Hop time: 14785 ns
+[mesh3D_8] - 1 Hop time: 19549 ns
+[mesh3D_8] - 1 Hop time: 14513 ns
+[mesh3D_8] - 1 Hop time: 14588 ns
+[mesh3D_8] - 1 Hop time: 14199 ns
+[mesh3D_8] - 1 Hop time: 9938 ns
+[mesh3D_8] - 1 Hop time: 14348 ns
+[mesh3D_8] - 1 Hop time: 14012 ns
+[mesh3D_8] - 1 Hop time: 19981 ns
+[mesh3D_8] - 1 Hop time: 10168 ns
+[mesh3D_8] - 1 Hop time: 19746 ns
+[mesh3D_8] - 1 Hop time: 14545 ns
+[mesh3D_8] - 1 Hop time: 9945 ns
+[mesh3D_8] - 1 Hop time: 19778 ns
+[mesh3D_8] - 1 Hop time: 14688 ns
+[mesh3D_8] - 1 Hop time: 19725 ns
+[mesh3D_8] - 1 Hop time: 14421 ns
+[mesh3D_8] - 1 Hop time: 19614 ns
+[mesh3D_8] - 1 Hop time: 14527 ns
+[mesh3D_8] - 1 Hop time: 14330 ns
+[mesh3D_8] - 1 Hop time: 19836 ns
+[mesh3D_8] - 1 Hop time: 19495 ns
+[mesh3D_8] - 1 Hop time: 14446 ns
+[mesh3D_8] - 1 Hop time: 19937 ns
+[mesh3D_8] - 1 Hop time: 14395 ns
+[mesh3D_8] - 1 Hop time: 9961 ns
+[mesh3D_8] - 1 Hop time: 14095 ns
+[mesh3D_8] - 1 Hop time: 19801 ns
+[mesh3D_8] - 1 Hop time: 19539 ns
+[mesh3D_8] - 1 Hop time: 19558 ns
+[mesh3D_8] - 1 Hop time: 19670 ns
+[mesh3D_8] - 1 Hop time: 19426 ns
+[mesh3D_8] - 1 Hop time: 14403 ns
+[mesh3D_8] - 1 Hop time: 14175 ns
+[mesh3D_8] - 1 Hop time: 19619 ns
+[mesh3D_8] - 1 Hop time: 19445 ns
+[mesh3D_8] - 1 Hop time: 14748 ns
+[mesh3D_8] - 1 Hop time: 19783 ns
+[mesh3D_8] - 1 Hop time: 19580 ns
+[mesh3D_8] - 1 Hop time: 19906 ns
+[mesh3D_8] - 1 Hop time: 19777 ns
+[mesh3D_8] - 1 Hop time: 10005 ns
+[mesh3D_8] - 1 Hop time: 19762 ns
+[mesh3D_8] - 1 Hop time: 19508 ns
+[mesh3D_8] - 1 Hop time: 19598 ns
+[mesh3D_8] - 1 Hop time: 14536 ns
+[mesh3D_8] - 1 Hop time: 9995 ns
+[mesh3D_8] - 1 Hop time: 14057 ns
+[mesh3D_8] - 1 Hop time: 19615 ns
+[mesh3D_8] - 1 Hop time: 14369 ns
+[mesh3D_8] - 1 Hop time: 19534 ns
+[mesh3D_8] - 1 Hop time: 14842 ns
+[mesh3D_8] - 1 Hop time: 14458 ns
+[mesh3D_8] - 1 Hop time: 14388 ns
+[mesh3D_8] - 1 Hop time: 19766 ns
+[mesh3D_8] - 1 Hop time: 14439 ns
+[mesh3D_8] - 1 Hop time: 6459 ns
+[mesh3D_8] - 1 Hop time: 19526 ns
+[mesh3D_8] - 1 Hop time: 14191 ns
+[mesh3D_8] - 1 Hop time: 19425 ns
+[mesh3D_8] - 1 Hop time: 10044 ns
+[mesh3D_8] - 1 Hop time: 14228 ns
+[mesh3D_8] - 1 Hop time: 6347 ns
+[mesh3D_8] - 1 Hop time: 14180 ns
+[mesh3D_8] - 1 Hop time: 10083 ns
+[mesh3D_8] - 1 Hop time: 14256 ns
+[mesh3D_8] - 1 Hop time: 14375 ns
+[mesh3D_8] - 1 Hop time: 19676 ns
+[mesh3D_8] - 1 Hop time: 19467 ns
+[mesh3D_8] - 1 Hop time: 14459 ns
+[mesh3D_8] - 1 Hop time: 14235 ns
+[mesh3D_8] - 1 Hop time: 9851 ns
+[mesh3D_8] - 1 Hop time: 19507 ns
+[mesh3D_8] - 1 Hop time: 14227 ns
+[mesh3D_8] - 1 Hop time: 19865 ns
+[mesh3D_8] - 1 Hop time: 19510 ns
+[mesh3D_8] - 1 Hop time: 9982 ns
+[mesh3D_8] - 1 Hop time: 14303 ns
+[mesh3D_8] - 1 Hop time: 13897 ns
+[mesh3D_8] - 1 Hop time: 14170 ns
+[mesh3D_8] - 1 Hop time: 14248 ns
+[mesh3D_8] - 1 Hop time: 19970 ns
+[mesh3D_8] - 1 Hop time: 14627 ns
+[mesh3D_8] - 1 Hop time: 19603 ns
+[mesh3D_8] - 1 Hop time: 14583 ns
+[mesh3D_8] - 1 Hop time: 19408 ns
+[mesh3D_8] - 1 Hop time: 14556 ns
+[mesh3D_8] - 1 Hop time: 14280 ns
+[mesh3D_8] - 1 Hop time: 10116 ns
+[mesh3D_8] - 1 Hop time: 14237 ns
+[mesh3D_8] - 1 Hop time: 14420 ns
+[mesh3D_8] - 1 Hop time: 14274 ns
+[mesh3D_8] - 1 Hop time: 19798 ns
+[mesh3D_8] - 1 Hop time: 14322 ns
+[mesh3D_8] - 1 Hop time: 10206 ns
+[mesh3D_8] - 1 Hop time: 19599 ns
+[mesh3D_8] - 1 Hop time: 14630 ns
+[mesh3D_8] - 1 Hop time: 10108 ns
+[mesh3D_8] - 1 Hop time: 9703 ns
+[mesh3D_8] - 1 Hop time: 14482 ns
+[mesh3D_8] - 1 Hop time: 14056 ns
+[mesh3D_8] - 1 Hop time: 19947 ns
+[mesh3D_8] - 1 Hop time: 19521 ns
+[mesh3D_8] - 1 Hop time: 14419 ns
+[mesh3D_8] - 1 Hop time: 10053 ns
+[mesh3D_8] - 1 Hop time: 19911 ns
+[mesh3D_8] - 1 Hop time: 19418 ns
+[mesh3D_8] - 1 Hop time: 10211 ns
+[mesh3D_8] - 1 Hop time: 19464 ns
+[mesh3D_8] - 1 Hop time: 14727 ns
+[mesh3D_8] - 1 Hop time: 19903 ns
+[mesh3D_8] - 1 Hop time: 19296 ns
+[mesh3D_8] - 1 Hop time: 9986 ns
+[mesh3D_8] - 1 Hop time: 19558 ns
+[mesh3D_8] - 1 Hop time: 19534 ns
+[mesh3D_8] - 1 Hop time: 14628 ns
+[mesh3D_8] - 1 Hop time: 19382 ns
+[mesh3D_8] - 1 Hop time: 19701 ns
+[mesh3D_8] - 1 Hop time: 9773 ns
+[mesh3D_8] - 1 Hop time: 9948 ns
+[mesh3D_8] - 1 Hop time: 6447 ns
+[mesh3D_8] - 1 Hop time: 14478 ns
+[mesh3D_8] - 1 Hop time: 19674 ns
+[mesh3D_8] - 1 Hop time: 19559 ns
+[mesh3D_8] - 1 Hop time: 9940 ns
+[mesh3D_8] - 1 Hop time: 19797 ns
+[mesh3D_8] - 1 Hop time: 14606 ns
+[mesh3D_8] - 1 Hop time: 14248 ns
+[mesh3D_8] - 1 Hop time: 19578 ns
+[mesh3D_8] - 1 Hop time: 14480 ns
+[mesh3D_8] - 1 Hop time: 19674 ns
+[mesh3D_8] - 1 Hop time: 14354 ns
+[mesh3D_8] - 1 Hop time: 19755 ns
+[mesh3D_8] - 1 Hop time: 14510 ns
+[mesh3D_8] - 1 Hop time: 9839 ns
+[mesh3D_8] - 1 Hop time: 19822 ns
+[mesh3D_8] - 1 Hop time: 14635 ns
+[mesh3D_8] - 1 Hop time: 19641 ns
+[mesh3D_8] - 1 Hop time: 19588 ns
+[mesh3D_8] - 1 Hop time: 14444 ns
+[mesh3D_8] - 1 Hop time: 19563 ns
+[mesh3D_8] - 1 Hop time: 9848 ns
+[mesh3D_8] - 1 Hop time: 19709 ns
+[mesh3D_8] - 1 Hop time: 19648 ns
+[mesh3D_8] - 1 Hop time: 19596 ns
+[mesh3D_8] - 1 Hop time: 14434 ns
+[mesh3D_8] - 1 Hop time: 14448 ns
+[mesh3D_8] - 1 Hop time: 19792 ns
+[mesh3D_8] - 1 Hop time: 14669 ns
+[mesh3D_8] - 1 Hop time: 19422 ns
+[mesh3D_8] - 1 Hop time: 14377 ns
+[mesh3D_8] - 1 Hop time: 19635 ns
+[mesh3D_8] - 1 Hop time: 19422 ns
+[mesh3D_8] - 1 Hop time: 14167 ns
+[mesh3D_8] - 1 Hop time: 14372 ns
+[mesh3D_8] - 1 Hop time: 14554 ns
+[mesh3D_8] - 1 Hop time: 19868 ns
+[mesh3D_8] - 1 Hop time: 14544 ns
+[mesh3D_8] - 1 Hop time: 19957 ns
+[mesh3D_8] - 1 Hop time: 14612 ns
+[mesh3D_8] - 1 Hop time: 19500 ns
+[mesh3D_8] - 1 Hop time: 14702 ns
+[mesh3D_8] - 1 Hop time: 14287 ns
+[mesh3D_8] - 1 Hop time: 19717 ns
+[mesh3D_8] - 1 Hop time: 14458 ns
+[mesh3D_8] - 1 Hop time: 9636 ns
+[mesh3D_8] - 1 Hop time: 14386 ns
+[mesh3D_8] - 1 Hop time: 14139 ns
+[mesh3D_8] - 1 Hop time: 19684 ns
+[mesh3D_8] - 1 Hop time: 19538 ns
+[mesh3D_8] - 1 Hop time: 19440 ns
+[mesh3D_8] - 1 Hop time: 14579 ns
+[mesh3D_8] - 1 Hop time: 19476 ns
+[mesh3D_8] - 1 Hop time: 19542 ns
+[mesh3D_8] - 1 Hop time: 14509 ns
+[mesh3D_8] - 1 Hop time: 14242 ns
+[mesh3D_8] - 1 Hop time: 14011 ns
+[mesh3D_8] - 1 Hop time: 19498 ns
+[mesh3D_8] - 1 Hop time: 14476 ns
+[mesh3D_8] - 1 Hop time: 19625 ns
+[mesh3D_8] - 1 Hop time: 14420 ns
+[mesh3D_8] - 1 Hop time: 14113 ns
+[mesh3D_8] - 1 Hop time: 19856 ns
+[mesh3D_8] - 1 Hop time: 19654 ns
+[mesh3D_8] - 1 Hop time: 14547 ns
+[mesh3D_8] - 1 Hop time: 19667 ns
+[mesh3D_8] - 1 Hop time: 9924 ns
+[mesh3D_8] - 1 Hop time: 19834 ns
+[mesh3D_8] - 1 Hop time: 14677 ns
+[mesh3D_8] - 1 Hop time: 14141 ns
+ Starting distance on mesh3D_8, reaching up to 1, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - 1 Distance time: 47 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 43 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 40 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 41 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 43 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 43 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 40 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 40 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 34 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 59 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 12 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 18 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 20 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 38 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 31 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 17 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 23 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 36 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 27 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 37 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 28 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 29 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 35 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 39 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 24 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 26 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 32 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 22 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 33 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 25 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 30 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 21 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+ Starting Fill on mesh3D_8, running 15 iterations 
+[mesh3D_8] - Fill time: 4839159 microseconds
+[mesh3D_8] - Fill time: 4844624 microseconds
+[mesh3D_8] - Fill time: 4871594 microseconds
+[mesh3D_8] - Fill time: 4843421 microseconds
+[mesh3D_8] - Fill time: 4838026 microseconds
+[mesh3D_8] - Fill time: 4839475 microseconds
+[mesh3D_8] - Fill time: 4839656 microseconds
+[mesh3D_8] - Fill time: 4840170 microseconds
+[mesh3D_8] - Fill time: 4875916 microseconds
+[mesh3D_8] - Fill time: 4840115 microseconds
+[mesh3D_8] - Fill time: 4840769 microseconds
+[mesh3D_8] - Fill time: 4841505 microseconds
+[mesh3D_8] - Fill time: 4841294 microseconds
+[mesh3D_8] - Fill time: 4840802 microseconds
+[mesh3D_8] - Fill time: 4871532 microseconds
+ Starting distance on mesh3D_8, reaching up to 1, up to 512 nodes, running 200 iterations 
+[mesh3D_8] - 1 Distance time: 1 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
+[mesh3D_8] - 1 Distance time: 0 microseconds
