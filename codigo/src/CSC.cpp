@@ -384,7 +384,7 @@ int csc::hops(int source, int sink) {
 
 void csc::fill_memoi() {
 	for (int i = 0; i < _nodes; i++)
-		for(int j = 0; j < _nodes; j++) 
+		for(int j = _nodes - 1; j > 0; j--) 
 			if (memoi->get(i, j) == -1) distance(i,j);
 }
 

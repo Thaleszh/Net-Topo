@@ -23,6 +23,10 @@ void net_topo::init(machine_map machine_topo, network_topology network_topo, str
 	int node_count = 0;
 	std::unordered_set<int> nodes;
 	std::unordered_set<int> pes;
+	machine_to_pe = pe_map();
+	node_to_pe = pe_map();
+	pe_to_machine = std::unordered_map<int, int>();
+	pe_to_node = std::unordered_map<int, int>();
 	// assuming all nodes from a machine come in sequence
 	for (auto current : machine_topo) {
 		pe_to_machine[i] = current.first;
