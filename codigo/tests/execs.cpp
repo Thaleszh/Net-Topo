@@ -7,13 +7,17 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
+
 #include <chrono>
+#include <ctime>
 #include <cstdlib>
 
 net_topo net;
 std::vector<std::vector<pair<int, int>>> network_topo; 
 std::vector<std::pair<int, int>> machine_topo;
 string name = "none";
+string type;
+int _size;
 
 using namespace chrono;
 
@@ -251,8 +255,128 @@ void build_tree(int max_depth) {
 	  }
   }
 
-void init(string type, int size, int iterations, bool with_memoi) {
-	printf("Starting init of %s of size %d, running %d iterations \n", 
+std::vector<int> neighbors_tree(int source) {
+	std::vector<int> temporary = std::vector<int>();
+	if (source != 0) {
+		// printf("Linking %d with %d \n", source, ((source - 1) / 2)); 
+		temporary.push_back(((source - 1) / 2));
+	}
+	// add the one before
+	if (source * 2 < net.num_machines()) {
+		// printf("Linking %d with %d \n", source, 1+ (source * 2));
+		temporary.push_back(1+ (source * 2));
+		// printf("Linking %d with %d \n", source, 2+ (source * 2));
+		temporary.push_back(2+ (source * 2));
+	}
+	return temporary;
+
+
+}
+
+std::vector<int> neighbors_mesh2D(int source) {
+  std::vector<int> temporary = std::vector<int>();
+  int i = source / _size;
+  int j = source % _size;
+  // printf("finding neighbors of %d. i = %d, j = %d \n", source, i, j);
+  if (i != 0) {
+    // printf("Linking %d with %d \n", source, source - _size); 
+    temporary.push_back((source - _size ));
+  }
+  // add the one before
+  if (j != 0) {
+    // printf("Linking %d with %d \n", source, source - 1);
+    temporary.push_back((source - 1));
+  }
+  // add the one next
+  if (j != _size - 1) {
+    // printf("Linking %d with %d \n", source, source + 1);
+    temporary.push_back((source + 1));
+  }    
+  // add the one in next line
+  if (i != _size - 1) {
+    // printf("Linking %d with %d \n", source, source + _size);
+    temporary.push_back((source + _size));
+  }
+  return temporary;
+}
+
+std::vector<int> neighbors_mesh3D(int source) {
+  std::vector<int> temporary = std::vector<int>();
+  int i = source / (_size * _size);
+  int j = (source / _size) % _size;
+  int z = source % _size;
+  if (i != 0) {
+    // printf("Linking %d with %d \n", source, source - (_size * _size)); 
+    temporary.push_back((source - (_size * _size)));
+  }
+  // add the one before
+  if (j != 0) {
+    // printf("Linking %d with %d \n", source, source - _size);
+    temporary.push_back((source - _size));
+  }
+  // for the one in last size
+  if (z != 0) {
+    // printf("Linking %d with %d \n", source, source - 1);
+    temporary.push_back((source - 1));
+  }
+  // for the one in next size
+  if (z != _size - 1) {
+    // printf("Linking %d with %d \n", source, source + 1);
+    temporary.push_back((source + 1));
+  }
+  // add the one next
+  if (j != _size - 1) {
+    // printf("Linking %d with %d \n", source, source + _size);
+    temporary.push_back((source + _size));
+  }    
+  // add the one in next line
+  if (i != _size - 1) {
+    // printf("Linking %d with %d \n", source, source + (_size * _size));
+    temporary.push_back((source + (_size * _size)));
+  }
+  return temporary;
+
+}
+
+std::vector<int> neighbors(int source) {
+	if (type == "tree") {
+		return neighbors_tree(source);
+	} else if (type == "mesh2D") {
+		return neighbors_mesh2D(source);
+	} else if (type == "mesh3D") {
+		return neighbors_mesh3D(source);
+	} else {
+		return std::vector<int>();
+	}
+}
+
+std::set<int> neighbors(int source, int how_far) {
+	std::set<int> neighborhood = std::set<int>();
+	std::set<int> unvisited = std::set<int>();
+	std::set<int> new_neighbors = std::set<int>();
+	std::vector<int> temporary;
+	unvisited.insert(source);
+	// printf("neighbors up to %d hops \n", how_far);
+	for (int i = 0; i < how_far; i++) {
+		new_neighbors = std::set<int>();
+		for (auto node : unvisited) {
+			// printf("finding neighbors of %d \n", node);
+			neighborhood.insert(node);	
+			temporary = neighbors(node);
+			new_neighbors.insert(temporary.begin(), temporary.end());
+		}
+		// printf("found %d neighbors \n", new_neighbors.size());
+		unvisited = new_neighbors;
+	}
+	// printf("neighbors now %d, about to merge with %d \n", neighborhood.size(), unvisited.size());
+	neighborhood.insert(unvisited.begin(), unvisited.end());
+	// printf("Source: %d, neighbors after insert %d \n", source, neighborhood.size());
+	neighborhood.erase(source);
+	return neighborhood;
+}
+
+void init(int size, int iterations, bool with_memoi) {
+	printf("\n Starting init of %s of size %d, running %d iterations \n", 
 		type.c_str(), size, iterations );
   	network_topo = std::vector<std::vector<pair<int, int>>>();
   	machine_topo = std::vector<std::pair<int, int>>();
@@ -277,10 +401,12 @@ void init(string type, int size, int iterations, bool with_memoi) {
 	  	auto init_end = steady_clock::now();
 	  	net.save_topology();
 	  	auto end = steady_clock::now();
-	  	printf("Init time: %d microseconds\nSave time: %d microseconds\nTotal time: %d microseconds\n", 
+	  	printf("[%s] Init time: %d microseconds, Save time: %d microseconds, Total time: %d microseconds\n", 
+	  			name.c_str(),
 	  			duration_cast<microseconds>(init_end - start), 
 	  			duration_cast<microseconds>(end - init_end), 
 	  			duration_cast<microseconds>(end - start));
+	  	printf("[%s] total nodes: %d\n", type.c_str(), net.num_machines());
     }
 }
 
@@ -289,66 +415,106 @@ void load() {
 }
 
 void multi_load(int iterations) {
-	printf("Starting multiload of %s, running %d iterations \n", 
+	printf("\n Starting multiload of %s, running %d iterations \n", 
 		name.c_str(), iterations );
 	for (int i = 0; i < iterations; i++) {
 		auto start = steady_clock::now();
 		load();
 	  	auto end = steady_clock::now();
-	  	printf("Load time: %d microsseconds \n",  
+	  	printf("[%s] - Load time: %d microseconds\n",
+	  			name.c_str(),
 	  			duration_cast<microseconds>(end - start));
 	}
 
 }
 
 void proximity(int range, int iterations) {
-	printf("Starting distance on %s, up to %d nodes, running %d iterations \n", 
-		name, range, iterations );
+	printf("\n Starting distance on %s, up to %d nodes, running %d iterations \n", 
+		name.c_str(), range, iterations );
 	std::vector<int> n1;
 	std::vector<int> n2;
-	int result;
+	srand(time(0));
 	for (int i = 0; i < iterations; i++) {
-		n1.push_back(i % range);
-		n2.push_back(i % range);
+		n1.push_back(1+(rand() % range));
+		n2.push_back(1+(rand() % range));
 	}
 	for (int i = 0; i < iterations; i++) {
-		result = net.proximity(n1[i], n2[i]);
+		auto start = steady_clock::now();
+		net.proximity(n1[i], n2[i]);
+	  	auto end = steady_clock::now();
+	  	printf("[%s] - Proximity time: %d ns\n", 
+	  			name.c_str(),
+	  			duration_cast<nanoseconds>(end - start));
+
 	}
 }
 
 void hops(int how_far, int range, int iterations) {
-	printf("Starting hops on %s, reaching up to %d, up to %d nodes, running %d iterations \n", 
-		name, how_far, range, iterations );
+	printf("\n Starting hops on %s, reaching up to %d, up to %d nodes, running %d iterations \n", 
+		name.c_str(), how_far, range, iterations );
 	std::vector<int> n1;
-	std::vector<int> n2;
+	std::set<int> n2;
 	for (int i = 0; i < iterations; i++) {
-		n1.push_back(i % range);
-		n2.push_back(i % range);
+		n1.push_back(1+(rand() % range));
 	}
-	for (int i = 0; i < iterations; i++)
-		net.proximity(n1[i], n2[i]);
+	for (int i = 0; i < iterations; i++) {
+		n2 = neighbors(n1[i], how_far);
+		for (auto neighbor : n2) {
+			auto start = steady_clock::now();
+			net.hop_count(n1[i], neighbor);
+		  	auto end = steady_clock::now();
+		  	printf("[%s] - %d Hop time: %d ns\n", 
+		  			name.c_str(),
+		  			how_far,
+		  			duration_cast<nanoseconds>(end - start));
+		}
+		printf("[%s] - %d Hops finished.\n", 
+		  			name.c_str(),
+		  			how_far);
+	}
 }
 
 void distance(int how_far, int range, int iterations) {
-	printf("Starting distance on %s, reaching up to %d, up to %d nodes, running %d iterations \n", 
-		name, how_far, range, iterations );
+	printf("\n Starting distance on %s, reaching up to %d, up to %d nodes, running %d iterations \n", 
+		name.c_str(), how_far, range, iterations );
 	std::vector<int> n1;
-	std::vector<int> n2;
-	int result;
+	std::set<int> n2;
 	for (int i = 0; i < iterations; i++) {
-		n1.push_back(i % range);
-		n2.push_back(i % range);
+		n1.push_back(1+(rand() % range));
 	}
-	for (int i = 0; i < iterations; i++)
-		result = net.proximity(n1[i], n2[i]);
+	for (int i = 0; i < iterations; i++) {
+		n2 = neighbors(n1[i], how_far);
+		for (auto neighbor : n2) {
+			// printf("finding dist of %d to %d \n", n1[i], neighbor);
+			auto start = steady_clock::now();
+			net.distance(n1[i], neighbor);
+		  	auto end = steady_clock::now();
+		  	printf("[%s] - %d Distance time: %d ns\n", 
+		  			name.c_str(),
+		  			how_far,
+		  			duration_cast<nanoseconds>(end - start));
+
+		}
+		printf("[%s] - %d dist finished.\n", 
+  			name.c_str(),
+  			how_far);
+	}
 }
 
 void fill(int iterations) {
-	printf("Starting Fill on %s,, running %d iterations \n", 
-		name, iterations );
+	printf("\n Starting Fill on %s, running %d iterations \n", 
+		name.c_str(), iterations );
 	for (int i = 0; i < iterations; i++) {
+		auto start = steady_clock::now();
 		net.fill_memoi();
-		load();
+	  	auto end = steady_clock::now();
+	  	printf("[%s] - Fill time: %d microseconds\n", 
+	  			name.c_str(),
+	  			duration_cast<microseconds>(end - start));
+	  	if (i + 1 == iterations) {
+	  		net.save_topology();
+	  	} else
+			load();
 	}
 }
 
@@ -365,11 +531,12 @@ int main(int argc, char **argv) {
   		printf("Usage: %s init <type> <size> <iterations> <with_memoi=true> \n", argv[0]);
   		return 0;
   	}
+  	type = argv[2];
   	if (argc < 6) {
-  		init(argv[2], atoi(argv[3]), atoi(argv[4]), true);
+  		init( atoi(argv[3]), atoi(argv[4]), true);
   		return 0;
   	}
-  	init(argv[2], atoi(argv[3]), atoi(argv[4]), atoi(argv[5]));
+  	init( atoi(argv[3]), atoi(argv[4]), atoi(argv[5]));
   	return 0;
   }
   if (argc < 3) {
@@ -381,10 +548,11 @@ int main(int argc, char **argv) {
 	printf("Usage: %s <operation> <name> <size> <iterations> \n", argv[0]);
 	return 0;
   }
-  string arg2 = argv[2];
+  type = argv[2];
   string arg3 = argv[3];
+  _size = atoi(argv[3]);
   int arg4 = atoi(argv[4]);
-  name = arg2;
+  name = type;
   name += "_";
   name += arg3;
   if (arg1 == "fill") {
@@ -397,7 +565,7 @@ int main(int argc, char **argv) {
 			return 0;
   		}
   		load();
-  		hops(1, net.num_machines(), arg4);
+  		hops(atoi(argv[5]), net.num_machines(), arg4);
   } else if (arg1 =="prox") {
   		load();
   		proximity(net.num_machines(), arg4);
@@ -407,7 +575,7 @@ int main(int argc, char **argv) {
 			return 0;
 		}
   		load();
-  		distance(1, net.num_machines(), arg4);
+  		distance(atoi(argv[5]), net.num_machines(), arg4);
   } else if (arg1 == "load") {
   		multi_load(arg4);
   } else {
