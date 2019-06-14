@@ -1,15 +1,25 @@
-[mesh3D_8] - Fill time: 4839159 microseconds
-[mesh3D_8] - Fill time: 4844624 microseconds
-[mesh3D_8] - Fill time: 4871594 microseconds
-[mesh3D_8] - Fill time: 4843421 microseconds
-[mesh3D_8] - Fill time: 4838026 microseconds
-[mesh3D_8] - Fill time: 4839475 microseconds
-[mesh3D_8] - Fill time: 4839656 microseconds
-[mesh3D_8] - Fill time: 4840170 microseconds
-[mesh3D_8] - Fill time: 4875916 microseconds
-[mesh3D_8] - Fill time: 4840115 microseconds
-[mesh3D_8] - Fill time: 4840769 microseconds
-[mesh3D_8] - Fill time: 4841505 microseconds
-[mesh3D_8] - Fill time: 4841294 microseconds
-[mesh3D_8] - Fill time: 4840802 microseconds
-[mesh3D_8] - Fill time: 4871532 microseconds
+4876853
+4875109
+4872756
+4878437
+4874619
+4909636
+4875413
+4878151
+4875017
+4876949
+4908475
+4880319
+4874360
+4877831
+4875202
+4876688
+4902621
+4876862
+4873529
+4876425
+4874926
+4877208
+4901588
+4879963
+4874734

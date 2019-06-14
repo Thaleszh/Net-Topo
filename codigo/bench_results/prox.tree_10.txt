@@ -1,400 +1,400 @@
-[tree_10] - Proximity time: 710 ns
-[tree_10] - Proximity time: 278 ns
-[tree_10] - Proximity time: 224 ns
-[tree_10] - Proximity time: 231 ns
-[tree_10] - Proximity time: 236 ns
-[tree_10] - Proximity time: 234 ns
-[tree_10] - Proximity time: 234 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 220 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 221 ns
-[tree_10] - Proximity time: 226 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 220 ns
-[tree_10] - Proximity time: 218 ns
-[tree_10] - Proximity time: 236 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 227 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 220 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 227 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 234 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 232 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 185 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 218 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 239 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 224 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 223 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 235 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 217 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 184 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 209 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 251 ns
-[tree_10] - Proximity time: 248 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 220 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 236 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 219 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 217 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 222 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 230 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 223 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 222 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 203 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 203 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 727 ns
-[tree_10] - Proximity time: 244 ns
-[tree_10] - Proximity time: 236 ns
-[tree_10] - Proximity time: 231 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 235 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 225 ns
-[tree_10] - Proximity time: 222 ns
-[tree_10] - Proximity time: 226 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 224 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 229 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 223 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 226 ns
-[tree_10] - Proximity time: 236 ns
-[tree_10] - Proximity time: 273 ns
-[tree_10] - Proximity time: 221 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 224 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 277 ns
-[tree_10] - Proximity time: 226 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 227 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 219 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 217 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 221 ns
-[tree_10] - Proximity time: 184 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 230 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 185 ns
-[tree_10] - Proximity time: 209 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 226 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 210 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 211 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 263 ns
-[tree_10] - Proximity time: 217 ns
-[tree_10] - Proximity time: 205 ns
-[tree_10] - Proximity time: 198 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 221 ns
-[tree_10] - Proximity time: 231 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 223 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 215 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 223 ns
-[tree_10] - Proximity time: 214 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 200 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 221 ns
-[tree_10] - Proximity time: 207 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 193 ns
-[tree_10] - Proximity time: 208 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 197 ns
-[tree_10] - Proximity time: 203 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 225 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 227 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 187 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 203 ns
-[tree_10] - Proximity time: 199 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 201 ns
-[tree_10] - Proximity time: 183 ns
-[tree_10] - Proximity time: 212 ns
-[tree_10] - Proximity time: 222 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 192 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 216 ns
-[tree_10] - Proximity time: 187 ns
-[tree_10] - Proximity time: 203 ns
-[tree_10] - Proximity time: 206 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 181 ns
-[tree_10] - Proximity time: 204 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 202 ns
-[tree_10] - Proximity time: 219 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 194 ns
-[tree_10] - Proximity time: 196 ns
-[tree_10] - Proximity time: 190 ns
-[tree_10] - Proximity time: 203 ns
-[tree_10] - Proximity time: 189 ns
-[tree_10] - Proximity time: 195 ns
-[tree_10] - Proximity time: 184 ns
-[tree_10] - Proximity time: 213 ns
-[tree_10] - Proximity time: 188 ns
-[tree_10] - Proximity time: 191 ns
-[tree_10] - Proximity time: 183 ns
+681
+283
+254
+225
+222
+223
+227
+232
+221
+209
+229
+221
+230
+220
+229
+210
+227
+215
+215
+211
+224
+273
+209
+205
+221
+202
+208
+203
+192
+243
+231
+221
+188
+204
+210
+197
+201
+190
+201
+195
+215
+206
+198
+202
+226
+236
+199
+202
+191
+188
+205
+189
+208
+206
+201
+202
+192
+197
+200
+189
+189
+197
+215
+191
+199
+190
+193
+191
+199
+199
+215
+188
+190
+208
+191
+202
+223
+191
+203
+192
+212
+201
+186
+189
+190
+193
+196
+184
+198
+203
+245
+192
+207
+202
+190
+203
+191
+191
+203
+185
+190
+210
+185
+185
+212
+185
+198
+201
+186
+193
+200
+208
+193
+192
+192
+271
+207
+219
+207
+198
+231
+193
+204
+214
+211
+188
+206
+207
+225
+189
+213
+207
+286
+219
+207
+201
+192
+187
+205
+210
+221
+219
+200
+199
+200
+202
+201
+195
+201
+192
+193
+193
+195
+14300
+198
+211
+222
+209
+209
+207
+191
+225
+215
+203
+209
+236
+195
+211
+198
+207
+195
+205
+206
+192
+189
+207
+205
+208
+200
+201
+201
+227
+203
+196
+191
+208
+205
+209
+201
+207
+221
+194
+195
+222
+193
+195
+198
+228
+197
+201
+838
+306
+236
+239
+229
+231
+226
+226
+237
+223
+236
+232
+230
+209
+204
+221
+219
+223
+215
+210
+185
+237
+207
+221
+211
+209
+223
+213
+219
+198
+214
+198
+234
+203
+204
+193
+209
+203
+199
+214
+187
+194
+198
+207
+189
+198
+182
+205
+217
+201
+193
+191
+188
+199
+212
+194
+200
+209
+190
+220
+191
+209
+192
+203
+214
+200
+186
+220
+187
+196
+202
+190
+200
+187
+205
+194
+188
+190
+205
+195
+187
+207
+189
+198
+194
+190
+220
+185
+206
+206
+199
+203
+205
+195
+219
+186
+190
+196
+201
+190
+190
+191
+206
+198
+217
+205
+182
+191
+192
+203
+186
+185
+193
+201
+193
+264
+207
+211
+213
+210
+221
+211
+201
+214
+230
+206
+194
+228
+209
+203
+216
+220
+203
+203
+220
+211
+191
+196
+209
+231
+221
+222
+195
+217
+214
+209
+196
+213
+203
+221
+198
+200
+212
+214
+211
+205
+192
+203
+201
+208
+203
+201
+199
+215
+204
+206
+206
+217
+192
+200
+209
+192
+201
+207
+200
+186
+195
+207
+198
+209
+188
+207
+194
+207
+198
+1749
+222
+198
+206
+207
+197
+203
+209
+200
+207
+193
+214
+203
+199
+197

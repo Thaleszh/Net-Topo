@@ -1,115 +1,125 @@
-[mesh3D_8] - Load time: 22412 microseconds
-[mesh3D_8] - Load time: 21673 microseconds
-[mesh3D_8] - Load time: 21464 microseconds
-[mesh3D_8] - Load time: 21490 microseconds
-[mesh3D_8] - Load time: 21435 microseconds
-[mesh3D_8] - Load time: 21454 microseconds
-[mesh3D_8] - Load time: 21522 microseconds
-[mesh3D_8] - Load time: 21477 microseconds
-[mesh3D_8] - Load time: 21526 microseconds
-[mesh3D_8] - Load time: 21807 microseconds
-[mesh3D_8] - Load time: 21613 microseconds
-[mesh3D_8] - Load time: 21544 microseconds
-[mesh3D_8] - Load time: 21485 microseconds
-[mesh3D_8] - Load time: 21450 microseconds
-[mesh3D_8] - Load time: 21459 microseconds
-[mesh3D_8] - Load time: 21520 microseconds
-[mesh3D_8] - Load time: 21452 microseconds
-[mesh3D_8] - Load time: 21591 microseconds
-[mesh3D_8] - Load time: 21611 microseconds
-[mesh3D_8] - Load time: 21599 microseconds
-[mesh3D_8] - Load time: 21498 microseconds
-[mesh3D_8] - Load time: 21544 microseconds
-[mesh3D_8] - Load time: 21566 microseconds
-[mesh3D_8] - Load time: 21575 microseconds
-[mesh3D_8] - Load time: 21572 microseconds
-[mesh3D_8] - Load time: 21595 microseconds
-[mesh3D_8] - Load time: 21574 microseconds
-[mesh3D_8] - Load time: 21526 microseconds
-[mesh3D_8] - Load time: 21573 microseconds
-[mesh3D_8] - Load time: 21579 microseconds
-[mesh3D_8] - Load time: 21580 microseconds
-[mesh3D_8] - Load time: 21531 microseconds
-[mesh3D_8] - Load time: 21734 microseconds
-[mesh3D_8] - Load time: 22086 microseconds
-[mesh3D_8] - Load time: 22064 microseconds
-[mesh3D_8] - Load time: 22093 microseconds
-[mesh3D_8] - Load time: 21948 microseconds
-[mesh3D_8] - Load time: 21573 microseconds
-[mesh3D_8] - Load time: 21592 microseconds
-[mesh3D_8] - Load time: 21567 microseconds
-[mesh3D_8] - Load time: 22214 microseconds
-[mesh3D_8] - Load time: 21695 microseconds
-[mesh3D_8] - Load time: 21666 microseconds
-[mesh3D_8] - Load time: 22129 microseconds
-[mesh3D_8] - Load time: 21801 microseconds
-[mesh3D_8] - Load time: 21742 microseconds
-[mesh3D_8] - Load time: 21685 microseconds
-[mesh3D_8] - Load time: 21739 microseconds
-[mesh3D_8] - Load time: 21727 microseconds
-[mesh3D_8] - Load time: 21598 microseconds
-[mesh3D_8] - Load time: 21595 microseconds
-[mesh3D_8] - Load time: 21706 microseconds
-[mesh3D_8] - Load time: 21666 microseconds
-[mesh3D_8] - Load time: 21560 microseconds
-[mesh3D_8] - Load time: 21502 microseconds
-[mesh3D_8] - Load time: 21438 microseconds
-[mesh3D_8] - Load time: 21481 microseconds
-[mesh3D_8] - Load time: 21450 microseconds
-[mesh3D_8] - Load time: 21473 microseconds
-[mesh3D_8] - Load time: 21560 microseconds
-[mesh3D_8] - Load time: 21481 microseconds
-[mesh3D_8] - Load time: 21465 microseconds
-[mesh3D_8] - Load time: 21451 microseconds
-[mesh3D_8] - Load time: 21456 microseconds
-[mesh3D_8] - Load time: 21522 microseconds
-[mesh3D_8] - Load time: 21497 microseconds
-[mesh3D_8] - Load time: 21812 microseconds
-[mesh3D_8] - Load time: 22382 microseconds
-[mesh3D_8] - Load time: 22748 microseconds
-[mesh3D_8] - Load time: 22608 microseconds
-[mesh3D_8] - Load time: 23395 microseconds
-[mesh3D_8] - Load time: 22665 microseconds
-[mesh3D_8] - Load time: 22804 microseconds
-[mesh3D_8] - Load time: 23400 microseconds
-[mesh3D_8] - Load time: 22955 microseconds
-[mesh3D_8] - Load time: 23121 microseconds
-[mesh3D_8] - Load time: 23820 microseconds
-[mesh3D_8] - Load time: 23152 microseconds
-[mesh3D_8] - Load time: 23329 microseconds
-[mesh3D_8] - Load time: 23382 microseconds
-[mesh3D_8] - Load time: 22900 microseconds
-[mesh3D_8] - Load time: 22892 microseconds
-[mesh3D_8] - Load time: 22990 microseconds
-[mesh3D_8] - Load time: 22319 microseconds
-[mesh3D_8] - Load time: 21672 microseconds
-[mesh3D_8] - Load time: 21579 microseconds
-[mesh3D_8] - Load time: 21508 microseconds
-[mesh3D_8] - Load time: 21662 microseconds
-[mesh3D_8] - Load time: 21681 microseconds
-[mesh3D_8] - Load time: 21544 microseconds
-[mesh3D_8] - Load time: 21445 microseconds
-[mesh3D_8] - Load time: 21452 microseconds
-[mesh3D_8] - Load time: 21441 microseconds
-[mesh3D_8] - Load time: 21574 microseconds
-[mesh3D_8] - Load time: 21710 microseconds
-[mesh3D_8] - Load time: 21654 microseconds
-[mesh3D_8] - Load time: 21855 microseconds
-[mesh3D_8] - Load time: 22178 microseconds
-[mesh3D_8] - Load time: 21698 microseconds
-[mesh3D_8] - Load time: 21575 microseconds
-[mesh3D_8] - Load time: 337877 microseconds
-[mesh3D_8] - Load time: 323605 microseconds
-[mesh3D_8] - Load time: 323206 microseconds
-[mesh3D_8] - Load time: 322242 microseconds
-[mesh3D_8] - Load time: 322535 microseconds
-[mesh3D_8] - Load time: 322397 microseconds
-[mesh3D_8] - Load time: 322275 microseconds
-[mesh3D_8] - Load time: 322574 microseconds
-[mesh3D_8] - Load time: 322628 microseconds
-[mesh3D_8] - Load time: 322299 microseconds
-[mesh3D_8] - Load time: 322535 microseconds
-[mesh3D_8] - Load time: 322441 microseconds
-[mesh3D_8] - Load time: 322019 microseconds
-[mesh3D_8] - Load time: 322363 microseconds
-[mesh3D_8] - Load time: 322411 microseconds
+22350
+21791
+21759
+22096
+21882
+21786
+21785
+22241
+21757
+21642
+21605
+21492
+21489
+21484
+21520
+21549
+21634
+21699
+21705
+21761
+21534
+21528
+21551
+21494
+21765
+23199
+22908
+23469
+23299
+22455
+23337
+24430
+24102
+22604
+22428
+22245
+22682
+22751
+22538
+22563
+22578
+22529
+23299
+22253
+22396
+22936
+22230
+22535
+22310
+22318
+22203
+22309
+22169
+22368
+22080
+22542
+22694
+22099
+21679
+21706
+21696
+21659
+21683
+21646
+21605
+21664
+21634
+22123
+21728
+21694
+21554
+21584
+21849
+21640
+22350
+22240
+22309
+22376
+23626
+22875
+22984
+26031
+24259
+26270
+26148
+24647
+24091
+23696
+24484
+23363
+24266
+23116
+23183
+22713
+23468
+22494
+22031
+21760
+21785
+21703
+329406
+323797
+323290
+322389
+322296
+322536
+322401
+322615
+322722
+322680
+322391
+322451
+322600
+322287
+322342
+322634
+322227
+322430
+322031
+322341
+322428
+322061
+322463
+322370
+321938

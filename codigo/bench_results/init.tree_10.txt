@@ -1,116 +1,126 @@
-[tree_10] Init time: 7526 microseconds, Save time: 20963 microseconds, Total time: 28489 microseconds
-[tree_10] Init time: 7781 microseconds, Save time: 20828 microseconds, Total time: 28609 microseconds
-[tree_10] Init time: 7755 microseconds, Save time: 20817 microseconds, Total time: 28573 microseconds
-[tree_10] Init time: 7801 microseconds, Save time: 20739 microseconds, Total time: 28541 microseconds
-[tree_10] Init time: 7759 microseconds, Save time: 20756 microseconds, Total time: 28515 microseconds
-[tree_10] Init time: 7801 microseconds, Save time: 20912 microseconds, Total time: 28713 microseconds
-[tree_10] Init time: 7775 microseconds, Save time: 20727 microseconds, Total time: 28502 microseconds
-[tree_10] Init time: 7770 microseconds, Save time: 20732 microseconds, Total time: 28503 microseconds
-[tree_10] Init time: 7758 microseconds, Save time: 20914 microseconds, Total time: 28673 microseconds
-[tree_10] Init time: 7917 microseconds, Save time: 20968 microseconds, Total time: 28885 microseconds
-[tree_10] Init time: 7776 microseconds, Save time: 20745 microseconds, Total time: 28522 microseconds
-[tree_10] Init time: 7768 microseconds, Save time: 20803 microseconds, Total time: 28571 microseconds
-[tree_10] Init time: 7777 microseconds, Save time: 20754 microseconds, Total time: 28532 microseconds
-[tree_10] Init time: 7765 microseconds, Save time: 20781 microseconds, Total time: 28547 microseconds
-[tree_10] Init time: 7756 microseconds, Save time: 20750 microseconds, Total time: 28506 microseconds
-[tree_10] Init time: 7785 microseconds, Save time: 20677 microseconds, Total time: 28462 microseconds
-[tree_10] Init time: 7760 microseconds, Save time: 20705 microseconds, Total time: 28466 microseconds
-[tree_10] Init time: 7731 microseconds, Save time: 20751 microseconds, Total time: 28482 microseconds
-[tree_10] Init time: 7751 microseconds, Save time: 20745 microseconds, Total time: 28497 microseconds
-[tree_10] Init time: 7748 microseconds, Save time: 20730 microseconds, Total time: 28478 microseconds
-[tree_10] Init time: 7736 microseconds, Save time: 20826 microseconds, Total time: 28563 microseconds
-[tree_10] Init time: 7739 microseconds, Save time: 20836 microseconds, Total time: 28576 microseconds
-[tree_10] Init time: 7765 microseconds, Save time: 20942 microseconds, Total time: 28707 microseconds
-[tree_10] Init time: 7755 microseconds, Save time: 20714 microseconds, Total time: 28469 microseconds
-[tree_10] Init time: 7767 microseconds, Save time: 20684 microseconds, Total time: 28451 microseconds
-[tree_10] Init time: 7737 microseconds, Save time: 20770 microseconds, Total time: 28507 microseconds
-[tree_10] Init time: 7807 microseconds, Save time: 20921 microseconds, Total time: 28728 microseconds
-[tree_10] Init time: 7765 microseconds, Save time: 20751 microseconds, Total time: 28517 microseconds
-[tree_10] Init time: 7751 microseconds, Save time: 20704 microseconds, Total time: 28455 microseconds
-[tree_10] Init time: 7762 microseconds, Save time: 20984 microseconds, Total time: 28746 microseconds
-[tree_10] Init time: 7849 microseconds, Save time: 20939 microseconds, Total time: 28789 microseconds
-[tree_10] Init time: 7762 microseconds, Save time: 20801 microseconds, Total time: 28564 microseconds
-[tree_10] Init time: 7728 microseconds, Save time: 20762 microseconds, Total time: 28490 microseconds
-[tree_10] Init time: 7772 microseconds, Save time: 20758 microseconds, Total time: 28530 microseconds
-[tree_10] Init time: 7761 microseconds, Save time: 20783 microseconds, Total time: 28544 microseconds
-[tree_10] Init time: 7734 microseconds, Save time: 20705 microseconds, Total time: 28440 microseconds
-[tree_10] Init time: 7740 microseconds, Save time: 20793 microseconds, Total time: 28534 microseconds
-[tree_10] Init time: 7781 microseconds, Save time: 20758 microseconds, Total time: 28539 microseconds
-[tree_10] Init time: 7728 microseconds, Save time: 20809 microseconds, Total time: 28538 microseconds
-[tree_10] Init time: 7780 microseconds, Save time: 20740 microseconds, Total time: 28520 microseconds
-[tree_10] Init time: 7783 microseconds, Save time: 20905 microseconds, Total time: 28689 microseconds
-[tree_10] Init time: 7743 microseconds, Save time: 20762 microseconds, Total time: 28506 microseconds
-[tree_10] Init time: 7780 microseconds, Save time: 20738 microseconds, Total time: 28518 microseconds
-[tree_10] Init time: 7805 microseconds, Save time: 20738 microseconds, Total time: 28543 microseconds
-[tree_10] Init time: 7863 microseconds, Save time: 24990 microseconds, Total time: 32854 microseconds
-[tree_10] Init time: 7776 microseconds, Save time: 22269 microseconds, Total time: 30045 microseconds
-[tree_10] Init time: 7777 microseconds, Save time: 20755 microseconds, Total time: 28533 microseconds
-[tree_10] Init time: 7774 microseconds, Save time: 20699 microseconds, Total time: 28473 microseconds
-[tree_10] Init time: 7755 microseconds, Save time: 20701 microseconds, Total time: 28456 microseconds
-[tree_10] Init time: 7764 microseconds, Save time: 20821 microseconds, Total time: 28585 microseconds
-[tree_10] Init time: 7796 microseconds, Save time: 21138 microseconds, Total time: 28934 microseconds
-[tree_10] Init time: 7797 microseconds, Save time: 20868 microseconds, Total time: 28665 microseconds
-[tree_10] Init time: 7783 microseconds, Save time: 20752 microseconds, Total time: 28535 microseconds
-[tree_10] Init time: 7756 microseconds, Save time: 20769 microseconds, Total time: 28525 microseconds
-[tree_10] Init time: 7762 microseconds, Save time: 20783 microseconds, Total time: 28546 microseconds
-[tree_10] Init time: 7758 microseconds, Save time: 20745 microseconds, Total time: 28504 microseconds
-[tree_10] Init time: 7769 microseconds, Save time: 20850 microseconds, Total time: 28620 microseconds
-[tree_10] Init time: 7772 microseconds, Save time: 20726 microseconds, Total time: 28499 microseconds
-[tree_10] Init time: 7767 microseconds, Save time: 20905 microseconds, Total time: 28672 microseconds
-[tree_10] Init time: 7767 microseconds, Save time: 20793 microseconds, Total time: 28561 microseconds
-[tree_10] Init time: 7769 microseconds, Save time: 20839 microseconds, Total time: 28608 microseconds
-[tree_10] Init time: 7776 microseconds, Save time: 20814 microseconds, Total time: 28591 microseconds
-[tree_10] Init time: 7770 microseconds, Save time: 20728 microseconds, Total time: 28499 microseconds
-[tree_10] Init time: 7779 microseconds, Save time: 20719 microseconds, Total time: 28499 microseconds
-[tree_10] Init time: 7773 microseconds, Save time: 20720 microseconds, Total time: 28493 microseconds
-[tree_10] Init time: 7750 microseconds, Save time: 20686 microseconds, Total time: 28436 microseconds
-[tree_10] Init time: 7756 microseconds, Save time: 20727 microseconds, Total time: 28483 microseconds
-[tree_10] Init time: 7789 microseconds, Save time: 20710 microseconds, Total time: 28499 microseconds
-[tree_10] Init time: 7752 microseconds, Save time: 20699 microseconds, Total time: 28451 microseconds
-[tree_10] Init time: 7748 microseconds, Save time: 20733 microseconds, Total time: 28481 microseconds
-[tree_10] Init time: 7768 microseconds, Save time: 20683 microseconds, Total time: 28452 microseconds
-[tree_10] Init time: 7769 microseconds, Save time: 21123 microseconds, Total time: 28892 microseconds
-[tree_10] Init time: 7817 microseconds, Save time: 20888 microseconds, Total time: 28705 microseconds
-[tree_10] Init time: 7802 microseconds, Save time: 20882 microseconds, Total time: 28684 microseconds
-[tree_10] Init time: 7765 microseconds, Save time: 20793 microseconds, Total time: 28559 microseconds
-[tree_10] Init time: 7745 microseconds, Save time: 20753 microseconds, Total time: 28499 microseconds
-[tree_10] Init time: 7775 microseconds, Save time: 20837 microseconds, Total time: 28612 microseconds
-[tree_10] Init time: 7778 microseconds, Save time: 20817 microseconds, Total time: 28596 microseconds
-[tree_10] Init time: 7757 microseconds, Save time: 20939 microseconds, Total time: 28697 microseconds
-[tree_10] Init time: 7813 microseconds, Save time: 20835 microseconds, Total time: 28648 microseconds
-[tree_10] Init time: 7775 microseconds, Save time: 20805 microseconds, Total time: 28581 microseconds
-[tree_10] Init time: 7769 microseconds, Save time: 20760 microseconds, Total time: 28529 microseconds
-[tree_10] Init time: 7748 microseconds, Save time: 20730 microseconds, Total time: 28479 microseconds
-[tree_10] Init time: 7765 microseconds, Save time: 20725 microseconds, Total time: 28491 microseconds
-[tree_10] Init time: 7788 microseconds, Save time: 20825 microseconds, Total time: 28614 microseconds
-[tree_10] Init time: 7775 microseconds, Save time: 20777 microseconds, Total time: 28552 microseconds
-[tree_10] Init time: 7746 microseconds, Save time: 20744 microseconds, Total time: 28491 microseconds
-[tree_10] Init time: 7759 microseconds, Save time: 20716 microseconds, Total time: 28476 microseconds
-[tree_10] Init time: 7764 microseconds, Save time: 20704 microseconds, Total time: 28468 microseconds
-[tree_10] Init time: 7770 microseconds, Save time: 20780 microseconds, Total time: 28551 microseconds
-[tree_10] Init time: 7808 microseconds, Save time: 20768 microseconds, Total time: 28577 microseconds
-[tree_10] Init time: 7767 microseconds, Save time: 20678 microseconds, Total time: 28446 microseconds
-[tree_10] Init time: 7764 microseconds, Save time: 20978 microseconds, Total time: 28743 microseconds
-[tree_10] Init time: 7813 microseconds, Save time: 20857 microseconds, Total time: 28670 microseconds
-[tree_10] Init time: 7780 microseconds, Save time: 20963 microseconds, Total time: 28743 microseconds
-[tree_10] Init time: 7833 microseconds, Save time: 20943 microseconds, Total time: 28776 microseconds
-[tree_10] Init time: 7809 microseconds, Save time: 21011 microseconds, Total time: 28821 microseconds
-[tree_10] Init time: 7808 microseconds, Save time: 20813 microseconds, Total time: 28622 microseconds
-[tree_10] Init time: 7774 microseconds, Save time: 20781 microseconds, Total time: 28555 microseconds
-[tree_10] Init time: 7747 microseconds, Save time: 21303 microseconds, Total time: 29051 microseconds
-with memoi
-[tree_10] Init time: 8867 microseconds, Save time: 876227 microseconds, Total time: 885094 microseconds
-[tree_10] Init time: 9198 microseconds, Save time: 973446 microseconds, Total time: 982645 microseconds
-[tree_10] Init time: 9207 microseconds, Save time: 995823 microseconds, Total time: 1005031 microseconds
-[tree_10] Init time: 9224 microseconds, Save time: 1004949 microseconds, Total time: 1014173 microseconds
-[tree_10] Init time: 9109 microseconds, Save time: 1020913 microseconds, Total time: 1030022 microseconds
-[tree_10] Init time: 9229 microseconds, Save time: 1004370 microseconds, Total time: 1013600 microseconds
-[tree_10] Init time: 9115 microseconds, Save time: 1013685 microseconds, Total time: 1022801 microseconds
-[tree_10] Init time: 9212 microseconds, Save time: 1019289 microseconds, Total time: 1028501 microseconds
-[tree_10] Init time: 9173 microseconds, Save time: 1072657 microseconds, Total time: 1081831 microseconds
-[tree_10] Init time: 11010 microseconds, Save time: 970525 microseconds, Total time: 981536 microseconds
-[tree_10] Init time: 9278 microseconds, Save time: 1004840 microseconds, Total time: 1014118 microseconds
-[tree_10] Init time: 9201 microseconds, Save time: 1005259 microseconds, Total time: 1014461 microseconds
-[tree_10] Init time: 9216 microseconds, Save time: 1009673 microseconds, Total time: 1018889 microseconds
-[tree_10] Init time: 9260 microseconds, Save time: 996440 microseconds, Total time: 1005701 microseconds
-[tree_10] Init time: 9206 microseconds, Save time: 1010447 microseconds, Total time: 1019654 microseconds
+7383 24801 32184
+7705 22972 30677
+7676 22908 30585
+7724 22925 30650
+7633 22976 30609
+7792 23037 30830
+7736 23002 30738
+7708 22927 30636
+7699 22930 30630
+7706 22989 30695
+7680 22904 30585
+7710 22950 30660
+7685 22935 30621
+7651 22892 30543
+7738 22922 30661
+7673 22856 30530
+7686 22944 30630
+7671 22966 30637
+7674 22951 30625
+7699 22935 30634
+7676 22919 30595
+7724 22927 30652
+7688 22953 30642
+7895 23047 30943
+7672 23059 30731
+7675 23046 30721
+7703 23068 30772
+7680 22905 30586
+7655 22966 30621
+7677 22877 30554
+7675 22916 30591
+7728 22979 30707
+7715 22913 30628
+7685 22871 30556
+7673 22972 30646
+7667 22907 30574
+7659 22882 30542
+7680 22904 30584
+7819 23172 30991
+7730 23267 30997
+7707 23074 30781
+7773 22963 30736
+7701 23211 30912
+7739 23014 30753
+7732 23218 30951
+7855 23098 30953
+7764 22867 30632
+7670 22973 30643
+7673 22892 30565
+7668 22914 30583
+7687 22902 30590
+7702 23107 30809
+7712 22996 30708
+7698 30983 38681
+7744 24595 32340
+7753 23616 31370
+8130 23310 31441
+7755 23136 30891
+7723 22981 30704
+7714 23003 30717
+7738 23108 30847
+7744 22965 30710
+7748 23160 30908
+7777 23452 31230
+7795 23042 30838
+7692 22889 30581
+7683 22895 30578
+7701 22999 30701
+7692 23046 30739
+7888 23170 31058
+7805 23069 30875
+7793 22924 30718
+7874 23284 31158
+7788 23228 31016
+7751 23247 30998
+7750 23339 31090
+7852 23285 31137
+7848 23196 31045
+7706 22990 30697
+7904 22561 30466
+8944 22670 31614
+8210 23175 31386
+7690 22968 30659
+7658 22951 30610
+7760 22937 30697
+7673 23025 30699
+7797 23023 30820
+7805 23134 30939
+7719 23429 31149
+7754 23191 30945
+8076 23458 31535
+7836 22966 30802
+7961 23166 31127
+7807 22924 30731
+7872 23059 30932
+7848 23112 30960
+8103 23413 31516
+7808 23049 30858
+7677 22923 30600
+7641 22921 30563
+time  
+8864 949052 957917
+9117 1053982 1063099
+9102 1095792 1104895
+9151 1080737 1089889
+9140 1070890 1080030
+9151 1071713 1080865
+9122 1075530 1084652
+9169 1075175 1084344
+9138 1071898 1081036
+9164 1074700 1083864
+9121 1112936 1122058
+12032 1048409 1060442
+9134 1090663 1099797
+9157 1087802 1096959
+9134 1081829 1090964
+9138 1076241 1085379
+37517 953271 990788
+9972 1087497 1097469
+9124 1072736 1081861
+9162 1074540 1083702
+9188 1077655 1086844
+9166 1080089 1089256
+9167 1084104 1093272
+9153 1120822 1129976
+12180 1033930 1046111

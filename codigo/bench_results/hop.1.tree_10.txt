@@ -1,400 +1,820 @@
-[tree_10] - 1 Hop time: 4554 ns
-[tree_10] - 1 Hop time: 7284 ns
-[tree_10] - 1 Hop time: 6362 ns
-[tree_10] - 1 Hop time: 1403 ns
-[tree_10] - 1 Hop time: 1405 ns
-[tree_10] - 1 Hop time: 6412 ns
-[tree_10] - 1 Hop time: 6264 ns
-[tree_10] - 1 Hop time: 6182 ns
-[tree_10] - 1 Hop time: 6007 ns
-[tree_10] - 1 Hop time: 1448 ns
-[tree_10] - 1 Hop time: 1397 ns
-[tree_10] - 1 Hop time: 6090 ns
-[tree_10] - 1 Hop time: 6171 ns
-[tree_10] - 1 Hop time: 6234 ns
-[tree_10] - 1 Hop time: 1477 ns
-[tree_10] - 1 Hop time: 1548 ns
-[tree_10] - 1 Hop time: 6270 ns
-[tree_10] - 1 Hop time: 6234 ns
-[tree_10] - 1 Hop time: 6240 ns
-[tree_10] - 1 Hop time: 6096 ns
-[tree_10] - 1 Hop time: 6332 ns
-[tree_10] - 1 Hop time: 6268 ns
-[tree_10] - 1 Hop time: 1429 ns
-[tree_10] - 1 Hop time: 6054 ns
-[tree_10] - 1 Hop time: 6062 ns
-[tree_10] - 1 Hop time: 6095 ns
-[tree_10] - 1 Hop time: 6196 ns
-[tree_10] - 1 Hop time: 1422 ns
-[tree_10] - 1 Hop time: 6248 ns
-[tree_10] - 1 Hop time: 6122 ns
-[tree_10] - 1 Hop time: 1417 ns
-[tree_10] - 1 Hop time: 6116 ns
-[tree_10] - 1 Hop time: 1391 ns
-[tree_10] - 1 Hop time: 6109 ns
-[tree_10] - 1 Hop time: 1390 ns
-[tree_10] - 1 Hop time: 1396 ns
-[tree_10] - 1 Hop time: 6216 ns
-[tree_10] - 1 Hop time: 6056 ns
-[tree_10] - 1 Hop time: 1344 ns
-[tree_10] - 1 Hop time: 1366 ns
-[tree_10] - 1 Hop time: 6264 ns
-[tree_10] - 1 Hop time: 1358 ns
-[tree_10] - 1 Hop time: 1387 ns
-[tree_10] - 1 Hop time: 6201 ns
-[tree_10] - 1 Hop time: 1468 ns
-[tree_10] - 1 Hop time: 6201 ns
-[tree_10] - 1 Hop time: 1367 ns
-[tree_10] - 1 Hop time: 6051 ns
-[tree_10] - 1 Hop time: 5965 ns
-[tree_10] - 1 Hop time: 6092 ns
-[tree_10] - 1 Hop time: 6171 ns
-[tree_10] - 1 Hop time: 1401 ns
-[tree_10] - 1 Hop time: 1371 ns
-[tree_10] - 1 Hop time: 6136 ns
-[tree_10] - 1 Hop time: 6212 ns
-[tree_10] - 1 Hop time: 1388 ns
-[tree_10] - 1 Hop time: 1386 ns
-[tree_10] - 1 Hop time: 6174 ns
-[tree_10] - 1 Hop time: 6226 ns
-[tree_10] - 1 Hop time: 1390 ns
-[tree_10] - 1 Hop time: 1380 ns
-[tree_10] - 1 Hop time: 6104 ns
-[tree_10] - 1 Hop time: 1388 ns
-[tree_10] - 1 Hop time: 1380 ns
-[tree_10] - 1 Hop time: 6037 ns
-[tree_10] - 1 Hop time: 1379 ns
-[tree_10] - 1 Hop time: 6003 ns
-[tree_10] - 1 Hop time: 1402 ns
-[tree_10] - 1 Hop time: 6203 ns
-[tree_10] - 1 Hop time: 6214 ns
-[tree_10] - 1 Hop time: 6199 ns
-[tree_10] - 1 Hop time: 6206 ns
-[tree_10] - 1 Hop time: 1367 ns
-[tree_10] - 1 Hop time: 6212 ns
-[tree_10] - 1 Hop time: 1387 ns
-[tree_10] - 1 Hop time: 1373 ns
-[tree_10] - 1 Hop time: 6045 ns
-[tree_10] - 1 Hop time: 1313 ns
-[tree_10] - 1 Hop time: 1350 ns
-[tree_10] - 1 Hop time: 1364 ns
-[tree_10] - 1 Hop time: 5958 ns
-[tree_10] - 1 Hop time: 5978 ns
-[tree_10] - 1 Hop time: 6080 ns
-[tree_10] - 1 Hop time: 1371 ns
-[tree_10] - 1 Hop time: 1398 ns
-[tree_10] - 1 Hop time: 6195 ns
-[tree_10] - 1 Hop time: 6210 ns
-[tree_10] - 1 Hop time: 6215 ns
-[tree_10] - 1 Hop time: 1374 ns
-[tree_10] - 1 Hop time: 1386 ns
-[tree_10] - 1 Hop time: 6071 ns
-[tree_10] - 1 Hop time: 1302 ns
-[tree_10] - 1 Hop time: 1383 ns
-[tree_10] - 1 Hop time: 6206 ns
-[tree_10] - 1 Hop time: 6069 ns
-[tree_10] - 1 Hop time: 6150 ns
-[tree_10] - 1 Hop time: 6145 ns
-[tree_10] - 1 Hop time: 5971 ns
-[tree_10] - 1 Hop time: 1388 ns
-[tree_10] - 1 Hop time: 6151 ns
-[tree_10] - 1 Hop time: 6204 ns
-[tree_10] - 1 Hop time: 6131 ns
-[tree_10] - 1 Hop time: 1379 ns
-[tree_10] - 1 Hop time: 5983 ns
-[tree_10] - 1 Hop time: 6243 ns
-[tree_10] - 1 Hop time: 6231 ns
-[tree_10] - 1 Hop time: 1369 ns
-[tree_10] - 1 Hop time: 6197 ns
-[tree_10] - 1 Hop time: 6063 ns
-[tree_10] - 1 Hop time: 6069 ns
-[tree_10] - 1 Hop time: 6000 ns
-[tree_10] - 1 Hop time: 6031 ns
-[tree_10] - 1 Hop time: 1383 ns
-[tree_10] - 1 Hop time: 6202 ns
-[tree_10] - 1 Hop time: 1390 ns
-[tree_10] - 1 Hop time: 6219 ns
-[tree_10] - 1 Hop time: 1376 ns
-[tree_10] - 1 Hop time: 6230 ns
-[tree_10] - 1 Hop time: 1392 ns
-[tree_10] - 1 Hop time: 1400 ns
-[tree_10] - 1 Hop time: 6062 ns
-[tree_10] - 1 Hop time: 1291 ns
-[tree_10] - 1 Hop time: 6220 ns
-[tree_10] - 1 Hop time: 6227 ns
-[tree_10] - 1 Hop time: 1374 ns
-[tree_10] - 1 Hop time: 6126 ns
-[tree_10] - 1 Hop time: 6528 ns
-[tree_10] - 1 Hop time: 1392 ns
-[tree_10] - 1 Hop time: 1385 ns
-[tree_10] - 1 Hop time: 6329 ns
-[tree_10] - 1 Hop time: 6139 ns
-[tree_10] - 1 Hop time: 1319 ns
-[tree_10] - 1 Hop time: 6266 ns
-[tree_10] - 1 Hop time: 1366 ns
-[tree_10] - 1 Hop time: 1390 ns
-[tree_10] - 1 Hop time: 1380 ns
-[tree_10] - 1 Hop time: 6264 ns
-[tree_10] - 1 Hop time: 1380 ns
-[tree_10] - 1 Hop time: 6323 ns
-[tree_10] - 1 Hop time: 6268 ns
-[tree_10] - 1 Hop time: 6151 ns
-[tree_10] - 1 Hop time: 6236 ns
-[tree_10] - 1 Hop time: 1391 ns
-[tree_10] - 1 Hop time: 1402 ns
-[tree_10] - 1 Hop time: 1379 ns
-[tree_10] - 1 Hop time: 6299 ns
-[tree_10] - 1 Hop time: 6219 ns
-[tree_10] - 1 Hop time: 1394 ns
-[tree_10] - 1 Hop time: 1393 ns
-[tree_10] - 1 Hop time: 1409 ns
-[tree_10] - 1 Hop time: 6136 ns
-[tree_10] - 1 Hop time: 1396 ns
-[tree_10] - 1 Hop time: 6122 ns
-[tree_10] - 1 Hop time: 6206 ns
-[tree_10] - 1 Hop time: 5977 ns
-[tree_10] - 1 Hop time: 6207 ns
-[tree_10] - 1 Hop time: 1390 ns
-[tree_10] - 1 Hop time: 6160 ns
-[tree_10] - 1 Hop time: 1384 ns
-[tree_10] - 1 Hop time: 6258 ns
-[tree_10] - 1 Hop time: 1371 ns
-[tree_10] - 1 Hop time: 1369 ns
-[tree_10] - 1 Hop time: 6128 ns
-[tree_10] - 1 Hop time: 6213 ns
-[tree_10] - 1 Hop time: 1404 ns
-[tree_10] - 1 Hop time: 6039 ns
-[tree_10] - 1 Hop time: 1408 ns
-[tree_10] - 1 Hop time: 1388 ns
-[tree_10] - 1 Hop time: 1389 ns
-[tree_10] - 1 Hop time: 1363 ns
-[tree_10] - 1 Hop time: 6261 ns
-[tree_10] - 1 Hop time: 1375 ns
-[tree_10] - 1 Hop time: 6210 ns
-[tree_10] - 1 Hop time: 1391 ns
-[tree_10] - 1 Hop time: 1368 ns
-[tree_10] - 1 Hop time: 1387 ns
-[tree_10] - 1 Hop time: 1361 ns
-[tree_10] - 1 Hop time: 1372 ns
-[tree_10] - 1 Hop time: 6136 ns
-[tree_10] - 1 Hop time: 1269 ns
-[tree_10] - 1 Hop time: 1332 ns
-[tree_10] - 1 Hop time: 1270 ns
-[tree_10] - 1 Hop time: 1299 ns
-[tree_10] - 1 Hop time: 6255 ns
-[tree_10] - 1 Hop time: 6178 ns
-[tree_10] - 1 Hop time: 1344 ns
-[tree_10] - 1 Hop time: 6196 ns
-[tree_10] - 1 Hop time: 1360 ns
-[tree_10] - 1 Hop time: 1350 ns
-[tree_10] - 1 Hop time: 1274 ns
-[tree_10] - 1 Hop time: 1299 ns
-[tree_10] - 1 Hop time: 1268 ns
-[tree_10] - 1 Hop time: 1283 ns
-[tree_10] - 1 Hop time: 1332 ns
-[tree_10] - 1 Hop time: 1329 ns
-[tree_10] - 1 Hop time: 6344 ns
-[tree_10] - 1 Hop time: 6118 ns
-[tree_10] - 1 Hop time: 6078 ns
-[tree_10] - 1 Hop time: 1354 ns
-[tree_10] - 1 Hop time: 1371 ns
-[tree_10] - 1 Hop time: 13523 ns
-[tree_10] - 1 Hop time: 8805 ns
-[tree_10] - 1 Hop time: 8765 ns
-[tree_10] - 1 Hop time: 1640 ns
-[tree_10] - 1 Hop time: 2469 ns
-[tree_10] - 1 Hop time: 7092 ns
-[tree_10] - 1 Hop time: 8106 ns
-[tree_10] - 1 Hop time: 8214 ns
-[tree_10] - 1 Hop time: 6820 ns
-[tree_10] - 1 Hop time: 2583 ns
-[tree_10] - 1 Hop time: 3079 ns
-[tree_10] - 1 Hop time: 6571 ns
-[tree_10] - 1 Hop time: 7401 ns
-[tree_10] - 1 Hop time: 7657 ns
-[tree_10] - 1 Hop time: 2268 ns
-[tree_10] - 1 Hop time: 3210 ns
-[tree_10] - 1 Hop time: 7896 ns
-[tree_10] - 1 Hop time: 8778 ns
-[tree_10] - 1 Hop time: 7505 ns
-[tree_10] - 1 Hop time: 6199 ns
-[tree_10] - 1 Hop time: 8521 ns
-[tree_10] - 1 Hop time: 7061 ns
-[tree_10] - 1 Hop time: 1616 ns
-[tree_10] - 1 Hop time: 7067 ns
-[tree_10] - 1 Hop time: 7507 ns
-[tree_10] - 1 Hop time: 6863 ns
-[tree_10] - 1 Hop time: 7343 ns
-[tree_10] - 1 Hop time: 2066 ns
-[tree_10] - 1 Hop time: 6745 ns
-[tree_10] - 1 Hop time: 6272 ns
-[tree_10] - 1 Hop time: 1632 ns
-[tree_10] - 1 Hop time: 6825 ns
-[tree_10] - 1 Hop time: 1687 ns
-[tree_10] - 1 Hop time: 7090 ns
-[tree_10] - 1 Hop time: 2081 ns
-[tree_10] - 1 Hop time: 1726 ns
-[tree_10] - 1 Hop time: 6599 ns
-[tree_10] - 1 Hop time: 7657 ns
-[tree_10] - 1 Hop time: 2073 ns
-[tree_10] - 1 Hop time: 2564 ns
-[tree_10] - 1 Hop time: 7151 ns
-[tree_10] - 1 Hop time: 1541 ns
-[tree_10] - 1 Hop time: 1969 ns
-[tree_10] - 1 Hop time: 7464 ns
-[tree_10] - 1 Hop time: 3561 ns
-[tree_10] - 1 Hop time: 8196 ns
-[tree_10] - 1 Hop time: 2162 ns
-[tree_10] - 1 Hop time: 7235 ns
-[tree_10] - 1 Hop time: 6984 ns
-[tree_10] - 1 Hop time: 10831 ns
-[tree_10] - 1 Hop time: 6983 ns
-[tree_10] - 1 Hop time: 1820 ns
-[tree_10] - 1 Hop time: 1963 ns
-[tree_10] - 1 Hop time: 6832 ns
-[tree_10] - 1 Hop time: 9068 ns
-[tree_10] - 1 Hop time: 1887 ns
-[tree_10] - 1 Hop time: 2010 ns
-[tree_10] - 1 Hop time: 6767 ns
-[tree_10] - 1 Hop time: 7271 ns
-[tree_10] - 1 Hop time: 1625 ns
-[tree_10] - 1 Hop time: 2243 ns
-[tree_10] - 1 Hop time: 7354 ns
-[tree_10] - 1 Hop time: 1693 ns
-[tree_10] - 1 Hop time: 1658 ns
-[tree_10] - 1 Hop time: 6766 ns
-[tree_10] - 1 Hop time: 1840 ns
-[tree_10] - 1 Hop time: 6744 ns
-[tree_10] - 1 Hop time: 1758 ns
-[tree_10] - 1 Hop time: 6455 ns
-[tree_10] - 1 Hop time: 6718 ns
-[tree_10] - 1 Hop time: 6377 ns
-[tree_10] - 1 Hop time: 7465 ns
-[tree_10] - 1 Hop time: 1653 ns
-[tree_10] - 1 Hop time: 7057 ns
-[tree_10] - 1 Hop time: 1672 ns
-[tree_10] - 1 Hop time: 1490 ns
-[tree_10] - 1 Hop time: 6897 ns
-[tree_10] - 1 Hop time: 1545 ns
-[tree_10] - 1 Hop time: 1942 ns
-[tree_10] - 1 Hop time: 1946 ns
-[tree_10] - 1 Hop time: 6380 ns
-[tree_10] - 1 Hop time: 6992 ns
-[tree_10] - 1 Hop time: 6433 ns
-[tree_10] - 1 Hop time: 1383 ns
-[tree_10] - 1 Hop time: 1788 ns
-[tree_10] - 1 Hop time: 6835 ns
-[tree_10] - 1 Hop time: 6839 ns
-[tree_10] - 1 Hop time: 7343 ns
-[tree_10] - 1 Hop time: 1391 ns
-[tree_10] - 1 Hop time: 1658 ns
-[tree_10] - 1 Hop time: 7069 ns
-[tree_10] - 1 Hop time: 1794 ns
-[tree_10] - 1 Hop time: 1813 ns
-[tree_10] - 1 Hop time: 6707 ns
-[tree_10] - 1 Hop time: 6871 ns
-[tree_10] - 1 Hop time: 7299 ns
-[tree_10] - 1 Hop time: 7423 ns
-[tree_10] - 1 Hop time: 6614 ns
-[tree_10] - 1 Hop time: 1686 ns
-[tree_10] - 1 Hop time: 7650 ns
-[tree_10] - 1 Hop time: 7072 ns
-[tree_10] - 1 Hop time: 8317 ns
-[tree_10] - 1 Hop time: 2134 ns
-[tree_10] - 1 Hop time: 8329 ns
-[tree_10] - 1 Hop time: 8724 ns
-[tree_10] - 1 Hop time: 7437 ns
-[tree_10] - 1 Hop time: 3285 ns
-[tree_10] - 1 Hop time: 8281 ns
-[tree_10] - 1 Hop time: 7251 ns
-[tree_10] - 1 Hop time: 7094 ns
-[tree_10] - 1 Hop time: 11248 ns
-[tree_10] - 1 Hop time: 7339 ns
-[tree_10] - 1 Hop time: 2454 ns
-[tree_10] - 1 Hop time: 6068 ns
-[tree_10] - 1 Hop time: 1785 ns
-[tree_10] - 1 Hop time: 6413 ns
-[tree_10] - 1 Hop time: 1850 ns
-[tree_10] - 1 Hop time: 6458 ns
-[tree_10] - 1 Hop time: 1735 ns
-[tree_10] - 1 Hop time: 1649 ns
-[tree_10] - 1 Hop time: 6804 ns
-[tree_10] - 1 Hop time: 1600 ns
-[tree_10] - 1 Hop time: 6516 ns
-[tree_10] - 1 Hop time: 23324 ns
-[tree_10] - 1 Hop time: 1896 ns
-[tree_10] - 1 Hop time: 7280 ns
-[tree_10] - 1 Hop time: 8591 ns
-[tree_10] - 1 Hop time: 1749 ns
-[tree_10] - 1 Hop time: 1659 ns
-[tree_10] - 1 Hop time: 6889 ns
-[tree_10] - 1 Hop time: 7858 ns
-[tree_10] - 1 Hop time: 1840 ns
-[tree_10] - 1 Hop time: 6822 ns
-[tree_10] - 1 Hop time: 1486 ns
-[tree_10] - 1 Hop time: 1723 ns
-[tree_10] - 1 Hop time: 1645 ns
-[tree_10] - 1 Hop time: 7054 ns
-[tree_10] - 1 Hop time: 1491 ns
-[tree_10] - 1 Hop time: 6976 ns
-[tree_10] - 1 Hop time: 6354 ns
-[tree_10] - 1 Hop time: 6170 ns
-[tree_10] - 1 Hop time: 6810 ns
-[tree_10] - 1 Hop time: 1546 ns
-[tree_10] - 1 Hop time: 1427 ns
-[tree_10] - 1 Hop time: 2116 ns
-[tree_10] - 1 Hop time: 6829 ns
-[tree_10] - 1 Hop time: 6888 ns
-[tree_10] - 1 Hop time: 1590 ns
-[tree_10] - 1 Hop time: 1732 ns
-[tree_10] - 1 Hop time: 1668 ns
-[tree_10] - 1 Hop time: 6574 ns
-[tree_10] - 1 Hop time: 1766 ns
-[tree_10] - 1 Hop time: 7668 ns
-[tree_10] - 1 Hop time: 7086 ns
-[tree_10] - 1 Hop time: 6782 ns
-[tree_10] - 1 Hop time: 6867 ns
-[tree_10] - 1 Hop time: 1618 ns
-[tree_10] - 1 Hop time: 6888 ns
-[tree_10] - 1 Hop time: 1601 ns
-[tree_10] - 1 Hop time: 6346 ns
-[tree_10] - 1 Hop time: 1526 ns
-[tree_10] - 1 Hop time: 1475 ns
-[tree_10] - 1 Hop time: 8095 ns
-[tree_10] - 1 Hop time: 6738 ns
-[tree_10] - 1 Hop time: 1772 ns
-[tree_10] - 1 Hop time: 6945 ns
-[tree_10] - 1 Hop time: 1667 ns
-[tree_10] - 1 Hop time: 1486 ns
-[tree_10] - 1 Hop time: 1592 ns
-[tree_10] - 1 Hop time: 1603 ns
-[tree_10] - 1 Hop time: 6623 ns
-[tree_10] - 1 Hop time: 1514 ns
-[tree_10] - 1 Hop time: 31803 ns
-[tree_10] - 1 Hop time: 2568 ns
-[tree_10] - 1 Hop time: 1436 ns
-[tree_10] - 1 Hop time: 1868 ns
-[tree_10] - 1 Hop time: 2678 ns
-[tree_10] - 1 Hop time: 2197 ns
-[tree_10] - 1 Hop time: 23286 ns
-[tree_10] - 1 Hop time: 2074 ns
-[tree_10] - 1 Hop time: 2099 ns
-[tree_10] - 1 Hop time: 3411 ns
-[tree_10] - 1 Hop time: 3507 ns
-[tree_10] - 1 Hop time: 7892 ns
-[tree_10] - 1 Hop time: 7848 ns
-[tree_10] - 1 Hop time: 2309 ns
-[tree_10] - 1 Hop time: 8680 ns
-[tree_10] - 1 Hop time: 2017 ns
-[tree_10] - 1 Hop time: 2642 ns
-[tree_10] - 1 Hop time: 1705 ns
-[tree_10] - 1 Hop time: 2728 ns
-[tree_10] - 1 Hop time: 2462 ns
-[tree_10] - 1 Hop time: 1889 ns
-[tree_10] - 1 Hop time: 1492 ns
-[tree_10] - 1 Hop time: 2028 ns
-[tree_10] - 1 Hop time: 9331 ns
-[tree_10] - 1 Hop time: 11131 ns
-[tree_10] - 1 Hop time: 10819 ns
-[tree_10] - 1 Hop time: 3113 ns
-[tree_10] - 1 Hop time: 3509 ns
+2550
+2431
+2197
+2131
+2188
+2150
+2138
+1395
+1410
+2162
+2129
+2128
+2170
+2127
+2093
+2128
+2092
+1990
+2083
+2083
+2089
+1448
+1404
+2089
+2036
+2030
+2119
+2066
+2070
+2099
+2054
+1975
+1425
+1405
+2104
+2125
+2096
+2111
+2085
+2058
+2085
+2055
+2030
+2071
+2092
+2081
+2147
+2110
+2082
+2097
+2107
+2054
+1432
+2092
+2078
+1997
+2111
+2117
+2081
+2102
+2082
+2007
+2086
+2080
+2025
+1413
+2097
+2106
+2048
+2078
+2080
+2034
+1342
+2109
+2120
+2105
+1411
+2068
+2049
+2006
+1378
+1324
+2062
+1985
+1949
+2049
+2118
+2054
+1394
+1410
+2221
+2130
+2118
+15457
+1450
+2170
+2161
+2157
+1459
+2156
+2144
+2095
+1400
+2152
+2105
+14028
+2119
+2052
+2024
+2113
+2089
+2040
+2109
+2075
+2014
+1401
+1377
+2109
+2098
+2099
+2119
+2115
+2099
+1380
+1380
+2087
+2067
+2023
+2080
+2120
+2105
+1390
+1388
+2095
+2102
+2088
+1395
+1380
+2081
+2054
+1978
+1306
+2088
+2082
+2109
+1381
+2083
+2097
+2092
+2093
+2063
+2077
+2082
+2087
+2049
+2093
+2088
+2091
+1374
+2086
+2099
+2048
+1414
+1384
+2091
+2087
+2064
+1400
+1369
+1384
+2089
+2084
+2089
+2085
+2073
+2085
+2088
+2082
+2087
+1463
+1381
+2156
+16144
+2098
+2192
+2179
+2161
+2187
+2170
+2108
+1425
+1446
+14192
+2082
+2079
+1382
+1352
+2083
+2081
+2027
+2073
+2103
+2098
+2082
+2090
+2070
+2112
+2086
+2068
+2101
+2090
+2085
+1390
+2090
+2071
+2104
+2110
+2073
+1998
+2097
+2084
+2076
+1377
+2070
+2081
+2113
+2072
+2082
+2085
+2073
+2030
+2005
+1306
+2088
+2102
+2085
+2097
+2083
+2065
+2080
+2086
+2099
+2076
+2045
+2025
+2083
+2099
+2082
+1372
+2087
+2092
+2093
+1395
+2092
+2077
+2119
+1377
+2086
+2113
+2089
+1390
+1398
+2067
+2111
+2056
+1383
+2052
+2078
+2096
+2099
+2211
+2042
+1313
+2080
+2138
+2047
+2178
+2143
+2142
+1420
+1423
+2140
+2172
+2148
+14161
+2097
+2137
+1376
+2147
+2076
+2087
+1371
+1371
+1392
+2113
+2044
+1978
+1268
+2091
+2107
+2085
+2090
+2100
+2090
+2062
+2020
+2042
+1981
+2051
+2005
+1387
+1371
+1400
+2119
+2088
+2113
+2075
+2069
+1989
+1333
+1369
+1285
+1960
+2049
+1997
+1285
+2084
+2096
+2042
+2079
+2063
+2028
+2090
+2059
+2095
+2100
+2057
+2129
+1388
+2080
+2086
+2109
+1375
+2114
+2086
+2077
+1400
+1376
+2089
+2093
+2090
+2084
+2079
+2073
+1406
+2112
+2091
+2086
+1353
+1427
+1393
+1380
+2188
+2149
+2056
+1340
+2153
+2112
+2170
+1426
+1438
+1404
+1411
+1312
+2129
+2098
+2045
+1374
+1378
+1362
+1370
+2123
+2122
+2030
+2112
+2135
+2088
+1364
+2109
+2103
+2083
+1376
+1380
+1348
+1366
+1364
+1366
+1338
+1364
+2128
+2113
+1996
+2099
+2125
+2064
+2123
+2090
+2029
+1275
+1369
+2775
+2605
+2211
+2127
+2322
+2115
+2066
+1512
+1410
+2271
+2112
+2035
+2277
+2128
+2123
+2218
+2098
+2058
+2056
+2027
+2050
+1451
+1388
+2021
+2071
+2090
+2160
+2095
+2100
+2143
+2104
+2066
+1510
+1545
+2226
+2084
+2076
+2232
+2074
+2053
+2212
+1972
+1986
+2073
+2063
+1982
+2123
+2114
+2065
+2209
+2034
+1996
+1501
+2091
+2117
+2071
+2167
+2098
+2081
+2092
+2084
+2051
+2135
+2080
+2064
+1461
+2154
+2095
+2080
+2057
+2001
+2000
+1401
+2154
+1957
+2001
+1306
+2089
+2060
+2037
+1399
+1360
+2058
+2076
+2066
+2074
+2082
+2084
+1374
+1500
+2210
+2103
+2071
+15582
+1442
+2244
+2151
+2121
+1411
+2263
+2154
+2136
+1455
+2178
+2131
+2060
+2174
+2153
+2055
+2159
+2138
+14350
+2179
+2091
+1993
+1348
+1306
+2080
+2063
+2079
+2079
+2108
+2050
+1397
+1443
+2098
+2076
+2086
+2100
+2086
+2071
+1375
+1374
+2085
+2074
+2087
+1373
+1400
+2086
+2010
+2011
+1289
+2137
+2086
+2076
+1383
+2149
+2081
+1990
+2097
+2070
+1981
+2072
+2081
+2041
+2146
+2084
+2058
+1374
+2121
+2061
+2031
+1330
+1276
+2080
+2088
+2053
+1377
+1392
+1379
+2108
+2070
+2037
+2090
+2106
+2083
+2088
+2063
+2058
+1388
+1393
+2146
+2085
+2012
+2158
+2160
+2150
+2181
+2178
+2114
+1337
+1437
+2122
+2114
+14143
+1405
+1398
+2089
+2001
+2015
+2087
+2060
+2071
+2121
+2086
+2078
+2138
+2058
+2007
+2112
+2099
+2074
+1375
+2088
+2088
+2074
+2142
+1979
+1998
+2096
+2030
+2016
+1352
+2093
+2077
+2072
+2096
+2087
+2088
+2095
+2084
+2078
+1392
+2114
+2088
+2075
+2092
+2070
+2106
+2095
+2077
+2073
+2098
+2063
+2043
+2071
+2034
+2005
+1385
+2072
+2077
+2062
+1383
+2088
+2070
+2014
+1285
+2104
+2070
+1986
+1335
+1301
+2092
+2092
+2079
+1391
+2083
+2076
+2070
+2088
+2211
+1975
+1336
+2110
+16314
+2144
+2201
+2147
+2133
+1409
+1425
+2143
+2154
+2068
+14377
+2089
+2094
+1373
+2111
+2062
+2033
+1357
+1376
+1382
+2126
+2066
+1985
+1317
+2090
+1971
+1974
+2093
+2074
+2086
+2086
+2074
+2034
+2112
+2100
+2023
+1311
+1276
+1373
+2106
+2093
+2087
+2105
+2072
+2038
+1383
+1376
+1372
+2085
+2080
+2089
+1370
+2099
+2068
+2089
+2089
+2052
+2081
+2101
+2057
+1981
+2094
+2069
+2038
+1336
+2105
+2082
+2077
+1377
+2084
+2067
+2006
+1371
+1361
+2090
+2063
+1994
+2089
+2060
+2082
+1388
+2068
+2076
+1965
+1367
+1356
+1354
+1395
+2200
+2154
+2142
+1392
+2140
+2139
+2154
+1440
+1414
+5305
+1478
+1395
+2188
+2182
+2142
+1426
+1386
+1394
+1407
+2118
+2117
+2073
+2119
+2051
+1993
+1393
+2113
+2093
+1996
+1317
+1377
+1365
+1346
+1342
+1344
+1355
+1351
+2139
+2090
+2097
+2119
+2085
+2024
+2125
+2026
+2035
+1311
+1278

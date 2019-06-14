@@ -1,115 +1,126 @@
-[mesh3D_8] Init time: 6005 microseconds, Save time: 23386 microseconds, Total time: 29391 microseconds
-[mesh3D_8] Init time: 6046 microseconds, Save time: 15174 microseconds, Total time: 21221 microseconds
-[mesh3D_8] Init time: 6020 microseconds, Save time: 15117 microseconds, Total time: 21138 microseconds
-[mesh3D_8] Init time: 6040 microseconds, Save time: 15086 microseconds, Total time: 21127 microseconds
-[mesh3D_8] Init time: 6011 microseconds, Save time: 15104 microseconds, Total time: 21115 microseconds
-[mesh3D_8] Init time: 5988 microseconds, Save time: 15025 microseconds, Total time: 21014 microseconds
-[mesh3D_8] Init time: 6019 microseconds, Save time: 15113 microseconds, Total time: 21133 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15109 microseconds, Total time: 21125 microseconds
-[mesh3D_8] Init time: 5982 microseconds, Save time: 15071 microseconds, Total time: 21054 microseconds
-[mesh3D_8] Init time: 6007 microseconds, Save time: 15057 microseconds, Total time: 21065 microseconds
-[mesh3D_8] Init time: 6025 microseconds, Save time: 15051 microseconds, Total time: 21076 microseconds
-[mesh3D_8] Init time: 6009 microseconds, Save time: 15061 microseconds, Total time: 21070 microseconds
-[mesh3D_8] Init time: 5989 microseconds, Save time: 15138 microseconds, Total time: 21128 microseconds
-[mesh3D_8] Init time: 6014 microseconds, Save time: 15129 microseconds, Total time: 21144 microseconds
-[mesh3D_8] Init time: 6019 microseconds, Save time: 15085 microseconds, Total time: 21104 microseconds
-[mesh3D_8] Init time: 5993 microseconds, Save time: 15055 microseconds, Total time: 21049 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15082 microseconds, Total time: 21100 microseconds
-[mesh3D_8] Init time: 6008 microseconds, Save time: 15143 microseconds, Total time: 21151 microseconds
-[mesh3D_8] Init time: 6046 microseconds, Save time: 15073 microseconds, Total time: 21119 microseconds
-[mesh3D_8] Init time: 6010 microseconds, Save time: 15146 microseconds, Total time: 21157 microseconds
-[mesh3D_8] Init time: 6016 microseconds, Save time: 15106 microseconds, Total time: 21123 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15120 microseconds, Total time: 21135 microseconds
-[mesh3D_8] Init time: 6014 microseconds, Save time: 15065 microseconds, Total time: 21079 microseconds
-[mesh3D_8] Init time: 5984 microseconds, Save time: 15094 microseconds, Total time: 21078 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15083 microseconds, Total time: 21098 microseconds
-[mesh3D_8] Init time: 6068 microseconds, Save time: 15167 microseconds, Total time: 21235 microseconds
-[mesh3D_8] Init time: 6090 microseconds, Save time: 15233 microseconds, Total time: 21323 microseconds
-[mesh3D_8] Init time: 6051 microseconds, Save time: 15090 microseconds, Total time: 21141 microseconds
-[mesh3D_8] Init time: 6020 microseconds, Save time: 15167 microseconds, Total time: 21187 microseconds
-[mesh3D_8] Init time: 5989 microseconds, Save time: 15106 microseconds, Total time: 21096 microseconds
-[mesh3D_8] Init time: 6036 microseconds, Save time: 15106 microseconds, Total time: 21142 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15055 microseconds, Total time: 21070 microseconds
-[mesh3D_8] Init time: 6013 microseconds, Save time: 15095 microseconds, Total time: 21108 microseconds
-[mesh3D_8] Init time: 6022 microseconds, Save time: 15082 microseconds, Total time: 21105 microseconds
-[mesh3D_8] Init time: 5986 microseconds, Save time: 15034 microseconds, Total time: 21020 microseconds
-[mesh3D_8] Init time: 6009 microseconds, Save time: 15046 microseconds, Total time: 21056 microseconds
-[mesh3D_8] Init time: 6013 microseconds, Save time: 15087 microseconds, Total time: 21101 microseconds
-[mesh3D_8] Init time: 5983 microseconds, Save time: 15126 microseconds, Total time: 21109 microseconds
-[mesh3D_8] Init time: 6044 microseconds, Save time: 15061 microseconds, Total time: 21105 microseconds
-[mesh3D_8] Init time: 6023 microseconds, Save time: 15033 microseconds, Total time: 21057 microseconds
-[mesh3D_8] Init time: 5983 microseconds, Save time: 15081 microseconds, Total time: 21064 microseconds
-[mesh3D_8] Init time: 6055 microseconds, Save time: 15135 microseconds, Total time: 21191 microseconds
-[mesh3D_8] Init time: 6016 microseconds, Save time: 15073 microseconds, Total time: 21089 microseconds
-[mesh3D_8] Init time: 6022 microseconds, Save time: 15037 microseconds, Total time: 21059 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15033 microseconds, Total time: 21051 microseconds
-[mesh3D_8] Init time: 5977 microseconds, Save time: 15064 microseconds, Total time: 21041 microseconds
-[mesh3D_8] Init time: 6021 microseconds, Save time: 15036 microseconds, Total time: 21058 microseconds
-[mesh3D_8] Init time: 6009 microseconds, Save time: 15092 microseconds, Total time: 21101 microseconds
-[mesh3D_8] Init time: 5986 microseconds, Save time: 15067 microseconds, Total time: 21054 microseconds
-[mesh3D_8] Init time: 6007 microseconds, Save time: 15135 microseconds, Total time: 21142 microseconds
-[mesh3D_8] Init time: 6039 microseconds, Save time: 15163 microseconds, Total time: 21203 microseconds
-[mesh3D_8] Init time: 6014 microseconds, Save time: 15088 microseconds, Total time: 21102 microseconds
-[mesh3D_8] Init time: 6016 microseconds, Save time: 15043 microseconds, Total time: 21059 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15003 microseconds, Total time: 21019 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15239 microseconds, Total time: 21257 microseconds
-[mesh3D_8] Init time: 6047 microseconds, Save time: 15106 microseconds, Total time: 21153 microseconds
-[mesh3D_8] Init time: 5992 microseconds, Save time: 15114 microseconds, Total time: 21106 microseconds
-[mesh3D_8] Init time: 6031 microseconds, Save time: 15046 microseconds, Total time: 21077 microseconds
-[mesh3D_8] Init time: 6007 microseconds, Save time: 15058 microseconds, Total time: 21065 microseconds
-[mesh3D_8] Init time: 5984 microseconds, Save time: 15133 microseconds, Total time: 21118 microseconds
-[mesh3D_8] Init time: 6072 microseconds, Save time: 15088 microseconds, Total time: 21161 microseconds
-[mesh3D_8] Init time: 6037 microseconds, Save time: 15092 microseconds, Total time: 21129 microseconds
-[mesh3D_8] Init time: 5983 microseconds, Save time: 15081 microseconds, Total time: 21065 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15154 microseconds, Total time: 21169 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15112 microseconds, Total time: 21130 microseconds
-[mesh3D_8] Init time: 6046 microseconds, Save time: 15113 microseconds, Total time: 21159 microseconds
-[mesh3D_8] Init time: 6018 microseconds, Save time: 15110 microseconds, Total time: 21128 microseconds
-[mesh3D_8] Init time: 6065 microseconds, Save time: 15072 microseconds, Total time: 21138 microseconds
-[mesh3D_8] Init time: 6081 microseconds, Save time: 15083 microseconds, Total time: 21165 microseconds
-[mesh3D_8] Init time: 6006 microseconds, Save time: 15024 microseconds, Total time: 21031 microseconds
-[mesh3D_8] Init time: 5987 microseconds, Save time: 15026 microseconds, Total time: 21013 microseconds
-[mesh3D_8] Init time: 6010 microseconds, Save time: 15050 microseconds, Total time: 21061 microseconds
-[mesh3D_8] Init time: 6022 microseconds, Save time: 15174 microseconds, Total time: 21196 microseconds
-[mesh3D_8] Init time: 6013 microseconds, Save time: 15110 microseconds, Total time: 21123 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15079 microseconds, Total time: 21095 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15058 microseconds, Total time: 21075 microseconds
-[mesh3D_8] Init time: 6018 microseconds, Save time: 15052 microseconds, Total time: 21071 microseconds
-[mesh3D_8] Init time: 5981 microseconds, Save time: 15122 microseconds, Total time: 21103 microseconds
-[mesh3D_8] Init time: 6039 microseconds, Save time: 15059 microseconds, Total time: 21099 microseconds
-[mesh3D_8] Init time: 6012 microseconds, Save time: 15067 microseconds, Total time: 21080 microseconds
-[mesh3D_8] Init time: 5988 microseconds, Save time: 15098 microseconds, Total time: 21087 microseconds
-[mesh3D_8] Init time: 6011 microseconds, Save time: 15068 microseconds, Total time: 21079 microseconds
-[mesh3D_8] Init time: 6018 microseconds, Save time: 15005 microseconds, Total time: 21023 microseconds
-[mesh3D_8] Init time: 6171 microseconds, Save time: 15213 microseconds, Total time: 21385 microseconds
-[mesh3D_8] Init time: 6020 microseconds, Save time: 15121 microseconds, Total time: 21141 microseconds
-[mesh3D_8] Init time: 6046 microseconds, Save time: 15030 microseconds, Total time: 21076 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15082 microseconds, Total time: 21100 microseconds
-[mesh3D_8] Init time: 6000 microseconds, Save time: 15073 microseconds, Total time: 21073 microseconds
-[mesh3D_8] Init time: 6019 microseconds, Save time: 15180 microseconds, Total time: 21200 microseconds
-[mesh3D_8] Init time: 6053 microseconds, Save time: 15114 microseconds, Total time: 21168 microseconds
-[mesh3D_8] Init time: 6018 microseconds, Save time: 15112 microseconds, Total time: 21130 microseconds
-[mesh3D_8] Init time: 5987 microseconds, Save time: 15088 microseconds, Total time: 21075 microseconds
-[mesh3D_8] Init time: 6014 microseconds, Save time: 15076 microseconds, Total time: 21090 microseconds
-[mesh3D_8] Init time: 6012 microseconds, Save time: 15070 microseconds, Total time: 21083 microseconds
-[mesh3D_8] Init time: 5997 microseconds, Save time: 15046 microseconds, Total time: 21044 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15073 microseconds, Total time: 21088 microseconds
-[mesh3D_8] Init time: 6017 microseconds, Save time: 15057 microseconds, Total time: 21075 microseconds
-[mesh3D_8] Init time: 6015 microseconds, Save time: 15070 microseconds, Total time: 21086 microseconds
-[mesh3D_8] Init time: 6013 microseconds, Save time: 15076 microseconds, Total time: 21090 microseconds
-[mesh3D_8] Init time: 5990 microseconds, Save time: 15110 microseconds, Total time: 21100 microseconds
-[mesh3D_8] Init time: 6293 microseconds, Save time: 226076 microseconds, Total time: 232370 microseconds
-[mesh3D_8] Init time: 6356 microseconds, Save time: 248608 microseconds, Total time: 254965 microseconds
-[mesh3D_8] Init time: 6412 microseconds, Save time: 243221 microseconds, Total time: 249634 microseconds
-[mesh3D_8] Init time: 6342 microseconds, Save time: 244930 microseconds, Total time: 251272 microseconds
-[mesh3D_8] Init time: 6404 microseconds, Save time: 241124 microseconds, Total time: 247529 microseconds
-[mesh3D_8] Init time: 6353 microseconds, Save time: 250273 microseconds, Total time: 256626 microseconds
-[mesh3D_8] Init time: 6346 microseconds, Save time: 245690 microseconds, Total time: 252036 microseconds
-[mesh3D_8] Init time: 6361 microseconds, Save time: 245107 microseconds, Total time: 251469 microseconds
-[mesh3D_8] Init time: 6364 microseconds, Save time: 278654 microseconds, Total time: 285018 microseconds
-[mesh3D_8] Init time: 6324 microseconds, Save time: 267102 microseconds, Total time: 273427 microseconds
-[mesh3D_8] Init time: 6361 microseconds, Save time: 243375 microseconds, Total time: 249736 microseconds
-[mesh3D_8] Init time: 6384 microseconds, Save time: 245215 microseconds, Total time: 251600 microseconds
-[mesh3D_8] Init time: 6367 microseconds, Save time: 246842 microseconds, Total time: 253209 microseconds
-[mesh3D_8] Init time: 6328 microseconds, Save time: 246804 microseconds, Total time: 253133 microseconds
-[mesh3D_8] Init time: 6361 microseconds, Save time: 246471 microseconds, Total time: 252832 microseconds
+6461 17449 23911
+6001 17175 23176
+6055 16506 22561
+5964 16389 22353
+5976 16334 22311
+5972 16253 22226
+5983 16377 22361
+5965 16260 22226
+5935 16447 22382
+6027 16387 22414
+5968 16292 22260
+5976 16315 22292
+5974 16307 22282
+5940 16326 22266
+6007 16354 22362
+5983 16320 22303
+5979 16252 22231
+5973 16331 22305
+5943 16306 22250
+5986 16365 22352
+5965 16334 22300
+5970 16332 22302
+5982 16285 22267
+5980 16275 22255
+5968 16290 22258
+5934 16310 22245
+5972 16849 22821
+5987 16520 22508
+5973 16422 22395
+5967 16331 22299
+5939 16348 22287
+5961 16544 22505
+6045 16345 22391
+6018 16318 22337
+5971 16272 22243
+5932 16294 22226
+5973 16355 22328
+5962 16281 22243
+5965 16291 22257
+5940 16277 22217
+5976 16320 22297
+5959 16399 22359
+6039 16353 22393
+6016 16303 22319
+5964 16300 22264
+5964 16282 22247
+5980 16280 22260
+5997 16320 22317
+5975 16276 22251
+5935 16268 22204
+6055 16325 22380
+5989 16335 22325
+5978 16229 22207
+5965 16602 22567
+6006 16364 22371
+6019 16294 22313
+5959 16285 22245
+5969 16285 22255
+5938 16308 22247
+5960 16225 22186
+5966 16288 22255
+5954 16278 22233
+5964 16274 22239
+5929 16291 22220
+5990 16430 22420
+5961 16268 22230
+5971 16302 22274
+5949 16284 22233
+5976 16388 22364
+6003 16311 22314
+5938 16323 22261
+5959 16273 22233
+5968 16299 22267
+6050 16298 22349
+5940 16283 22223
+5941 16285 22226
+5982 16309 22292
+5961 16305 22266
+5961 16361 22323
+5941 16284 22226
+6017 16578 22595
+6002 16390 22393
+5995 16331 22327
+5991 16335 22327
+5936 16300 22236
+5966 16305 22271
+5970 16236 22206
+6010 16334 22344
+5971 16311 22283
+5943 16316 22260
+5962 16271 22233
+5958 16290 22248
+5980 16313 22294
+5930 16299 22230
+5998 16343 22341
+6003 16314 22317
+6021 16308 22329
+5981 16343 22325
+5941 16356 22297
+5966 16326 22292
+time  
+6350 244036 250387
+6289 262867 269156
+6290 264404 270695
+6338 262414 268753
+6279 261466 267746
+6321 264623 270945
+6358 260411 266769
+6411 261992 268403
+6337 269629 275967
+6314 262367 268681
+6321 301642 307963
+21938 250268 272206
+6320 260386 266707
+6296 270995 277291
+6323 264034 270358
+6315 283494 289810
+6318 259393 265712
+6304 262582 268887
+6313 262710 269024
+6361 259223 265584
+6365 259335 265700
+6317 262182 268500
+6338 262729 269068
+6431 255047 261479
+6319 266481 272801

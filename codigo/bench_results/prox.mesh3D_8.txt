@@ -1,400 +1,400 @@
-[mesh3D_8] - Proximity time: 781 ns
-[mesh3D_8] - Proximity time: 266 ns
-[mesh3D_8] - Proximity time: 231 ns
-[mesh3D_8] - Proximity time: 230 ns
-[mesh3D_8] - Proximity time: 223 ns
-[mesh3D_8] - Proximity time: 220 ns
-[mesh3D_8] - Proximity time: 220 ns
-[mesh3D_8] - Proximity time: 218 ns
-[mesh3D_8] - Proximity time: 212 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 227 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 218 ns
-[mesh3D_8] - Proximity time: 233 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 211 ns
-[mesh3D_8] - Proximity time: 229 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 223 ns
-[mesh3D_8] - Proximity time: 206 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 207 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 223 ns
-[mesh3D_8] - Proximity time: 206 ns
-[mesh3D_8] - Proximity time: 227 ns
-[mesh3D_8] - Proximity time: 220 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 214 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 212 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 207 ns
-[mesh3D_8] - Proximity time: 218 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 218 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 207 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 217 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 208 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 207 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 213 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 206 ns
-[mesh3D_8] - Proximity time: 197 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 183 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 4142 ns
-[mesh3D_8] - Proximity time: 215 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 208 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 249 ns
-[mesh3D_8] - Proximity time: 234 ns
-[mesh3D_8] - Proximity time: 197 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 211 ns
-[mesh3D_8] - Proximity time: 227 ns
-[mesh3D_8] - Proximity time: 224 ns
-[mesh3D_8] - Proximity time: 225 ns
-[mesh3D_8] - Proximity time: 215 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 213 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 216 ns
-[mesh3D_8] - Proximity time: 206 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 207 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 197 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 211 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 211 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 181 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 215 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 243 ns
-[mesh3D_8] - Proximity time: 219 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 214 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 212 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 827 ns
-[mesh3D_8] - Proximity time: 271 ns
-[mesh3D_8] - Proximity time: 217 ns
-[mesh3D_8] - Proximity time: 238 ns
-[mesh3D_8] - Proximity time: 233 ns
-[mesh3D_8] - Proximity time: 216 ns
-[mesh3D_8] - Proximity time: 225 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 221 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 217 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 197 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 211 ns
-[mesh3D_8] - Proximity time: 215 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 220 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 217 ns
-[mesh3D_8] - Proximity time: 222 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 208 ns
-[mesh3D_8] - Proximity time: 209 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 208 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 221 ns
-[mesh3D_8] - Proximity time: 214 ns
-[mesh3D_8] - Proximity time: 1009 ns
-[mesh3D_8] - Proximity time: 206 ns
-[mesh3D_8] - Proximity time: 212 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 183 ns
-[mesh3D_8] - Proximity time: 205 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 184 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 185 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 208 ns
-[mesh3D_8] - Proximity time: 208 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 273 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 286 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 210 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 215 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 197 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 204 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 219 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 212 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 183 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 193 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 186 ns
-[mesh3D_8] - Proximity time: 201 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 199 ns
-[mesh3D_8] - Proximity time: 274 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 196 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 184 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 195 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 198 ns
-[mesh3D_8] - Proximity time: 184 ns
-[mesh3D_8] - Proximity time: 203 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 183 ns
-[mesh3D_8] - Proximity time: 200 ns
-[mesh3D_8] - Proximity time: 211 ns
-[mesh3D_8] - Proximity time: 191 ns
-[mesh3D_8] - Proximity time: 207 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 188 ns
-[mesh3D_8] - Proximity time: 194 ns
-[mesh3D_8] - Proximity time: 187 ns
-[mesh3D_8] - Proximity time: 190 ns
-[mesh3D_8] - Proximity time: 189 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 192 ns
-[mesh3D_8] - Proximity time: 202 ns
-[mesh3D_8] - Proximity time: 182 ns
-[mesh3D_8] - Proximity time: 190 ns
+744
+271
+239
+227
+216
+219
+227
+214
+215
+203
+215
+205
+213
+202
+237
+227
+208
+214
+221
+224
+200
+189
+208
+201
+231
+204
+195
+192
+224
+193
+203
+190
+286
+199
+205
+188
+203
+186
+191
+192
+187
+194
+189
+215
+187
+200
+192
+197
+203
+193
+189
+187
+199
+192
+190
+209
+188
+193
+187
+197
+199
+201
+204
+185
+199
+187
+191
+185
+191
+188
+195
+189
+190
+186
+203
+203
+186
+204
+200
+196
+186
+190
+186
+188
+188
+203
+190
+193
+189
+187
+197
+188
+187
+192
+186
+188
+192
+189
+187
+207
+192
+189
+189
+193
+189
+189
+192
+193
+190
+184
+188
+189
+262
+217
+193
+197
+217
+193
+214
+210
+205
+193
+215
+188
+206
+221
+195
+198
+209
+191
+195
+191
+207
+205
+200
+205
+16262
+196
+194
+210
+194
+198
+210
+201
+199
+196
+204
+220
+198
+199
+195
+209
+201
+192
+201
+207
+202
+193
+192
+193
+209
+207
+192
+191
+206
+190
+223
+197
+205
+214
+197
+211
+193
+204
+195
+194
+196
+196
+196
+194
+195
+192
+195
+197
+191
+196
+209
+210
+195
+210
+208
+195
+203
+209
+193
+196
+208
+197
+190
+198
+754
+262
+219
+221
+225
+222
+218
+213
+197
+237
+197
+207
+199
+234
+211
+217
+211
+217
+209
+189
+207
+214
+188
+200
+201
+185
+210
+209
+202
+210
+208
+208
+192
+196
+205
+198
+193
+203
+207
+189
+191
+188
+184
+199
+190
+191
+187
+195
+202
+185
+193
+186
+189
+195
+188
+187
+195
+201
+190
+192
+198
+199
+189
+186
+199
+195
+208
+191
+193
+191
+192
+191
+200
+213
+187
+185
+199
+187
+191
+220
+182
+194
+190
+184
+188
+185
+188
+185
+185
+191
+186
+193
+188
+187
+190
+188
+189
+189
+199
+188
+186
+189
+184
+190
+186
+189
+186
+184
+195
+188
+185
+187
+246
+276
+204
+194
+203
+199
+192
+201
+197
+188
+189
+195
+200
+189
+201
+197
+197
+196
+188
+187
+254
+202
+200
+214
+200
+193
+200
+195
+206
+204
+194
+195
+212
+193
+217
+197
+215
+194
+199
+193
+199
+219
+192
+195
+209
+213
+192
+196
+205
+213
+201
+194
+215
+192
+201
+229
+188
+195
+197
+195
+194
+198
+192
+206
+206
+194
+192
+206
+195
+206
+198
+192
+195
+199
+194
+192
+203
+189
+198
+192
+199
+193
+197
+193
+221
+193
+194
+195
