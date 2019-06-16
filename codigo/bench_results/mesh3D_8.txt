@@ -6930,6 +6930,7 @@ mesh3D_8 swapped to no memoi
 [mesh3D_8] - 2 Distance time: 69557 ns
 [mesh3D_8] - 2 dist finished.
 mesh3D_8 swapped Init time to memoi
+mesh3D_8 swapped Load time to memoi
 mesh3D_8 swapped 1 Distance time to memoi
 mesh3D_8 swapped 2 Distance time to memoi
 [mesh3D_8] Init time: 6350 microseconds, Save time: 244036 microseconds, Total time: 250387 microseconds
