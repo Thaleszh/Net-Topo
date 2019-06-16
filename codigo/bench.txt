@@ -9997,9 +9997,11 @@ tree_10 swapped to no memoi
 [tree_10] - 2 Distance time: 20238 ns
 [tree_10] - 2 dist finished.
 mesh3D_8 swapped Init time to memoi
+mesh3D_8 swapped Load time to memoi
 mesh3D_8 swapped 1 Distance time to memoi
 mesh3D_8 swapped 2 Distance time to memoi
 tree_10 swapped Init time to memoi
+tree_10 swapped Load time to memoi
 tree_10 swapped 1 Distance time to memoi
 tree_10 swapped 2 Distance time to memoi
 
