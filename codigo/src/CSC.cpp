@@ -382,6 +382,7 @@ int csc::hops(int source, int sink) {
 	return cost;
 }
 
+// to do : make foolproof if memoi is inexistent
 void csc::fill_memoi() {
 	for (int i = 0; i < _nodes; i++)
 		for(int j = _nodes - 1; j > 0; j--) 
