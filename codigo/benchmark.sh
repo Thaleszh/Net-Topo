@@ -5,34 +5,13 @@ giantrep=200
 
 #create topologies
 
+./execBench init mesh2D 16 $smallrep false
+./execBench init tree 7 $smallrep false
 ./execBench init mesh3D 8 $smallrep false
 ./execBench init tree 10 $smallrep false
 
-for i in "mesh3D 8" "tree 10" 
-do
-	./execBench load $i $smallrep
-	./execBench prox $i $giantrep
-	./execBench hops $i $giantrep 1
-	./execBench dist $i $giantrep 1
-	./execBench hops $i $smallrep 2
-	./execBench dist $i $smallrep 2
-done
-
-echo "mesh3D_8 swapped Init time to memoi"
-echo "tree_10 swapped Init time to memoi"
-# echo "mesh2D_16 swapped Init time to memoi"
-# echo "tree_7 swapped Init time to memoi"
-
-./execBench init mesh2D 16 $repetitions
-./execBench init mesh3D 8 $repetitions
-./execBench init tree 7 $repetitions
-./execBench init tree 10 $repetitions
-
 for i in "mesh2D 16" "tree 7"
 do
-	echo " "
-	echo " "
-	echo "running $i"
 	./execBench load $i $smallrep
 	./execBench prox $i $giantrep
 	./execBench hops $i $giantrep 1
@@ -46,31 +25,68 @@ do
 	echo " "
 	echo " "
 	echo "running $i"
-	./execBench load $i $repetitions
-	./execBench prox $i $giantrep
-	./execBench hops $i $giantrep 1
-	./execBench dist $i $giantrep 1
-	./execBench hops $i $smallrep 2
-	./execBench dist $i $smallrep 2
+	./execBench load $i 1
+	./execBench prox $i 3
+	./execBench hops $i 3 1
+	./execBench dist $i 3 1
+	./execBench hops $i 2 2
+	./execBench dist $i 2 2
+done
+
+echo "mesh3D_8 swapped Init time to memoi"
+echo "tree_10 swapped Init time to memoi"
+echo "mesh2D_16 swapped Init time to memoi"
+echo "tree_7 swapped Init time to memoi"
+
+./execBench init mesh2D 16 1
+./execBench init mesh3D 8 1
+./execBench init tree 7 1
+./execBench init tree 10 1
+
+for i in "mesh2D 16" "tree 7"
+do
+	echo " "
+	echo " "
+	echo "running $i"
+	./execBench load $i 2
+	./execBench prox $i 3
+	./execBench hops $i 3 1
+	./execBench dist $i 3 1
+	./execBench hops $i 2 2
+	./execBench dist $i 2 2
+done
+
+for i in "mesh3D 8" "tree 10"
+do
+	echo " "
+	echo " "
+	echo "running $i"
+	./execBench load $i 1
+	./execBench prox $i 3
+	./execBench hops $i 3 1
+	./execBench dist $i 3 1
+	./execBench hops $i 2 2
+	./execBench dist $i 2 2
 done
 
 for i in "mesh3D_8" "mesh2D_16" "tree_10" "tree_7"
 do
 	echo "running $i 1 Distance time with memoi filled"
 	echo "running $i 2 Distance time with memoi filled"
+	echo "running $i Load time with memoi filled"
 done
 
 for i in "mesh2D 16" "tree 7" "mesh3D 8" "tree 10" 
 do
-	./execBench fill $i $repetitions
-	./execBench dist $i $giantrep 1
-	./execBench dist $i $giantrep 2
+	./execBench fill $i 1
+	./execBench dist $i 3 1
+	./execBench dist $i 3 2
 done
 cd ..
-grep "mesh3D_8" bench.txt > bench_results/mesh3D_8.txt
-grep "mesh2D_16" bench.txt > bench_results/mesh2D_16.txt
-grep "tree_7" bench.txt > bench_results/tree_7.txt
-grep "tree_10" bench.txt > bench_results/tree_10.txt
+grep "mesh3D_8" bench_no_memoi.txt > bench_results/mesh3D_8.txt
+grep "mesh2D_16" bench_no_memoi.txt > bench_results/mesh2D_16.txt
+grep "tree_7" bench_no_memoi.txt > bench_results/tree_7.txt
+grep "tree_10" bench_no_memoi.txt > bench_results/tree_10.txt
 
 cd bench_results
 
@@ -88,9 +104,13 @@ done
 
 awk '{print > out}; /time/ {out="init.mesh3D_8.with_memoi.txt"}' out=init.mesh3D_8.no_memoi.txt init.mesh3D_8.txt
 awk '{print > out}; /time/ {out="init.tree_10.with_memoi.txt"}' out=init.tree_10.no_memoi.txt init.tree_10.txt
+awk '{print > out}; /time/ {out="init.mesh2D_16.with_memoi.txt"}' out=init.mesh2D_16.no_memoi.txt init.mesh2D_16.txt
+awk '{print > out}; /time/ {out="init.tree_7.with_memoi.txt"}' out=init.tree_7.no_memoi.txt init.tree_7.txt
 
 awk '{print > out}; /to/ {out="load.mesh3D_8.with_memoi.txt"}' out=load.mesh3D_8.no_memoi.txt load.mesh3D_8.txt
 awk '{print > out}; /to/ {out="load.tree_10.with_memoi.txt"}' out=load.tree_10.no_memoi.txt load.tree_10.txt
+awk '{print > out}; /to/ {out="load.mesh2D_16.with_memoi.txt"}' out=load.mesh2D_16.no_memoi.txt load.mesh2D_16.txt
+awk '{print > out}; /to/ {out="load.tree_7.with_memoi.txt"}' out=load.tree_7.no_memoi.txt load.tree_7.txt
 
 awk '{print > out}; /with/ {out="dist.1.mesh2D_16.with_fill.txt"}' out=dist.1.mesh2D_16.with_memoi.txt dist.1.mesh2D_16.txt
 awk '{print > out}; /with/ {out="dist.2.mesh2D_16.with_fill.txt"}' out=dist.2.mesh2D_16.with_memoi.txt dist.2.mesh2D_16.txt
@@ -103,3 +123,15 @@ awk '{print > out}; /with/ {out="dist.2.tree_7.with_fill.txt"}' out=dist.2.tree_
 
 awk '{print > out}; /to/ {out="dist.1.tree_10.with_memoi.txt"}; /with/ {out="dist.1.tree_10.with_fill.txt"}' out=dist.1.tree_10.no_memoi.txt dist.1.tree_10.txt
 awk '{print > out}; /to/ {out="dist.2.tree_10.with_memoi.txt"}; /with/ {out="dist.2.tree_10.with_fill.txt"}' out=dist.2.tree_10.no_memoi.txt dist.2.tree_10.txt
+
+awk '{print > out}; /with/ {out="dist.1.mesh2D_16.with_fill.txt"}' out=dist.1.mesh2D_16.with_memoi.txt dist.1.mesh2D_16.txt
+awk '{print > out}; /with/ {out="dist.2.mesh2D_16.with_fill.txt"}' out=dist.2.mesh2D_16.with_memoi.txt dist.2.mesh2D_16.txt
+
+awk '{print > out}; /to/ {out="dist.1.mesh2D_16.with_memoi.txt"}; /with/ {out="dist.1.mesh2D_16.with_fill.txt"}' out=dist.1.mesh2D_16.no_memoi.txt dist.1.mesh2D_16.txt
+awk '{print > out}; /to/ {out="dist.2.mesh2D_16.with_memoi.txt"}; /with/ {out="dist.2.mesh2D_16.with_fill.txt"}' out=dist.2.mesh2D_16.no_memoi.txt dist.2.mesh2D_16.txt
+
+awk '{print > out}; /with/ {out="dist.1.tree_7.with_fill.txt"}' out=dist.1.tree_7.with_memoi.txt dist.1.tree_7.txt
+awk '{print > out}; /with/ {out="dist.2.tree_7.with_fill.txt"}' out=dist.2.tree_7.with_memoi.txt dist.2.tree_7.txt
+
+awk '{print > out}; /to/ {out="dist.1.tree_7.with_memoi.txt"}; /with/ {out="dist.1.tree_7.with_fill.txt"}' out=dist.1.tree_7.no_memoi.txt dist.1.tree_7.txt
+awk '{print > out}; /to/ {out="dist.2.tree_7.with_memoi.txt"}; /with/ {out="dist.2.tree_7.with_fill.txt"}' out=dist.2.tree_7.no_memoi.txt dist.2.tree_7.txt
