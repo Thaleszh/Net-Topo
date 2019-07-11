@@ -236,16 +236,17 @@ int csc::distance(int source, int sink) {
 	int position, limit, cost;
 	// picking up distances from memoi. Not being done because of parent chain
 	// note: memoi->get[source, source] will be 0
-	for (int i = 0; i < _nodes; i++) {
-		cost = memoi->get(source, i);
-		if (cost != -1) {
-			new_node = node(i, cost, -1);
-			// printf("checking memoi of node %d to %d. Parent is %d, ncost is %d \n", new_node.index, source, new_node.parent, new_node.ncost);
-			unvisited.insert(new_node);
-			node_cost[i] = cost;
-			// memoid.insert(i);
-		}
-	}
+	// note: this makes distance time vary with size
+	// for (int i = 0; i < _nodes; i++) {
+	// 	cost = memoi->get(source, i);
+	// 	if (cost != -1) {
+	// 		new_node = node(i, cost, -1);
+	// 		// printf("checking memoi of node %d to %d. Parent is %d, ncost is %d \n", new_node.index, source, new_node.parent, new_node.ncost);
+	// 		unvisited.insert(new_node);
+	// 		node_cost[i] = cost;
+	// 		// memoid.insert(i);
+	// 	}
+	// }
 	cost = 0;
 	bool found = false;
 	// printf("visiting node %d. Parent is none, cost is %d \n", current.index, current.ncost);
@@ -382,7 +383,6 @@ int csc::hops(int source, int sink) {
 	return cost;
 }
 
-// to do : make foolproof if memoi is inexistent
 void csc::fill_memoi() {
 	for (int i = 0; i < _nodes; i++)
 		for(int j = _nodes - 1; j > 0; j--) 

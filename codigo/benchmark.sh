@@ -25,35 +25,40 @@ do
 	echo " "
 	echo " "
 	echo "running $i"
-	./execBench load $i 1
-	./execBench prox $i 3
-	./execBench hops $i 3 1
-	./execBench dist $i 3 1
-	./execBench hops $i 2 2
-	./execBench dist $i 2 2
+	./execBench load $i $repetitions
+	./execBench prox $i $giantrep
+	./execBench hops $i $giantrep 1
+	./execBench dist $i $giantrep 1
+	./execBench hops $i $smallrep 2
+	./execBench dist $i $smallrep 2
 done
-
+for i in "mesh3D_8" "mesh2D_16" "tree_10" "tree_7"
+do
+	echo "$i swapped Init time to memoi"
+	echo "$i 1 Distance time to memoi"
+	echo "$i 2 Distance time to memoi"
+done
 echo "mesh3D_8 swapped Init time to memoi"
 echo "tree_10 swapped Init time to memoi"
 echo "mesh2D_16 swapped Init time to memoi"
 echo "tree_7 swapped Init time to memoi"
 
-./execBench init mesh2D 16 1
-./execBench init mesh3D 8 1
-./execBench init tree 7 1
-./execBench init tree 10 1
+./execBench init mesh2D 16 $repetitions
+./execBench init mesh3D 8 $repetitions
+./execBench init tree 7 $repetitions
+./execBench init tree 10 $repetitions
 
 for i in "mesh2D 16" "tree 7"
 do
 	echo " "
 	echo " "
 	echo "running $i"
-	./execBench load $i 2
-	./execBench prox $i 3
-	./execBench hops $i 3 1
-	./execBench dist $i 3 1
-	./execBench hops $i 2 2
-	./execBench dist $i 2 2
+	./execBench load $i $smallrep
+	./execBench prox $i $giantrep
+	./execBench hops $i $giantrep 1
+	./execBench dist $i $giantrep 1
+	./execBench hops $i $smallrep 2
+	./execBench dist $i $smallrep 2
 done
 
 for i in "mesh3D 8" "tree 10"
@@ -61,12 +66,12 @@ do
 	echo " "
 	echo " "
 	echo "running $i"
-	./execBench load $i 1
-	./execBench prox $i 3
-	./execBench hops $i 3 1
-	./execBench dist $i 3 1
-	./execBench hops $i 2 2
-	./execBench dist $i 2 2
+	./execBench load $i $repetitions
+	./execBench prox $i $giantrep
+	./execBench hops $i $giantrep 1
+	./execBench dist $i $giantrep 1
+	./execBench hops $i $smallrep 2
+	./execBench dist $i $smallrep 2
 done
 
 for i in "mesh3D_8" "mesh2D_16" "tree_10" "tree_7"
@@ -78,15 +83,15 @@ done
 
 for i in "mesh2D 16" "tree 7" "mesh3D 8" "tree 10" 
 do
-	./execBench fill $i 1
-	./execBench dist $i 3 1
-	./execBench dist $i 3 2
+	./execBench fill $i $repetitions
+	./execBench dist $i $giantrep 1
+	./execBench dist $i $giantrep 2
 done
 cd ..
-grep "mesh3D_8" bench_no_memoi.txt > bench_results/mesh3D_8.txt
-grep "mesh2D_16" bench_no_memoi.txt > bench_results/mesh2D_16.txt
-grep "tree_7" bench_no_memoi.txt > bench_results/tree_7.txt
-grep "tree_10" bench_no_memoi.txt > bench_results/tree_10.txt
+grep "mesh3D_8" build/bench.txt > bench_results/mesh3D_8.txt
+grep "mesh2D_16" build/bench.txt > bench_results/mesh2D_16.txt
+grep "tree_7" build/bench.txt > bench_results/tree_7.txt
+grep "tree_10" build/bench.txt > bench_results/tree_10.txt
 
 cd bench_results
 
