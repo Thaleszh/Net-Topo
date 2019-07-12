@@ -1,0 +1,508 @@
+%% abtex2-modelo-trabalho-academico.tex, v-1.7.1 laurocesar
+%% Copyright 2012-2013 by abnTeX2 group at http://abntex2.googlecode.com/ 
+%%
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%   http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2005/12/01 or later.
+%%
+%% This work has the LPPL maintenance status `maintained'.
+%% 
+%% The Current Maintainer of this work is the abnTeX2 team, led
+%% by Lauro César Araujo. Further information are available on 
+%% http://abntex2.googlecode.com/
+%%
+%% This work consists of the files abntex2-modelo-trabalho-academico.tex,
+%% abntex2-modelo-include-comandos and abntex2-modelo-references.bib
+%%
+
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% abnTeX2: Modelo de Trabalho Academico (tese de doutorado, dissertacao de
+% mestrado e trabalhos monograficos em geral) em conformidade com 
+% ABNT NBR 14724:2011: Informacao e documentacao - Trabalhos academicos -
+% Apresentacao
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+
+\documentclass[
+	% -- opções da classe memoir --
+	12pt,				% tamanho da fonte
+	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	twoside,			% para impressão em verso e anverso. Oposto a oneside
+	a4paper,			% tamanho do papel. 
+	% -- opções da classe abntex2 --
+	%chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	]{abntex2}
+
+
+% ---
+% PACOTES
+% ---
+
+% ---
+% Pacotes fundamentais 
+% ---
+\usepackage{cmap}				% Mapear caracteres especiais no PDF
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{lastpage}			% Usado pela Ficha catalográfica
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{xspace}
+\usepackage{hyperref}
+\usepackage{fourier} 
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{graphics}
+\usepackage{booktabs}
+\usepackage{algorithmic}
+\usepackage[portuguese, onelanguage, boxruled, linesnumbered, vlined]{algorithm2e} % uso de algoritmos
+% ---
+
+% Pacotes extras
+\usepackage[table,xcdraw]{xcolor}   % Inclusão de cores em tabelas
+\usepackage{todonotes}
+\usepackage{multirow}
+\usepackage{pdfpages}
+\usepackage{pgfgantt}
+\usepackage{changepage}
+\usepackage{subcaption}
+\usepackage{verbatim}
+\usepackage{multirow}
+\usepackage{tabu}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.7}
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{listings}
+
+\definecolor{darkgreen}{rgb}{0.0, 0.5, 0.0}
+
+\lstset{language=C++,
+frame = single,
+keywordstyle=\color{blue}\ttfamily,
+commentstyle=\color{darkgreen}\ttfamily,
+backgroundcolor=\color{white},
+breaklines=true,
+ }
+
+% Abreviações
+\newcommand{\Fw}{\textit{Framework}\xspace}
+\newcommand{\fw}{\textit{framework}\xspace}
+\newcommand{\Fws}{\textit{Frameworks}\xspace}
+\newcommand{\fws}{\textit{frameworks}\xspace}
+
+\newcommand{\Chares}{\textit{Chares}\xspace}
+\newcommand{\chares}{\textit{chares}\xspace}
+
+\newcommand{\links}{\textit{links}\xspace}
+\newcommand{\link}{\textit{link}\xspace}
+\newcommand{\Links}{\textit{Links}\xspace}
+\newcommand{\Link}{\textit{Link}\xspace}
+
+\newcommand{\hops}{\textit{hops}\xspace}
+\newcommand{\hop}{\textit{hop}\xspace}
+
+\newcommand{\fatt}{\textit{fat-tree}\xspace}
+\newcommand{\fatts}{\textit{fat-trees}\xspace}
+\newcommand{\Fatt}{\textit{Fat-tree}\xspace}
+\newcommand{\Fatts}{\textit{Fat-trees}\xspace}
+
+\newcommand{\dgfly}{\textit{dragonfly}\xspace}
+\newcommand{\Dgfly}{\textit{Dragonfly}\xspace}
+\newcommand{\switches}{\textit{switches}\xspace}
+\newcommand{\Switches}{\textit{Switches}\xspace}
+
+\newcommand{\charm}{{{Charm++}}\xspace}
+\newcommand{\hwloc}{{\textit{hwloc}}\xspace}
+\newcommand{\Hwloc}{{\textit{Hwloc}}\xspace}
+\newcommand{\netloc}{{\textit{netloc}}\xspace}
+\newcommand{\Netloc}{{\textit{Netloc}\xspace}}
+\graphicspath{ {./images/} }
+
+% ---
+% Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
+% ---
+\usepackage{lipsum}				% para geração de dummy text
+% ---
+
+% ---
+% Pacotes de citações
+% ---
+%\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	                 % Citações padrão ABNT
+
+% --- 
+% CONFIGURAÇÕES DE PACOTES
+% --- 
+
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+%\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+%\renewcommand{\backref}{}
+% Define os textos da citação
+%\renewcommand*{\backrefalt}[4]{
+%	\ifcase #1 %
+%		Nenhuma citação no texto.%
+%	\or
+%		Citado na página #2.%
+%	\else
+%		Citado #1 vezes nas páginas #2.%
+%	\fi}%
+% ---
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+% nomes
+
+\titulo{Net Topo: uma Abstração da Topologia de Rede para Escalonamento para Aplicações Paralelas e Distribuídas}
+\autor{Thales Alexandre Zirbel Hubner}
+\local{Florianópolis}
+\data{2019}
+\orientador{Vinicius Marino Calvo Torres de Freitas}
+\coorientador{Márcio Bastos Castro}
+\instituicao{%
+  Universidade Federal de Santa Catarina
+  \par
+  Departamento de Informática e Estatística
+  \par
+  Ciência da Computação}
+\tipotrabalho{Trabalho de Conclusão de Curso de Graduação}
+% O preambulo deve conter o tipo do trabalho, o objetivo, 
+% o nome da instituição e a área de concentração 
+\preambulo{Monografia submetida ao Programa
+de Graduação em Ciência da Computação
+para a obtenção do Grau de Bacharel.}
+% ---
+
+
+% ---
+% Configurações de aparência do PDF final
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title}, 
+		pdfauthor={\@author},
+    	pdfsubject={\imprimirpreambulo},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico}, 
+		hidelinks,
+		colorlinks=false,       	% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      	% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% --- 
+% Espaçamentos entre linhas e parágrafos 
+% --- 
+
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.3cm}
+
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+
+% ----
+% Início do documento
+% ----
+\usepackage{times} 			% Usa a fonte Times
+\begin{document}
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+
+% ----------------------------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ----------------------------------------------------------
+% \pretextual
+
+% ---
+% Capa
+% ---
+\imprimircapa
+% ---
+
+% ---
+% Folha de rosto
+% (o * indica que haverá a ficha bibliográfica)
+% ---
+\imprimirfolhaderosto*
+% ---
+
+% ---
+% Inserir folha de aprovação
+% ---
+
+% Isto é um exemplo de Folha de aprovação, elemento obrigatório da NBR
+% 14724/2011 (seção 4.2.1.3). Você pode utilizar este modelo até a aprovação
+% do trabalho. Após isso, substitua todo o conteúdo deste arquivo por uma
+% imagem da página assinada pela banca com o comando abaixo:
+%
+% \includepdf{folhadeaprovacao_final.pdf}
+%
+%\begin{folhadeaprovacao}
+%	\includepdf{folha_aprovacao_assinada}  
+%\end{folhadeaprovacao}
+% ---
+
+\begin{agradecimentos}
+A minha família, por ter me dado suporte, carinho, felicidade e educação. Sem eles não seria quem sou nem estaria onde estou.
+
+Ao meu orientador e coorientador, por me guiarem, auxiliarem e incentivarem no processo de pesquisa e escrita, por lidarem com meus problemas mais diversos com calma e paciência e por me acompanhar ao longo deste trabalho.
+
+Ao laboratório \textit{Embedded Computing Lab} (ECL) e seus integrantes, pela infraestrutura, pelo apoio, pela compania, pelas ideias e pelas discussões.
+
+A Universidade Federal de Santa Catarina, por oferecer infraestrutura, por ser um ambientes de pesquisa onde pude atuar, por me oferecer um espaço de ensino e crescimento pessoal, sem o qual não teria realizado este trabalho.
+
+A banca, pelas revisões, pelas críticas e pela contribuição a este trabalho.
+
+Ao corpo docente do INE, pelo incentivo, dedicação e auxilio ao seus alunos, por me muniram do conhecimento necessário na área.
+
+Aos meus amigos e colegas de curso, que fizeram minha experiência universitária possível, me auxiliaram em momentos complicados, me mantiveram feliz, me ajudaram a crescer e me trouxeram bem estar e diversão.
+
+E a muitos outros que também suportaram minha qualidade de espirito e de vida mas não foram citados aqui.
+\end{agradecimentos}
+
+% ---
+% RESUMOS
+% ---
+
+% resumo em português
+\begin{resumo}
+
+A repartição de trabalho em ambientes distribuídos é um problema relevante em aplicações como simulações sísmicas, dinâmica molecular e previsão de tempo, pois estas possuem comportamento dinâmico, gerando desbalanceamento de carga no sistema. 
+Uma das maneiras de resolver esse problema é a utilização de balanceadores de carga dinâmicos, cuja função é reduzir o tempo de execução da aplicação através de uma distribuição de tarefas mais homogênea. 
+Uma alocação de tarefas que leva em consideração a topologia da rede pode reduzir latências de comunicação e efeitos de contenção alocando tarefas que se comunicam próximas uma da outra.
+Entretanto, poucos balanceadores consideram a topologia do sistema de maneira dinâmica, devido à dificuldade do balanceador de obter informações de topologia de rede, como distância e proximidade de tarefas, e de levá-las em consideração para o remapeamento de tarefas.
+
+Este trabalho desenvolveu a Net Topo, uma abstração da topologia de rede que facilita o acesso a informações de topologia da rede e a utilização destas para distribuição de tarefas.
+Ela oferece funções de proximidade e distância entre nós na rede com foco em melhorar a repartição de trabalho.
+Foram implementadas algumas opções de inicialização da estrutura e foi proposta uma forma de arquivar a informação de topologia.
+
+A comprovação do funcionamento da Net Topo se deu através de testes com um \textit{benchmark} sintético para balanceamento de carga.
+Uma estratégia de balanceamento de carga foi modificada para utilizar a abstração elaborada e, quando comparada com a original, não só teve sobrecusto negligenciável mas apresentou benefícios na inicialização e na velocidade da estrutura.
+Por arquivar as informações de topologia para execuções futuras, a Net Topo permitiu uma redução de 97\% no tempo de inicialização de topologia.
+O desempenho da abstração foi avaliado em diferentes escalas, mostrando que a Net Topo consegue apresentar boa escalabilidade na maioria das suas funções.
+
+%um parágrafo de fechamento e trabalhos futuros? Não consegui achar um inicio bom para nem conteudo suficiente
+% falar sobre charm no resumo?
+% a net topo permite expressar uma gam
+
+
+
+%  Segundo a \citeonline[3.1-3.2]{NBR6028:2003}, o resumo deve ressaltar o
+%  objetivo, o método, os resultados e as conclusões do documento. A ordem e a extensão
+%  destes itens dependem do tipo de resumo (informativo ou indicativo) e do
+%  tratamento que cada item recebe no documento original. O resumo deve ser
+%  precedido da referência do documento, com exceção do resumo inserido no
+%  próprio documento. (\ldots) As palavras-chave devem figurar logo abaixo do
+%  resumo, antecedidas da expressão Palavras-chave:, separadas entre si por
+%  ponto e finalizadas também por ponto.\citeonline{Emma}.\citeonline{Nielsen}.
+%  \citeonline{Goodfellow-et-al-2016}
+
+ \vspace{\onelineskip}
+    
+ \noindent
+ \textbf{Palavras-chaves}: topologia de rede. balanceamento de carga. aplicações distribuídas. aplicações paralelas
+ 
+\end{resumo}
+\cleardoublepage
+
+% resumo em inglês
+% \begin{resumo}[Abstract]
+%  \begin{otherlanguage*}{english}
+%    This is the english abstract.
+
+%    \vspace{\onelineskip}
+ 
+%    \noindent 
+%    \textbf{Key-words}: latex. abntex. text editoration.
+%  \end{otherlanguage*}
+% \end{resumo}
+
+% ---
+% inserir lista de ilustrações
+% ---
+\pdfbookmark[0]{\listfigurename}{lof}
+\listoffigures*
+\cleardoublepage
+% ---
+
+
+% ---
+% inserir lista de tabelas
+% ---
+\pdfbookmark[0]{\listtablename}{lot}
+\listoftables*
+\cleardoublepage
+% ---
+
+
+\addtocontents{loa}{\def\string\figurename{Algorithm}}
+\listofalgorithms
+\cleardoublepage
+
+% ---
+% inserir lista de abreviaturas e siglas
+% ---
+\begin{siglas}
+  \item[PE] \textit{Processing Element}, unidade de processamento
+  \item[LB] \textit{Load Balancer}, balanceador de carga
+  \item[hwloc] \textit{Portable Hardware Locality}
+  \item[netloc] \textit{Portable Network Locality}
+  \item[CSC] \textit{Compressed Sparse Columns}
+  \item[XML] \textit{Extensible Markup Language}
+\end{siglas}
+% ---
+
+% ---
+% inserir lista de símbolos
+% ---
+\begin{simbolos}
+    \item[$\textbf{S}$] Aceleração
+    \item[$n$] Número de núcleos utilizados
+    \item[$s$] Parcela paralelizável do programa
+    \item[$d$] Número de dimensões da topologia
+    \item[$k$] Número de nós por dimensão da topologia
+    \item[$p$] Número de nós totais da topologia
+    \item[$f$] Valor de \textit{fanout} da árvore
+    \item[$h$] Número de \links (conexões) remotos por roteador
+    \item[$r$] Número de roteadores por grupo
+    \item[$c$] Número de cores por máquina
+    \item[$m$] Número de máquinas no sistema
+%  \item[$ \Gamma $] Letra grega Gama
+%  \item[$ \Lambda $] Lambda
+%  \item[$ \zeta $] Letra grega minúscula zeta
+%  \item[$ \in $] Pertence
+\end{simbolos}
+% ---
+
+% ---
+% inserir o sumario
+% ---
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+% ---
+
+
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+
+% ----------------------------------------------------------
+% Introdução
+% ----------------------------------------------------------
+\input{1_introducao.tex}
+
+% ----------------------------------------------------------
+% PARTE - preparação da pesquisa
+% ----------------------------------------------------------
+% \part{Preparação da pesquisa}
+
+% ----------------------------------------------------------
+% Capitulo com exemplos de comandos inseridos de arquivo externo 
+% ----------------------------------------------------------
+
+\include{abntex2-modelo-include-comandos}
+
+% ----------------------------------------------------------
+% Parte de revisão de literatura
+% ----------------------------------------------------------
+% \part{Revisão de Literatura}
+
+% ---
+% Capitulo de revisão de literatura
+% ---
+
+\input{2_conceituacao.tex}
+
+% ----------------------------------------------------------
+% Parte de proposta do projeto
+% ----------------------------------------------------------
+
+
+% ---
+% Capitulo de Proposta
+% ---
+
+\input{3_proposta.tex}
+
+\input{4_comprovacao.tex}
+
+\input{5_conclusao.tex}
+
+% ---
+
+
+% \input{planejamento}
+
+% ---
+
+% ---
+% Finaliza a parte no bookmark do PDF, para que se inicie o bookmark na raiz
+% ---
+\bookmarksetup{startatroot}% 
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+
+\bibliography{bibliography}
+
+\begin{apendicesenv}
+
+\input{7_codigo.tex}
+
+
+\input{6_artigo.tex}
+
+
+% \input{7_testes.tex}
+
+% \input{8_charm.tex}
+
+\end{apendicesenv}
+\end{document}
+\grid
+\grid

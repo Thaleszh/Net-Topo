@@ -1,0 +1,51 @@
+\chapter{Conclusão}
+\label{cap:conclusao}
+
+Uma distribuição de carga ciente de topologia pode melhorar o desempenho de uma aplicação por considerar latências de comunicação e efeitos de contenção.
+A obtenção de informações de topologia se dá através da coleta de informações dos sistemas em execução e troca de mensagens.
+As ferramentas para obtenção destas informações têm limitações e inadequações para o contexto de escalonamento e balanceamento de carga, dificultando seu uso.
+
+Neste trabalho foi desenvolvida a Net Topo, uma abstração de topologia que visa recolher e dispor informações da topologia de rede para uso em escalonamento e balanceamento de aplicações paralelas e distribuídas.
+Dentre diversas opções de estruturas de dados e representação de topologia, foi utilizado um CSC, uma matriz de distâncias opcional e uma lista de árvores.
+A abstração criada apresenta diversas informações de topologia e fornece funções de proximidade e distâncias, visando auxiliar o processo de distribuição de carga.
+A Net Topo também possui diversos mecanismos para sua inicialização, incluindo implementações manuais e importação de um aquivo de topologia em XML.
+
+Foi criado um adaptador para receber informações de inicialização e fazer uma ponte entre a abstração e o \textit{runtime} do \charm, permitindo utilizar a Net Topo junto ao módulo de balanceamento de carga presente na plataforma.
+Para comprovar a integração e avaliar o sobrecusto da abstração, foi comparado um balanceador de carga com sua versão modificado para utilizar a Net Topo.
+Apesar das execuções serem realizadas em baixa escala e em um ambiente pequeno, elas permitiram observar um sobrecusto de inicialização altamente compensado pelo arquivamento da topologia e pouca ou nenhuma mudança negativa nos tempos de execução do balanceador.
+Foram realizados testes unitários para comprovar o uso de funcionalidades que não foram abrangidas no balanceador, de maneira que possam ser utilizadas independente da forma de inicialização da estrutura.
+
+Por fim, foi implementado um gerador de topologias, avaliado o impacto da memoização e observado a escalabilidade da abstração.
+O dispositivo de memoização através de uma matriz completa não se mostrou escalável, gerando sobrecustos muito altos conforme o tamanho da topologia cresce.
+A função de proximidade se apresentou como constante e o restante das funções testadas demonstraram crescimento linear ou sublinear com o aumento no número de máquinas.
+
+% que problema esse trabalho trata
+% que solução foi apresentada
+% apresentar os resultados 
+% passar pelos objetivos 
+
+\section{Trabalhos Futuros}
+\label{sec:futuro}
+
+A execução deste trabalho criou uma série de oportunidades de trabalhos futuros. Segue uma lista de extensões, melhorias e avaliações cogitadas:
+\begin{itemize}
+    \item Realizar uma distribuição das estruturas de topologia de modo que não seja puramente replicada em cada nó e reduza o espaço utilizado em cada máquina, mas ainda mantenha a possibilidade de uma travessia de grafo para cálculo de \hops ou latência.
+    \item Modificar as estruturas da abstração para serem dinâmicas, possibilitando modificações e atualizações em uma topologia prévia, sem ter de reinicializá-la.
+    \item Implementar uma inicialização utilizando informações do \hwloc para a topologia de máquina e o \charm para a topologia de rede, retirando as imprecisões relacionadas a máquinas do \charm enquanto se mantém a automatização do processo.
+    \item Ampliar o gerador de topologias para a abstração, oferecendo casos de teste para uma gama maior de topologias.
+    \item Executar testes de sobrecusto com balanceadores em escalas maiores, avaliando o sobrecusto de outras funcionalidades da Net Topo e como essa se comporta em outros ambientes.
+    \item Buscar uma inicialização que contenha informações de latência entre pontos da rede, possivelmente utilizando \netloc.
+    \item Aplicar um mecanismo de normalização para relativizar as distâncias na topologia, as deixando mais representativas para mecanismos de escalonamento e balanceamento.
+    \item Produzir um mecanismo de agrupamento de regiões da rede, similar ao que foi feito para agrupamento de nós e máquinas, permitindo uma redução nos cálculos de distância e outro nível de proximidade, útil para redes no estilo \Dgfly que possuem partes da rede com latências distintas.
+    \item Investigar alternativas ao uso de uma memoização como matriz e avaliar seus benefícios. Como por exemplo um mecanismo de cache um ou um uso de caminhos pré calculados.
+\end{itemize}
+% distribuir estrutura de maneira não replicada
+% Dinamico
+% Inicializar com Hwloc + charm para melhores informações
+% Opção de retirar memoização
+% Geradores de topologia para ampliar os casos de teste e uso
+% agrupamento de rede
+
+% investigar uso de uma memoização parcial em vez de completa
+
+

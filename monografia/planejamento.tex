@@ -1,0 +1,298 @@
+
+\def\coordenador{Renato Cislaghi}
+\def\orientador{Vinicius Marino Calvo Torres de Freitas}
+\def\coorientador{Márcio Bastos Castro}
+\def\autor{Thales Alexandre Zirbel Hubner}
+
+
+\chapter{Planejamento}
+
+Este capítulo contém o planejamento do projeto onde cada parte do plano de gerenciamento se encontra em seções diferentes. A Seção \ref{sec:cronograma} apresenta as atividades planejadas e seu cronograma a ser seguido ao longo da realização deste trabalho. A Seção \ref{sec:rh} apresenta os recursos humanos envolvidos. A Seção \ref{sec:custos} indica os custos estimados para a execução do projeto. A Seção \ref{sec:comunicacao} dispõe o gerenciamento da comunicação entre as partes envolvidas. A Seção \ref{sec:riscos} apresenta os riscos identificados e suas respectivas estratégias.
+
+% ---
+\section{Cronograma}
+%\label{sec:cronograma}
+
+As atividades previstas no projeto estão descritas abaixo:
+
+\begin{itemize}
+	\item \textbf{A1: Estudo da fundamentação teórica.} Nesta parte inicial será realizada a revisão de artigos e materiais relacionados a computação paralela, topologia de rede e balanceamento de carga.
+	\item \textbf{A2: Familiarização com a plataforma charm++.} Processo de familiarização com a plataforma para programação paralela a ser utilizada.
+	\item \textbf{A3: Revisão do estado da arte e prática.} Nesta etapa será tratada a revisão do estado da arte envolvido no contexto do trabalho, a fim de  fortalecer a base do conhecimento necessária para a realização do mesmo.
+	\item \textbf{A4: Elaboração da proposta.} Nesta etapa será apresentada a proposta de solução do problema em questão, bem como suas estratégias de implementação.
+	\item \textbf{A5: Escrita do relatório do TCC I.} Nesta etapa será realizada a escrita do relatório do TCC I. A entrega deste documento está prevista para a quarta semana do mês de novembro.
+	\item \textbf{A6: Implementação da abstração da topologia de rede.} Nesta parcela será realizada a implementação da abstração proposta assim como a verificação do funcionamento desta.
+	\item \textbf{A7: Teste da abstração da topologia de rede.} Nesta parcela será realizada a verificação do funcionamento da abstração.
+	\item \textbf{A8: Desenvolvimento de um balanceador de carga.} Nesta etapa será efetuada o desenvolvimento de um balanceador de carga que utilize a abstração de rede criada.
+	\item \textbf{A9: Testes e comparações de desempenho.} Nesta etapa será efetuado testes de desempenho do balanceador de carga a a comparação deste com outros balanceadores existentes.
+	\item \textbf{A10: Escrita do rascunho do TCC II.} A escrita do rascunho do TCC II será realizada neste período. A entrega deste documento está prevista para a segunda semana do mês de maio.
+	\item \textbf{A11: Preparação da defesa pública.} Nesta etapa será realizada a preparação da apresentação oral e visual do conteúdo deste trabalho para a defesa pública.
+	\item \textbf{A12: Defesa pública.} Nesta etapa será realizada a defesa do projeto desenvolvido. Pretende-se realizar a defesa pública do trabalho na primeira semana do mês de junho.
+	\item \textbf{A13: Correções e entrega da versão final do TCC.} Nesta etapa serão realizadas as correções e os ajustes da monografia e a entrega final do documento. A entrega da versão final está prevista para a quarta semana do mês de junho.
+\end{itemize}
+
+A Figura~\ref{fig:cronograma} apresenta o cronograma previsto para a realização das atividades descritas anteriormente. As atividades estão distribuídas ao longo do primeiro e segundo semestres de 2018 e o primeiro semestre de 2019.
+
+% \begin{adjustwidth}{-2.5cm}{}
+  \begin{figure}[h]
+    \begin{center}
+     \begin{ganttchart}[
+       y unit title=0.4cm,
+       y unit chart=0.6cm,
+       hgrid,
+       vgrid={{dotted, dotted, dotted, black}},
+       title label font=\scriptsize,
+       title/.append style={fill=gray!30},
+       title height=1,
+       bar/.append style={fill=gray!30,rounded corners=2pt},
+       bar label font=\scriptsize,
+       group label font=\scriptsize,
+     ]{1}{30}
+     	\gantttitle{\textbf{2018}}{18}
+	 \gantttitle{\textbf{2019}}{12}\\
+	 	\gantttitle{\textbf{Abr}}{2}
+	 	\gantttitle{\textbf{Mai}}{2}
+	 	\gantttitle{\textbf{Jun}}{2}
+	 	\gantttitle{\textbf{Jul}}{2}
+	 	\gantttitle{\textbf{Ago}}{2}
+	 	\gantttitle{\textbf{Set}}{2}
+	 	\gantttitle{\textbf{Out}}{2}
+		\gantttitle{\textbf{Nov}}{2}						\gantttitle{\textbf{Dez}}{2}
+     \gantttitle{\textbf{Jan}}{2}
+	 \gantttitle{\textbf{Fev}}{2}
+	 \gantttitle{\textbf{Mar}}{2}
+	 \gantttitle{\textbf{Abr}}{2}
+	 \gantttitle{\textbf{Mai}}{2}
+	 \gantttitle{\textbf{Jun}}{2
+}\\
+     
+     \ganttbar{A1}{1}{6} \\
+     \ganttbar{A2}{2}{8} \\
+     \ganttbar{A3}{5}{7} \\
+     \ganttbar{A4}{5}{7} \\
+     \ganttbar{A5}{9}{16} \\
+     \ganttbar{A6}{9}{14} \\
+     \ganttbar{A7}{14}{16} \\
+     \ganttbar{A8}{16}{22} \\
+     \ganttbar{A9}{22}{26} \\
+     \ganttbar{A10}{24}{27} \\
+     \ganttbar{A11}{26}{29} \\
+     \ganttbar{A12}{29}{29} \\
+     \ganttbar{A13}{29}{30}
+     \end{ganttchart}
+%  \end{adjustwidth}
+     \caption{Cronograma de atividades.}%\label{fig:cronograma}
+  \end{center}
+\end{figure}
+% ---
+\begin{comment} 
+\section{Cronograma}
+\label{sec:cronograma}
+
+As atividades previstas no projeto estão descritas abaixo:
+
+\begin{itemize}
+	\item \textbf{A1: Implementação da abstração da topologia de rede.} Nesta parte do trabalho será implementado as estruturas e algoritmos para o funcionamento da abstração.
+	\item \textbf{A2: Desenvolvimento de uma interface da abstração de topologia utilizando a plataforma \charm.} A abstração será complementada com uma interface utilizando \charm.
+	\item \textbf{A3: Ajuste de um balanceador de carga para a prova de conceito.} Nesta etapa será modificado o balanceador de carga NeighborLB para que utilize a abstração utilizada, comprovando o funcionamento desta.
+	\item \textbf{A4: Escrita do rascunho do TCC II.} A escrita do rascunho do TCC II será realizada neste período. A entrega deste documento está prevista para a segunda semana do mês de maio.
+	\item \textbf{A5: Preparação da defesa pública.} Nesta etapa será realizada a preparação da apresentação oral e visual do conteúdo deste trabalho para a defesa pública.
+	\item \textbf{A6: Defesa pública.} Nesta etapa será realizada a defesa do projeto desenvolvido. Pretende-se realizar a defesa pública do trabalho na primeira semana do mês de junho.
+	\item \textbf{A7: Correções e entrega da versão final do TCC.} Nesta etapa serão realizadas as correções e os ajustes da monografia e a entrega final do documento. A entrega da versão final está prevista para a quarta semana do mês de junho.
+\end{itemize}
+
+A Figura~\ref{fig:cronograma} apresenta o cronograma previsto para a realização das atividades descritas anteriormente. As atividades estão distribuídas ao longo do fim de 2018 e o primeiro semestre de 2019.
+
+% \begin{adjustwidth}{-2.5cm}{}
+  \begin{figure}[h]
+    \begin{center}
+     \begin{ganttchart}[
+       y unit title=0.4cm,
+       y unit chart=0.6cm,
+       hgrid,
+       vgrid={{dotted, dotted, dotted, black}},
+       title label font=\scriptsize,
+       title/.append style={fill=gray!30},
+       title height=1,
+       bar/.append style={fill=gray!30,rounded corners=2pt},
+       bar label font=\scriptsize,
+       group label font=\scriptsize,
+     ]{1}{28}
+     	\gantttitle{\textbf{2018}}{4}
+	 \gantttitle{\textbf{2019}}{24}\\
+		\gantttitle{\textbf{Dez}}{4}
+     \gantttitle{\textbf{Jan}}{4}
+	 \gantttitle{\textbf{Fev}}{4}
+	 \gantttitle{\textbf{Mar}}{4}
+	 \gantttitle{\textbf{Abr}}{4}
+	 \gantttitle{\textbf{Mai}}{4}
+	 \gantttitle{\textbf{Jun}}{4
+}\\
+
+     \ganttbar{A1}{1}{7} \\
+     \ganttbar{A2}{7}{14} \\
+     \ganttbar{A3}{15}{16} \\
+     \ganttbar{A4}{17}{22} \\
+     \ganttbar{A5}{23}{26} \\
+     \ganttbar{A6}{26}{26} \\
+     \ganttbar{A7}{27}{28}
+     \end{ganttchart}
+%  \end{adjustwidth}
+     \caption{Cronograma de atividades.}\label{fig:cronograma}
+  \end{center}
+\end{figure}
+
+\end{comment}
+
+% ---
+\section{Recursos Humanos}
+\label{sec:rh}
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+    Papel & Nome \\ \hline
+    Orientador & \orientador \\ \hline
+    Coorientador & \coorientador \\ \hline
+    Coordenador & \coordenador \\ \hline
+    Membro da Banca I & \\ \hline
+    Membro da Banca II & \\ \hline
+    Autor & \autor \\ \hline
+\end{tabular}
+\end{center}
+% ---
+% ---
+\section{Custos}
+\label{sec:custos}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\multicolumn{6}{|c|}{Estimativas para Recursos Humanos} \\ \hline
+    Nome & Data Início & Data Fim & Hora/Mês & Valor/Hora & Custo Total \\ \hline
+    Autor & 01/04/2018 & 01/06/2019 & 40 & R\$ 15,00 & R\$ 8400,00 \\ \hline
+    Orientador & 01/04/2018 & 01/06/2019 & 4 & R\$ 20,00 & R\$ 1120,00 \\ \hline
+    Coorientador & 01/04/2018 & 01/06/2019 & 4 & R\$ 71,00 & R\$ 3976,00 \\ \hline
+    Coordenador & 01/04/2018 & 01/06/2019 & 1 & R\$ 102,00 & R\$ 1428,00 \\ \hline
+    Membro da Banca I & 01/05/2019 & 01/06/2019 & 1 & R\$ 60,00 & R\$ 60,00 \\ \hline
+    Membro da Banca II & 01/05/2019 & 01/06/2019 & 1 & R\$ 60,00 & R\$ 60,00 \\ \hline
+\multicolumn{5}{|l|}{Subtotal estimativas para recursos humanos} & R\$ 15044,00 \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    \multicolumn{6}{|c|}{Estimativas para Recursos Não Humanos} \\ \hline
+        Descrição & Data Início & Data Fim & Quantidade & Valor Unitário & Custo Total \\
+        \hline
+        Computador para uso & 04/18 & 06/19 & 1 & R\$ 2500,00 & R\$ 2500,00 \\ \hline
+        CDs para o código desenvolvido & 06/19 & 06/19 & 2 & R\$ 4,00 & R\$ 8,00 \\ \hline
+        Impressão para o relatório & 12/18 & 12/18 & 3 & R\$ 20,00 & R\$ 60,00 \\ \hline
+    \multicolumn{5}{|l|}{Subtotal estimativas para recursos não humanos} & R\$ 2568,00 \\
+    \hline
+    \end{tabular}
+}
+\end{center}
+% ---
+
+% ---
+\section{Comunicação}
+\label{sec:comunicacao}
+
+\begin{center}
+\begin{tabular}{|l|p{9cm}|}
+\hline
+    O que precisa ser comunicado & Reuniões periódicas com o Orientador e Coorientador\\ \hline
+    Emissor & \autor \\ \hline
+    Receptor & \orientador, \coorientador \\ \hline
+    Comunicação & Reuniões periódicas com o Orientador para acompanhamento do projeto\\ \hline
+    Forma de comunicação & Pessoalmente \\ \hline
+    Frequência ou Quando & Quinzenalmente \\ \hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|l|p{9cm}|}
+\hline
+    O que precisa ser comunicado & Entrega da Proposta \\ \hline
+    Emissor & \autor \\ \hline
+    Receptor & \coordenador \\ \hline
+    Comunicação & Entrega da proposta completa do TCC \\ \hline
+    Forma de comunicação & Sistema de TCC \\ \hline
+    Frequência ou Quando & Única vez \\ \hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|l|p{9cm}|}
+\hline
+    O que precisa ser comunicado & Entrega do Relatório em TCC I \\ \hline
+    Emissor & \autor \\ \hline
+    Receptor & \coordenador \\ \hline
+    Comunicação & Entrega da primeira parte da monografia \\ \hline
+    Forma de comunicação & Sistema de TCC \\ \hline
+    Frequência ou Quando & Única vez \\ \hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|l|p{9cm}|}
+\hline
+    O que precisa ser comunicado & Entrega da primeira versão da monografia completa em TCC II \\ \hline
+    Emissor & \autor \\ \hline
+    Receptor & \coordenador \\ \hline
+    Comunicação & Entrega da primeira versão da monografia completa \\ \hline
+    Forma de comunicação & Sistema de TCC \\ \hline
+    Frequência ou Quando & Única vez \\ \hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|l|p{9cm}|}
+\hline
+    O que precisa ser comunicado & Defesa do TCC \\ \hline
+    Emissor & \autor \\ \hline
+    Receptor & \orientador, \coorientador, Membro da Banca I, Membro da Banca II\\ \hline
+    Comunicação & Realização da defesa do TCC aos membros da banca.  \\ \hline
+    Forma de comunicação & Pessoalmente \\ \hline
+    Frequência ou Quando & Única vez \\ \hline
+\end{tabular}
+\end{center}
+
+
+\begin{center}
+\begin{tabular}{|l|p{9cm}|}
+\hline
+    O que precisa ser comunicado & Entrega da versão final da monografia \\ \hline
+    Emissor & \autor \\ \hline
+    Receptor & \coordenador \\ \hline
+    Comunicação & Entrega da monografia com os ajustes feitos após a defesa\\ \hline
+    Forma de comunicação & Sistema de TCC \\ \hline
+    Frequência ou Quando & Única vez \\ \hline
+\end{tabular}
+\end{center}
+% ---
+
+% ---
+\newpage
+\section{Riscos}
+\label{sec:riscos}
+
+\begin{center}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{|l|c|c|c|c|l|}
+    \hline
+        Nome & Probabilidade & Impacto & Exposição & 
+        Estratégia & Ações de Prevenção  \\ \hline
+        
+         \makecell[l]{Perda de arquivos} & Baixa & Alto & Média & Mitigar &\makecell[l]{ Realizar backups \\ com frequencia \\ semanal e utilizar \\ armazenamento \\ em nuvem.}  \\ \hline
+         \makecell[l]{Alteração no cronograma} & Baixa & Alto & Média & Aceitar &\makecell[l]{ - }  \\ \hline
+         \makecell[l]{Alteração no escopo} & Baixa & Alto & Média & Aceitar &\makecell[l]{ - }  \\ \hline
+         \makecell[l]{Problemas de saúde \\ do Orientando} & Média & Baixo & Baixa & Aceitar &\makecell[l]{ - } \\ \hline
+         \makecell[l]{Indisponibilidade do \\ Orientador/Coorientador} & Média & Médio & Média & Aceitar & -\\ \hline
+         \makecell[l]{Indisponibilidade da \\ plataforma para testes} & Média & Alto & Alta & Mitigar &\makecell[l] {Contato com  \\ responsáveis \\ pela plataforma \\ e agendamento \\ de execuções.} \\ \hline
+    \end{tabular}
+}
+\end{center}
